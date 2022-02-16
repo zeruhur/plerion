@@ -12,3 +12,4 @@ Sources of inspiration:
 - Jack Vance's Gaen Reach
 - Mass Effect
 - Becky Chambers's Wayfarer Series
+- David Brin's Uplift Series
