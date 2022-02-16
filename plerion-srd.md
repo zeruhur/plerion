@@ -205,7 +205,7 @@ Player Characters (PCs) have just three attributes:
   <summary>
 Expand For Example
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+ Aniet rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
 
 </details>
 
@@ -627,7 +627,7 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
   <summary>
 Expand For Example
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+_Aniet encounters a group of heavily-armed Combat Robots standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
 </details>
 
@@ -685,7 +685,7 @@ The referee will telegraph the most likely actions taken by NPCs or monsters. At
   <summary>
 Expand For Example
  </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+ _Aniet has accidentally stumbled onto the stomping grounds of a massive Black Destroyer. In order to make a move before the Destroyer, she makes a DEX save. She fails, and the Destroyer gets to attack first._
 </details>
 
 ### Attacking & Damage
@@ -695,7 +695,7 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
   <summary>
 Expand For Example
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the referee rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+ _The Black Destroyer roars, drawing its claws  and approaching Aniet, who has 5 HP. Claws do 1d6 damage and the referee rolls a 4. They subtract 1 to account for Aniet's light armor, leaving Aniet with 2 HP remaining_.
 </details>
 
 ### Multiple Attackers  
