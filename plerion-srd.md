@@ -427,12 +427,6 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Condemned   | 9   | Disowned    | 14  | Mutilated | 19  | Robbed    |
 | 5   | Unlucky     | 10  | Exiled      | 15  | Poor      | 20  | Suspected |
 
-## Character Traits
-
-
-
-
-
 ## Starting Gear (d20)
 
 #### Armor
@@ -592,8 +586,6 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Synthetic Mesh (2 Armor)                                        |        |
 | Tactical Body Armour (3 Armor, sealed)                          |        |
 
-{% comment %}
-
 #### Vehicles
 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
@@ -605,8 +597,6 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Jet Bike (Scale: character, Maneuvering 15/+5, Tactical N/A, Armour/Shields: 2/0, Hull: 6, Quality: 4)                                                                                                                               | 60,000  |
 | Riot Tank (Scale: vehicle, Maneuvering 11/+1, Tactical 12/+2, Armour/Shields: 15/5, Hull: 20, Quality: 6, Weapons: turret mounted railgun d10 dmg)                                                                                   | 210,000 |
 | Tracked Explorer (Scale: vehicle, Maneuvering 10/+0, Tactical 11/+1, Armour/Shields: 12/4, Hull: 25, Quality: 7)                                                                                                                     | 400,000 |
-
-{% /comment %}
 
 ## Living Expensens
 
@@ -676,34 +666,7 @@ Planets, space installations, and starports barter and trade based on the local 
 
 ## Psionics
 
-{% comment %} 
-    **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-
-    Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
-
-    Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
-
-    **Scrolls** are similar to Spellbooks, however:
-
-    - They do not take up an inventory slot.
-    - They do not cause fatigue.
-    - They disappear after one use.
-
-    ### Casting Spells
-    Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the referee may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
-
-    ### Artifacts
-    **Artifacts** are items imbued with a magical spell or power. They do not cause Fatigue. Artifacts usually have a limited use, as well as a recharge condition. A few examples:
-
-    **Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
-
-    **Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
-
-    **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
-
-    **Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
-
-{% /comment %} 
+TDB
 
 ## Combat
 
@@ -796,7 +759,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 ## Creatures
 
-
+TDB
 
 ### Creating Creatures
 Use the following template to model any more sophisticated Creature or NPC:
