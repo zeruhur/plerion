@@ -10,3 +10,8 @@ h1, h2, h3, h4, h5, h6 {
 body {
     font-family: $custom-font-family;
   }
+
+site-title {
+    font-family: $header-font-family !important;
+    text-transform: uppercase;
+}
