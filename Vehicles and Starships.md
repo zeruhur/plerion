@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ## Vehicles and Starships
 Vehicles and Starships are defined by the abilities:
 Maneuvering, Tactical, Hull, Armour & Shields,

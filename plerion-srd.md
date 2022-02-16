@@ -4,11 +4,9 @@ title: SRD
 nav_order: 2
 ---
 
-# Plerion System Reference Document (v.1.0)
+# Plerion System Reference Document (v.0.1)
 
-<p></p>
-
-**Plerion** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and derives from [**Cairn**](https://cairnrpg.com) by Yochai Gal and Spacer (CC BY 4.0 by Paul Umbers), a Ben Milton's [Knave]() hack.  
+**Plerion** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and derives from [**Cairn**](https://cairnrpg.com) by Yochai Gal and [Spacer](https://3rddog.itch.io/spacer-v2) (CC BY 4.0 by Paul Umbers).
 
 
 **Plerion** is an adventure game for one **referee** and at least one other player.
@@ -18,11 +16,16 @@ Players act as hardened spacers exploring, exploiting and commerce through the v
 - [Overview](#overview)
 - [Principles for referees](#principles-for-referees)
 - [Principles for Players](#principles-for-players)
+- [Principles of the Universe](#principles-of-the-universe)
 - [Character Creation](#character-creation)
-- [Equipment](#equipment-list-prices-in-gold-pieces)
+- [Equipment](#equipment)
 - [Rules](#rules)
-- [Bestiary](#bestiary)
-- [100 Spells](#100-spells)
+- [Psionics](#)
+- [Cybernetics](#)
+- [Vehicles and Starships](#)
+- [Spacefaring Adventures](#)
+- [Worlds & Systems](#)
+- [Creatures](#creatures)
 - [Rules Summary](#rules-summary)
 
 
@@ -55,7 +58,7 @@ The referee and the players each have guidelines that help foster a specific pla
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
 [back to index](#index)
-<p></p>
+
 
 ## Principles for referees
 ### Information
@@ -105,7 +108,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
 [back to index](#index)
-<p></p>
+
 
 ## Principles for Players
 ### Agency
@@ -140,7 +143,51 @@ Players trust one another to engage with the shared setting, character goals, an
 - Keep things moving forward and play to see what happens.
 
 [back to index](#index)
-<p></p>
+
+## Principles of the Universe
+
+### Space is vast & dangerous
+- The sidereal space is vast, impossible to cross without the appropriate means.
+- Out there you are almost always alone, in case of trouble nobody is likely to help you.
+- Alien creatures, pathogens and unfamiliar technology are the order of the day in uncharted regions.
+
+### Charted Space is not so well-known
+- There are five galaxies in the Charted Space.
+- There are billions of unknown system in there ready to be explored (and exploited).
+- Mapping space is profitable: governments and organizations are willing to pay well for data on new targets and territories.
+
+### Fast travel is possible
+- The discovery of *oddspace* opened the door to interstellar travel, at 1 parsec/hour.
+- Natural and artificial wormholes are used to reduce the time between *clusters*.
+- The Charted Space is dotted with military, commercial and industrial stations that form the nodes of the travel network.
+
+### Humans are not alone
+- Humans are not the only species out there nor the most prominent one.
+- Extinct species have left deep traces, such as artifacts and lost technology, usually found in ruins.
+- Some species are as old as galaxies and still active and present.
+
+### Great empires exist
+- Empires (federations, commonwealths, etc.) are vast multi-species entities covering large portions of the galaxies.
+- Their influence is great especially on small independent nations.
+- Territorial claims are often disputed and cause conflict. Frontiers are risky but profitable places.
+
+### Technology level is variable
+- Technology is not all at the same level in Charted Space
+- It varies by country/species, but also from core to fringe of each one.
+- Exporting advanced technology is profitable but can cause severe problems.
+
+### Interspecies relationships are complex
+- The species of known space are amalgamated in a precarious multiculturalism that generates both growth and conflict.
+- Cosmopolitanism is a dominant trait of empires, distrust or xenophobia of smaller nations.
+- Spacers are usually open and welcoming and have no problem working with people of other species.
+
+### Profits are risky
+- Spacers have different ways of making profit, but all of them are risky.
+- Paramilitary and mercenary missions are a great source of income.
+- Interstellar trade, search for artifacts, or exploration missions are another common activity of spacers.
+
+
+[back to index](#index)
 
 ## Character Creation
 
@@ -164,7 +211,7 @@ Expand For Example
 </details>
 
 ### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](#scars-table) table.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
@@ -188,7 +235,7 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
 
-<p></p>
+
 
 ## Name (d20)
 
@@ -385,7 +432,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 
 
-<p></p>
+
 
 ## Starting Gear (d20)
 
@@ -487,19 +534,19 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Crossbow (d8 damage, bulky)                                          | 60    |
 | Dagger, Cudgel, Sickle, Staff, etc (4 x d8 damage)                   | 5     |
 | Electrowhip (d6 damage, stun)                                        | 200   |
-| EMP Grenade (4 x d8 damage, area, electronics only)                  | 20    |
+| EMP Grenade (4 x d8 damage, blast, electronics only)                  | 20    |
 | Energy Pistol (d8 damage)                                            | 150   |
 | Energy Rifle (3 x d10 damage, bulky)                                 | 200   |
 | Energy Support Weapon (3 x d20 damage, bulky, auto-fire)             | 380   |
 | Flechette Pistol (d6 damage, silent)                                 | 200   |
 | Flechette Rifle (d8 damage, bulky, silent)                           | 300   |
 | Force Sword (d20 damage, rare)                                       | N/A   |
-| Frag Grenade (4 x d10 damage, area)                                  | 10    |
+| Frag Grenade (4 x d10 damage, blast)                                  | 10    |
 | Grenade Launcher (add grenade to any rifle or support weapon)        | 150   |
 | Gyrojet Pistol (d10 damage, recoilless)                              | 500   |
 | Gyrojet Rifle (d12 damage, bulky, recoilless)                        | 1,300 |
 | Halberd, War Hammer, Long Sword, Battle Axe, etc (d10 damage, bulky) | 20    |
-| Incinerator (2 x d8 damage, bulky, area)                             | 65    |
+| Incinerator (2 x d8 damage, bulky, blast)                             | 65    |
 | Man-Portable Missile (6 x d10 damage, bulky                          | 8,000 |
 | Monofilament Blade (d12 damage)                                      | 2,500 |
 | Mortar (4 x d10 damage, bulky, indirect)                             | 200   |
@@ -512,11 +559,11 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Shotgun (d8 damage, bulky)                                           | 60    |
 | Silencer (add to any ranged projectile weapon, silent)               | 150   |
 | Smartgun Link (add to any ranged weapon, +1 damage)                  | 500   |
-| Smoke Grenade (1 damage, area)                                       | 15    |
+| Smoke Grenade (1 damage, blast)                                       | 15    |
 | Spear, Sword, Mace, Axe, Flail, etc (d8 damage)                      | 10    |
 | Staff (d8 damage)                                                    | 50    |
 | Stun Baton (d6 damage, stun)                                         | 100   |
-| Stun Grenade (4 x d8 damage, area, stun)                             |       |
+| Stun Grenade (4 x d8 damage, blast, stun)                             |       |
 | Stun Pistol (d8 damage, stun)                                        | 160   |
 | Stun Rifle (d10 damage, bulky, stun)                                 | 300   |
 
@@ -546,6 +593,8 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Synthetic Mesh (2 Armor)                                        |        |
 | Tactical Body Armour (3 Armor, sealed)                          |        |
 
+{% comment %}
+
 #### Vehicles
 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
@@ -557,6 +606,20 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Jet Bike (Scale: character, Maneuvering 15/+5, Tactical N/A, Armour/Shields: 2/0, Hull: 6, Quality: 4)                                                                                                                               | 60,000  |
 | Riot Tank (Scale: vehicle, Maneuvering 11/+1, Tactical 12/+2, Armour/Shields: 15/5, Hull: 20, Quality: 6, Weapons: turret mounted railgun d10 dmg)                                                                                   | 210,000 |
 | Tracked Explorer (Scale: vehicle, Maneuvering 10/+0, Tactical 11/+1, Armour/Shields: 12/4, Hull: 25, Quality: 7)                                                                                                                     | 400,000 |
+
+{% /comment %}
+
+## Living Expensens
+
+|           |              |
+| --------- | ------------ |
+| Poor      | 400/month    |
+| Low       | 1,000/month  |
+| Average   | 1,200/month  |
+| Good      | 1,500/month  |
+| High      | 2,000/month  |
+| Rich      | 5,000/month  |
+| Ludicrous | 20,000/month |
 
 ## Rules
 ### Abilities
@@ -588,56 +651,60 @@ PCs can also gain Fatigue by **casting spells** or through events in the fiction
 
 ### Armor
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
+No one can have more than 5 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the referee may roll 2d6 and consult the following table:
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
+|         |      |         |      |         |
+|:-------:|:----:|:-------:|:----:|:-------:|
+|    2    |  3-5 |   6-8   | 9-11 |    12   |
 | Hostile | Wary | Curious | Kind | Helpful |
 
 ### Morale
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Assistants
-PCs can hire **Assistants** to aid them in their expeditions. To create an Assistant, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Assistants cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+PCs can hire **Assistants** to aid them in their expeditions. To create an Assistant, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Assistants cost between 1-3sc per day, or a share of whatever Reward the party obtains.
 
-### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### Wealth & Reward
+Everything costs credits, everyone gets paid in credits. One credits is equivalent to a one copper piece in **Cairn**.
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+The Reward is what pushes the spacers to adventure, often out of necessity (pay the expenses, make a living), other times for prestige or mere sake of adventure. It can be a lure, taking PCs to exotic and even dangerous locations, by confronting them with intimidating foes.
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Planets, space installations, and starports barter and trade based on the local rarity and value of an item or commodity.
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Psionics
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
+{% comment %} 
+    **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+    Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
 
-**Scrolls** are similar to Spellbooks, however:
+    Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
 
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+    **Scrolls** are similar to Spellbooks, however:
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the referee may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+    - They do not take up an inventory slot.
+    - They do not cause fatigue.
+    - They disappear after one use.
 
-### Artifacts
-**Artifacts** are items imbued with a magical spell or power. They do not cause Fatigue. Artifacts usually have a limited use, as well as a recharge condition. A few examples:
+    ### Casting Spells
+    Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the referee may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+    ### Artifacts
+    **Artifacts** are items imbued with a magical spell or power. They do not cause Fatigue. Artifacts usually have a limited use, as well as a recharge condition. A few examples:
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+    **Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+    **Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+    **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+
+    **Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+
+{% /comment %} 
 
 ## Combat
 
@@ -681,7 +748,7 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
 ### Blast  
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Attacks with the **blast** quality affect all targets in the noted blast, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
 ### Critical Damage
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
@@ -693,7 +760,7 @@ If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are 
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
 ### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars Table**](#scars-table) table for more.
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of an Assistant. They immediately join the party in order to reduce downtime.
@@ -707,7 +774,7 @@ Attacks against individuals by detachments are **enhanced** and deal blast damag
 ### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-### Scars
+### Scars Table
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
@@ -726,44 +793,14 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
 [back to index](#index)
-<p></p>
 
-## Bestiary
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+## Creatures
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
 
-**Cobblehounds**  
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
-
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
-
-**Boggart**  
-3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes Artifacts and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
-
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+### Creating Creatures
+Use the following template to model any more sophisticated Creature or NPC:
 
 **Name**
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
@@ -793,116 +830,7 @@ Some pointers:
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 [back to index](#index)
-<p></p>
 
-## 100 Spells
-
-|      |                       |                                                              |
-| ---- | --------------------- | ------------------------------------------------------------ |
-| 1    | **Adhere**            | An object is covered in extremely sticky slime.              |
-| 2    | **Anchor**            | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | **Animate Object**    | An object obeys your commands as best it can.                |
-| 4    | **Anthropomorphize**  | An animal either gains human intelligence or human appearance for one day. |
-| 5    | **Arcane Eye**        | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | **Astral Prison**     | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | **Attract**           | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | **Auditory Illusion** | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | **Babble**            | A creature must loudly and clearly repeat everything you think It is otherwise mute. |
-| 10   | **Bait Flower**       | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | **Beast Form**        | You and your possessions transform into a mundane animal.    |
-| 12   | **Befuddle**          | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | **Body Swap**         | You switch bodies with a creature you touch If one body dies, the other dies as well. |
-| 14   | **Charm**             | A creature you can see treats you as a friend.               |
-| 15   | **Command**           | A target obeys a single three-word command that does not cause it harm. |
-| 16   | **Comprehend**        | You become fluent in all languages for a short while.        |
-| 17   | **Cone of Foam**      | Dense foam sprays from your hand, coating the target.        |
-| 18   | **Control Plants**    | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | **Control Weather**   | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | **Cure Wounds**       | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | **Deafen**            | All nearby creatures are deafened.                           |
-| 22   | **Detect Magic**      | You can see or hear nearby magical auras.                    |
-| 23   | **Disassemble**       | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | **Disguise**          | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |
-| 25   | **Displace**          | An object appears to be up to 15ft from its actual position. |
-| 26   | **Earthquake**        | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | **Elasticity**        | Your body can stretch up to 10ft.                            |
-| 28   | **Elemental Wall**    | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | **Filch**             | A visible item teleports to your hands.                      |
-| 30   | **Flare**             | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | **Fog Cloud**         | A dense fog spreads out from you.                            |
-| 32   | **Frenzy**            | A nearby creature erupts in a frenzy of violence.            |
-| 33   | **Gate**              | A portal to a random plane opens.                            |
-| 34   | **Gravity Shift**     | You can change the direction of gravity, but only for yourself. |
-| 35   | **Greed**             | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | **Haste**             | Your movement speed is tripled.                              |
-| 37   | **Hatred**            | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | **Hear Whispers**     | You can hear faint sounds clearly.                           |
-| 39   | **Hover**             | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | **Hypnotize**         | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | **Icy Touch**         | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | **Identify Owner**    | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | **Illuminate**        | A floating light moves as you command.                       |
-| 44   | **Invisible Tether**  | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | **Knock**             | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | **Leap**              | You jump up to 10ft high, once.                              |
-| 47   | **Liquid Air**        | The air around you becomes swimmable .                       |
-| 48   | **Magic Dampener**    | All nearby magical effects have their effectiveness halved.  |
-| 49   | **Manse**             | A sturdy, furnished cottage appears for hours You can permit and forbid entry to it at will. |
-| 50   | **Marble Craze**      | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | **Masquerade**        | A characters appearance and voice becomes identical to those of a character you touch. |
-| 52   | **Miniaturize**       | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | **Mirror Image**      | An illusory duplicate of yourself appears and is under your control. |
-| 54   | **Mirrorwalk**        | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | **Multiarm**          | You temporarily gain an extra arm.                           |
-| 56   | **Night Sphere**      | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | **Objectify**         | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | **Ooze Form**         | You become a living jelly.                                   |
-| 59   | **Pacify**            | A creature near you has an aversion to violence.             |
-| 60   | **Phobia**            | A nearby creature becomes terrified of an object of your choice. |
-| 61   | **Pit**               | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | **Primal Surge**      | A creature rapidly evolves into a future version of its species. |
-| 63   | **Push/Pull**         | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | **Raise Dead**        | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | **Raise Spirit**      | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | **Read Mind**         | You can hear the surface thoughts of nearby creatures.       |
-| 67   | **Repel**             | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | **Scry**              | You can see through the eyes of a creature you touched earlier today. |
-| 69   | **Sculpt Elements**   | Inanimate material behaves like clay in your hands.          |
-| 70   | **Sense**             | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | **Shield**            | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | **Shroud**            | A creature you touch is invisible until they move.           |
-| 73   | **Shuffle**           | Two creatures you can see instantly switch places.           |
-| 74   | **Sleep**             | A creature you can see falls into a light sleep.             |
-| 75   | **Slick**             | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | **Smoke Form**        | Your body becomes a living smoke that you can control.       |
-| 77   | **Sniff**             | You can smell even the faintest traces of scents.            |
-| 78   | **Snuff**             | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | **Sort**              | Inanimate items sort themselves according to categories you set. |
-| 80   | **Spectacle**         | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | **Spellsaw**          | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | **Spider Climb**      | You can climb surfaces like a spider.                        |
-| 83   | **Summon Cube**       | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
-| 84   | **Swarm**             | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
-| 85   | **Telekinesis**       | You may mentally 1 move item under 60lbs.                    |
-| 86   | **Telepathy**         | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | **Teleport**          | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | **Target Lure**       | An object you touch becomes the target of any nearby spell.  |
-| 89   | **Thicket**           | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | **Summon Idol**       | A carved stone statue the size of a mule rises from the ground. |
-| 91   | **Time Control**      | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | **True Sight**        | You see through all nearby illusions.                        |
-| 93   | **Upwell**            | A spring of seawater appears.                                |
-| 94   | **Vision**            | You completely control what a creature sees.                 |
-| 95   | **Visual Illusion**   | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | **Ward**              | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | **Web**               | Your wrists shoot thick webbing.                             |
-| 98   | **Widget**            | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | **Wizard Mark**       | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | **X-Ray Vision**      | You can see through walls, dirt, clothing, etc.              |                                            
-
-
-[back to index](#index)
-<p></p>
 
 # Rules Summary
 
@@ -948,10 +876,10 @@ No one can have more than 3 Armor.
 
 **Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all blast targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](/cairn-srd#scars-1) table.
+If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.
 
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
