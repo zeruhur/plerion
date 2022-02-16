@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;400;500;600;700;800;900&family=Orbitron:wght@400;500;600;700;800;900&display=swap');
 
-$body-font-family: 'Lexend', -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+$body-font-family: 'Lexend', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $header-font-family: 'Orbitron', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",  Roboto, "Helvetica Neue", Arial, sans-serif !default;
 
 h1, h2, h3, h4, h5, h6 {
