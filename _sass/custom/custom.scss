@@ -6,3 +6,11 @@ $header-font-family: 'Orbitron', system-ui, -apple-system, BlinkMacSystemFont, "
 h1, h2, h3, h4, h5, h6 {
     font-family: $header-font-family !important;
 }
+
+body {
+    font-family: $body-font-family;
+    font-size: inherit;
+    line-height: $body-line-height;
+    color: $body-text-color;
+    background-color: $body-background-color;
+  }
