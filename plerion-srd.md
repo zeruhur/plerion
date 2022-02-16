@@ -586,18 +586,6 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Synthetic Mesh (2 Armor)                                        |        |
 | Tactical Body Armour (3 Armor, sealed)                          |        |
 
-#### Vehicles
-
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| Battlemaster Walker (Scale: starship, Maneuvering 12/+2, Tactical 16/+6, Armour/Shields: 40/20, Hull: 60, Quality: 8, Point Defence, Weapons: 2  arm-mounted Railguns 4 x d10 dmg each, 2 shoulder-mounted Missiles 2 x d8 dmg each) | 2.6m    |
-| Combat Walker (Scale: starship, Maneuvering 12/+2, Tactical 14/+4, Armour/Shields: 20/10, Hull: 40, Quality: 8,Weapons: 2 turret-mounted Laser Cannons 2 x d10 dmg each, shoulder-mounted Rockets d10 dmg)                           | 800,000 |
-| Grav Flyer (Scale: vehicle, Maneuvering 14/+4, Tactical N/A, Armour/Shields: 8/2, Hull: 15, Quality: 5)                                                                                                                              | 120,000 |
-| Groundcar (Scale: character, Maneuvering 13/+3, Tactical N/A, Armour/Shields: 4/0, Hull: 10, Quality: 4)                                                                                                                             | 40,000  |
-| Half Track ATV (Scale: vehicle, Maneuvering 10/+0, Tactical N/A, Armour/Shields: 10/3, Hull: 20, Quality: 6, Cargo Bay, Life Support)                                                                                                | 200,000 |
-| Jet Bike (Scale: character, Maneuvering 15/+5, Tactical N/A, Armour/Shields: 2/0, Hull: 6, Quality: 4)                                                                                                                               | 60,000  |
-| Riot Tank (Scale: vehicle, Maneuvering 11/+1, Tactical 12/+2, Armour/Shields: 15/5, Hull: 20, Quality: 6, Weapons: turret mounted railgun d10 dmg)                                                                                   | 210,000 |
-| Tracked Explorer (Scale: vehicle, Maneuvering 10/+0, Tactical 11/+1, Armour/Shields: 12/4, Hull: 25, Quality: 7)                                                                                                                     | 400,000 |
-
 ## Living Expensens
 
 |           |              |
