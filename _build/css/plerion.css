@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;400;500;600;700;800;900&family=Orbitron:wght@400;500;600;700;800;900&display=swap');
 
+@page {
+  size: 5.5in 8.5in; /* Change from the default size of A4 */
+  margin: 0.5in; /* Set margin on each page */
+}
+
 table, tr, td, th, tbody, thead, tfoot {
     page-break-inside: avoid !important;
 }
@@ -8,55 +13,27 @@ table, tr, td, th, tbody, thead, tfoot {
     page-break-before: always;
 }
 
-
-/**
- * Layout
- */
 html {
-  overflow-y: scroll;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
+  font-size: 8pt;
 }
 
 body {
-  padding: 1em;
+  /* padding: 1em;
   margin: auto;
-  max-width: 42em;
+  max-width: 42em; */
+  margin: 0;
   font-family: 'Lexend';
+  columns: 2;
 }
 
 h1, h2, h3, h4, h5, h6, th {
     font-family: 'Orbitron';
     text-transform: uppercase;
 }
-/* 
-p, ul {
-    /* You *must* define a fixed height which is
-        large enough to fit the whole content,
-        otherwise the layout is unpredictable. */
-        /* height: 28em;*/
-        /* Width and count aren't respected, but you
-            have to give at least some dummy value (??). */
-/*         -webkit-columns: 0 0;*/
-        /* This is the strange way to define the number of columns:
-            50% = 2 columns, 33% = 3 columns 25% = 4 columns */
-/*         width: 50%; */
-        /* Gap and rule do work. */
-/*         -webkit-column-gap: 2em;*/
-        /* -webkit-column-rule: 1px solid black; */
-/*         text-align: justify;
-}*/
-/* Anchors in headers */
-a.headerlink {
-    font-size: 0.8em;
-    color: #fff;
-    text-decoration: none;
-    font-weight: normal;
-    padding-left: .3em;
+h1, table {
+  column-span: all;
 }
-a.headerlink:hover {
-    color: #888;
-}
+
 /**
  * Tables
  */
@@ -71,7 +48,7 @@ table {
 }
 table th {
   font-weight: bold;
-  background: #252525;
+  background: #000;
   color: #fff;
 }
 table th, table td {
@@ -85,10 +62,7 @@ table tr {
 table tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
-/* Specific japanese style, for the bestiary */
-#mi-yi-zhou-wen ~ table {
-    word-break: normal;
-}
+
 th em {
     font-family: 'Lexend';
 }
@@ -96,10 +70,7 @@ p, blockquote, ul, ol, dl, table, pre {
   margin-top: 0;
   margin-bottom: 16px;
 }
+
 a, a:hover {
     color: #000;
-}
-footer {
-    font-size: small;
-    border-top: 1px solid #444;
 }
