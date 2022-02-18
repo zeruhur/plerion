@@ -1,6 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: Plerion RPG
 color_scheme: plerion
+exclude: _build
 
 # Define Jekyll collections
 collections:
