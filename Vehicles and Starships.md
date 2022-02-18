@@ -2,6 +2,14 @@
 nav_exclude: true
 ---
 
+INTegrity
+MANeuverability
+SYStems 
+
+Hull Points
+Strain
+Load
+
 ## Vehicles and Starships
 Vehicles and Starships are defined by the abilities:
 Maneuvering, Tactical, Hull, Armour & Shields,
