@@ -8,6 +8,9 @@ collections:
   build:
     permalink: "/:collection/:path/"
     output: true
+  pages:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -15,10 +18,12 @@ just_the_docs:
     # Reference the "docs" collection
     build:
       # Give the collection a name
-      name: building folder
+      name: Build
       # Exclude the collection from the navigation
       # Supports true or false (default)
       nav_exclude: true
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: true
+    pages:
+      name: Pages
