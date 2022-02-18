@@ -196,13 +196,8 @@ Finally, roll for their **age** (2d20+10).
 Player Characters (PCs) have just three attributes:  
 **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- Aniet rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
-
-</details>
+> **Example**  
+  Aniet rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
 
 ### Hit Protection  
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](#scars-table) table.
@@ -228,8 +223,6 @@ Roll once on each of the **Starting Gear** tables to determine your PC's armor, 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
 If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
-
-
 
 ## Name (d20)
 
@@ -609,13 +602,8 @@ Each of the three **abilities** are used in different circumstances (see **saves
 ### Saves
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
-_Aniet encounters a group of heavily-armed Combat Robots standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
-
-</details>
+> **Example**  
+  _Aniet encounters a group of heavily-armed Combat Robots standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
 ### Healing
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
@@ -667,22 +655,14 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 ### Turns
 The referee will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _Aniet has accidentally stumbled onto the stomping grounds of a massive Black Destroyer. In order to make a move before the Destroyer, she makes a DEX save. She fails, and the Destroyer gets to attack first._
-</details>
+> **Example**  
+  _Aniet has accidentally stumbled onto the stomping grounds of a massive Black Destroyer. In order to make a move before the Destroyer, she makes a DEX save. She fails, and the Destroyer gets to attack first._
 
 ### Attacking & Damage
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
 
-<details markdown="block">
-  <summary>
-Expand For Example
- </summary>
- _The Black Destroyer roars, drawing its claws  and approaching Aniet, who has 5 HP. Claws do 1d6 damage and the referee rolls a 4. They subtract 1 to account for Aniet's light armor, leaving Aniet with 2 HP remaining_.
-</details>
+> **Example**  
+   _The Black Destroyer roars, drawing its claws  and approaching Aniet, who has 5 HP. Claws do 1d6 damage and the referee rolls a 4. They subtract 1 to account for Aniet's light armor, leaving Aniet with 2 HP remaining_.
 
 ### Multiple Attackers  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
