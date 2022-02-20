@@ -1,13 +1,23 @@
 ---
 nav_exclude: true
 ---
+speed = 1psc/hour
+fuel = 10/barrel
 
-INTegrity
-MANeuverability
-SYStems 
+
+# Vehicles & Starships
+
+Like creature, vehicles have three **abilities** used to **save**.
+
+**Integrity (INT)**: General stability, used to crash safely, smash through things, and resist Critical Damage. Equivalent to STR for creatures.
+
+**Maneuvering (MAN)**: Ability to move, speed up, dodge, and stunts. Equivalent to DEX for creatures.
+
+**Systems (SYS)**: Wirings, computers and sensors. Used to calculate routes, scan objects, and hacking. Equivalent to WIL for creatures.
 
 Hull Points
-Strain
+Armour
+Overload --> deactivate system until repaired
 Load
 
 ## Vehicles and Starships
@@ -16,52 +26,8 @@ Maneuvering, Tactical, Hull, Armour & Shields,
 Quality, and Systems.
 
 ### Maneuvering
-Some vehicles are capable of incredible speed
-and maneuvers while others look like a fish, move
-like a fish and steer like a cow. In game terms this
-is represented by a vehicle’s Maneuvering ability.
-Maneuvering limits the pilots Dexterity when they
-try to maneuver the ship quickly or are dodging incoming
-weapons fire. A Maneuvering Save uses
-either the pilot’s Dexterity or the vehicle’s Maneuvering,
-whichever is the lowest.
+Maneuvering represents the vehicle's ability to slip through the stars and it is the equivalent to DEX for creatures.
 
-### Tactical
-Firing weapons against incredibly fast moving targets
-is not an easy task so most combat vehicles
-have a Tactical system to assist gunners and pilots
-hit their enemies. In game terms this is represented
-by a vehicle’s Tactical ability. This effectively
-limits the Wisdom used by anyone firing
-mounted weapons on said vehicle or starship.
-
-### Attacking
-Whenever a gunner tries to shoot an enemy vehicle
-with their own vehicle mounted weapons they
-must make a Tactical Save using either their Wisdom
-or the vehicle’s Tactical, whichever is the
-lowest, rolled against the target pilot’s Dexterity or
-their vehicle’s Maneuvering, whichever is the lowest.
-Alternatively, the defending vehicle’s pilot can
-make a Maneuvering Save against the attackers
-Tactical or Wisdom using either their Dexterity or
-their vehicle’s Maneuvering, whichever is lowest.
-
-Example: Duke Starkiller (Dexterity 16/+6) in his
-V-wing fighter (Maneuvering 13/+3, Tactical 14/+4)
-is being fired upon by Garth Madeup (Wisdom
-17/+7) in his Twin-Turbine Fighter (Maneuvering
-13/+3, Tactical 15/+5). When Garth fires, he
-makes a Wisdom Save at +5 (his +7 Wisdom
-bonus limited by his fighter’s +5 Tactical ability)
-against Duke’s fighter’s Maneuvering of 13 (which
-is less than Duke’s Dexterity of 16).
-
-Example: Alternatively, when Garth attacks, Duke
-could roll a save at +3, using the lower of his +6
-Dexterity bonus and the fighter’s Maneuvering
-bonus of +3, against Garth’s fighter’s Tactical Defence
-of 15 to dodge the attack.
 
 ### Weapons
 There are so many different types of vehicle and
