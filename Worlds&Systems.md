@@ -42,3 +42,12 @@ digraph G {
     d -> f
 }
 ```
+| Spectral Type | Color        | Temperature Range   | Prevalence of among Main Sequence Stars | Examples              |
+|               |              |                     |                                         |                       |
+| O             | Blue-violet  | >30,000 K           | 0.00003%                                | Stars of Orion's Belt |
+| B             | Blue-white   | 10,000 K - 30,000 K | 0.13%                                   | Rigel                 |
+| A             | White        | 7,500 K - 10,000 K  | 0.6%                                    | Sirius                |
+| F             | Yellow-white | 6,000 K - 7,500 K   | 3%                                      | Polaris               |
+| G             | Yellow       | 5,000 K - 6,000 K   | 7.6%                                    | Sun                   |
+| K             | Orange       | 3,500 K - 5000 K    | 12.1%                                   | Arcturus              |
+| M             | Red-orange   | <3,500 K            | 76.5%                                   | Proxima Centauri      |
