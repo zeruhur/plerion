@@ -11,7 +11,7 @@ Normal space is subdivided into 10pc-sided cubes, called sub-sectors.
 
 Below is the conventional scale in which the Charted Space is subdivided:
 - **Sub-sector**: A region of 10pc<sup>3</sup> space in which there are several star systems.
-- **Sector**: A region of 100pc<sup>3</sup> space or 100 sub-sectors. 
+- **Sector**: A region of 100pc<sup>3</sup> space or 1000 sub-sectors. 
 - **Cluster**: Aggregation of 2 or more sectors, usually defined by political entities.
 - **Quadrant**: A quarter of a galaxy, containing several territories each.
 
