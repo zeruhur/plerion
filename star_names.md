@@ -9,6 +9,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 ## Group 1
 
 ### List 1
+
 | D66 | 1         | 2           | 3          | 4           | 5           | 6         |
 | --- | --------- | ----------- | ---------- | ----------- | ----------- | --------- |
 | 1   | Altan     | Acrabih     | Chedar     | Asterops    | Porrimacent | Rukbatena |
@@ -19,6 +20,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Neschabi  | Pleionea    | Thaldib    | Zanin       | Mirfar      | Sadachium |
 
 ### List 2
+
 | D66 | 1         | 2          | 3        | 4           | 5         | 6       |
 | --- | --------- | ---------- | -------- | ----------- | --------- | ------- |
 | 1   | Ashleshat | Capellum   | Leshat   | Zubeneshmet | Minchira  | Alchird |
@@ -29,6 +31,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Hasich    | Phernar    | Acrabit  | Alphara     | Cellum    | Zubens  |
 
 ### List 3
+
 | D66 | 1         | 2           | 3          | 4       | 5         | 6           |
 | --- | --------- | ----------- | ---------- | ------- | --------- | ----------- |
 | 1   | Pollus    | Alpherrakis | Alpherami  | Gorgone | Shelik    | Proxima     |
@@ -39,6 +42,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Denelgubi | Phard       | Alsuud     | Celava  | Mesath    | Saipheratz  |
 
 ### List 4
+
 | D66 | 1          | 2        | 3           | 4         | 5           | 6         |
 | --- | ---------- | -------- | ----------- | --------- | ----------- | --------- |
 | 1   | Matares    | Bahasich | Alpha       | Cynosurah | Alhaut      | Gomeisam  |
@@ -49,6 +53,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Astor      | Scelava  | Aldun       | Celbarich | Zauri       | Lesat     |
 
 ### List 5
+
 | D66 | 1           | 2           | 3         | 4         | 5         | 6           |
 | --- | ----------- | ----------- | --------- | --------- | --------- | ----------- |
 | 1   | Deneshmet   | Zubenetnash | Errim     | Ruchbia   | Procyonea | Sadalmeliak |
@@ -59,6 +64,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Errimachium | Alshaula    | Bellatria | Aldhib    | Alsham    | Bellath     |
 
 ### List 6
+
 | D66 | 1        | 2        | 3           | 4           | 5          | 6           |
 | --- | -------- | -------- | ----------- | ----------- | ---------- | ----------- |
 | 1   | Hezen    | Mergas   | Chedaron    | Acamali     | Brach      | Miracheat   |
@@ -71,6 +77,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 ## Group 2
 
 ### List 1
+
 | D66 | 1          | 2           | 3        | 4           | 5          | 6          |
 | --- | ---------- | ----------- | -------- | ----------- | ---------- | ---------- |
 | 1   | Batena     | Mirachertab | Altanin  | Kocharana   | Zubeneb    | Muphrided  |
@@ -81,6 +88,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Adhard     | Schertab    | Alkalhai | Krazelphard | Rasat      | Sadalbireo |
 
 ### List 2
+
 | D66 | 1         | 2           | 3           | 4         | 5          | 6           |
 | --- | --------- | ----------- | ----------- | --------- | ---------- | ----------- |
 | 1   | Alamuliph | Cellatrix   | Betenar     | Meissaleh | Kitakan    | Ashirach    |
@@ -91,6 +99,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Navijava  | Beten       | Theemiatrix | Adharazet | Scellum    | Algenubi    |
 
 ### List 3
+
 | D66 | 1         | 2        | 3         | 4           | 5        | 6          |
 | --- | --------- | -------- | --------- | ----------- | -------- | ---------- |
 | 1   | Altar     | Kochabi  | Rassa     | Schelik     | Elnasl   | Nihaldera  |
@@ -101,6 +110,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Rasterf   | Schard   | Mirfarkad | Aldera      | Achir    | Alterione  |
 
 ### List 4
+
 | D66 | 1           | 2        | 3           | 4         | 5        | 6          |
 | --- | ----------- | -------- | ----------- | --------- | -------- | ---------- |
 | 1   | Nihalla     | Achera   | Alaran      | Albaldus  | Algeuse  | Adhaferatz |
@@ -111,6 +121,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Thabi       | Thalleth | Aspica      | Meratanev | Caphira  | Ankar      |
 
 ### List 5
+
 | D66 | 1         | 2           | 3          | 4           | 5          | 6        |
 | --- | --------- | ----------- | ---------- | ----------- | ---------- | -------- |
 | 1   | Shertaban | Benelgubi   | Rastabi    | Elnathfar   | Shaut      | Alhai    |
@@ -121,6 +132,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Mothabit  | Alsciaukali | Albalrai   | Zelphertab  | Cellux     | Alarana  |
 
 ### List 6
+
 | D66 | 1           | 2           | 3           | 4         | 5           | 6         |
 | --- | ----------- | ----------- | ----------- | --------- | ----------- | --------- |
 | 1   | Kasterope   | Aldhibaldib | Jabbaham    | Korneb    | Cynosurakis | Anchium   |
@@ -133,6 +145,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 ## Group 3
 
 ### List 1
+
 | D66 | 1           | 2        | 3           | 4          | 5           | 6           |
 | --- | ----------- | -------- | ----------- | ---------- | ----------- | ----------- |
 | 1   | Dhenebola   | Alnash   | Beneb       | Alramintak | Dscherkab   | Gianfark    |
@@ -143,6 +156,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Betena      | Rasath   | Zibaldun    | Miatria    | Angetelgubi | Acubenebola |
 
 ### List 2
+
 | D66 | 1          | 2          | 3           | 4           | 5          | 6          |
 | --- | ---------- | ---------- | ----------- | ----------- | ---------- | ---------- |
 | 1   | Theeminkar | Asterionea | Sterion     | Taraphir    | Murzimech  | Salmachiba |
@@ -153,6 +167,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Minchib    | Mirfarkab  | Seginusaka  | Eltarfak    | Hadalbireo | Betelgenif |
 
 ### List 3
+
 | D66 | 1          | 2           | 3          | 4           | 5          | 6          |
 | --- | ---------- | ----------- | ---------- | ----------- | ---------- | ---------- |
 | 1   | Salas      | Sherrima    | Arkar      | Meisam      | Menchira   | Gacrab     |
@@ -163,6 +178,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Terops     | Alcherkar   | Taygetamin | Sadlamuliph | Alnilamulk | Ksorabik   |
 
 ### List 4
+
 | D66 | 1          | 2          | 3        | 4           | 5          | 6         |
 | --- | ---------- | ---------- | -------- | ----------- | ---------- | --------- |
 | 1   | Neshai     | Alphadir   | Albaraph | Mahamarfik  | Adharana   | Adharaph  |
@@ -173,6 +189,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Dscha      | Kitalphein | Aluropus | Tabik       | Zelphad    | Hadatoni  |
 
 ### List 5
+
 | D66 | 1        | 2           | 3          | 4         | 5           | 6          |
 | --- | -------- | ----------- | ---------- | --------- | ----------- | ---------- |
 | 1   | Azelphah | Alterion    | Mirfark    | Alhaula   | Alrisch     | Mesathfar  |
@@ -183,6 +200,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Chard    | Ksorabit    | Albarin    | Alcheddi  | Hadalsafias | Meisa      |
 
 ### List 6
+
 | D66 | 1           | 2           | 3           | 4           | 5           | 6           |
 | --- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1   | Dschedasich | Casteropus  | Etamintauri | Cheddi      | Haldhilinan | Mencha      |
@@ -195,6 +213,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 ## Group 4
 
 ### List 1
+
 | D66 | 1          | 2           | 3          | 4           | 5           | 6          |
 | --- | ---------- | ----------- | ---------- | ----------- | ----------- | ---------- |
 | 1   | Alamal     | Sadalshail  | Girtabit   | Rasterion   | Mesari      | Menchium   |
@@ -205,6 +224,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Alraminkaa | Alrischubba | Acamak     | Alshail     | Zubenhakraz | Albalioth  |
 
 ### List 2
+
 | D66 | 1           | 2           | 3          | 4         | 5          | 6           |
 | --- | ----------- | ----------- | ---------- | --------- | ---------- | ----------- |
 | 1   | Altares     | Sadachba    | Ascherrai  | Rasalam   | Saiphein   | Gomeissaleh |
@@ -215,6 +235,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Wasalmacent | Alhail      | Alrischeat | Scellah   | Sadalsha   | Zubenesham  |
 
 ### List 3
+
 | D66 | 1           | 2           | 3           | 4          | 5          | 6           |
 | --- | ----------- | ----------- | ----------- | ---------- | ---------- | ----------- |
 | 1   | Sadachera   | Albalrakis  | Dschertaban | Grastabih  | Ancharana  | Thabih      |
@@ -225,6 +246,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Alnilamal   | Scellus     | Menchird    | Achirami   | Subrachir  | Alpharana   |
 
 ### List 4
+
 | D66 | 1        | 2          | 3           | 4          | 5           | 6           |
 | --- | -------- | ---------- | ----------- | ---------- | ----------- | ----------- |
 | 1   | Thallah  | Pulcherkab | Mirachib    | Proximach  | Porrimachba | Schemali    |
@@ -235,6 +257,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Anchib   | Sheratz    | Alrischelik | Denelgenif | Kochabik    | Alphertanin |
 
 ### List 5
+
 | D66 | 1           | 2           | 3         | 4           | 5          | 6           |
 | --- | ----------- | ----------- | --------- | ----------- | ---------- | ----------- |
 | 1   | Denelgeuse  | Regorabih   | Scellux   | Elmuthaldib | Edaron     | Alkurakis   |
@@ -245,6 +268,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Menkentauri | Alchibaldah | Sadalsham | Acamalinan  | Sadalbarin | Aldebara    |
 
 ### List 6
+
 | D66 | 1          | 2           | 3          | 4           | 5           | 6           |
 | --- | ---------- | ----------- | ---------- | ----------- | ----------- | ----------- |
 | 1   | Schubbah   | Saipherkar  | Aldebarich | Alcherkab   | Aldhara     | Alderak     |
@@ -257,6 +281,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 ## Group 5
 
 ### List 1
+
 | D66 | 1          | 2           | 3          | 4         | 5           | 6           |
 | --- | ---------- | ----------- | ---------- | --------- | ----------- | ----------- |
 | 1   | Subrachib  | Giebarided  | Meratarfik | Alderatan | Alnitalphah | Aschemali   |
@@ -267,6 +292,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Acheddi    | Schemalioth | Hassa      | Shertabih | Alphertaban | Pulchium    |
 
 ### List 2
+
 | D66 | 1           | 2          | 3           | 4           | 5           | 6          |
 | --- | ----------- | ---------- | ----------- | ----------- | ----------- | ---------- |
 | 1   | Pulchib     | Zubenesha  | Ashleshaut  | Ascelbal    | Sadachird   | Alshamali  |
@@ -277,6 +303,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Alkalhaut   | Suheliak   | Celbaldhara | Sherrai     | Salathfar   | Antarfik   |
 
 ### List 3
+
 | D66 | 1           | 2           | 3          | 4          | 5           | 6           |
 | --- | ----------- | ----------- | ---------- | ---------- | ----------- | ----------- |
 | 1   | Grassalas   | Grastab     | Rastab     | Thabik     | Alpherakis  | Hadalsha    |
@@ -287,6 +314,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Charaph     | Kitalphard  | Menchirach | Bellus     | Azelphadira | Alhenelgubi |
 
 ### List 4
+
 | D66 | 1           | 2           | 3          | 4          | 5          | 6          |
 | --- | ----------- | ----------- | ---------- | ---------- | ---------- | ---------- |
 | 1   | Brachedaron | Subrachiba  | Grasathfar | Fomalioth  | Giediadem  | Terebellux |
@@ -297,6 +325,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Rasalmachir | Aldhaferami | Mothab     | Haldah     | Acamal     | Rasaleh    |
 
 ### List 5
+
 | D66 | 1          | 2         | 3          | 4         | 5           | 6           |
 | --- | ---------- | --------- | ---------- | --------- | ----------- | ----------- |
 | 1   | Regorabik  | Nascheat  | Chedasim   | Pulchir   | Hamalhajoth | Hamarfarkab |
@@ -307,6 +336,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Schertanev | Steropus  | Mahassalas | Hadalsafi | Sadalshaula | Etamintaka  |
 
 ### List 6
+
 | D66 | 1         | 2           | 3           | 4          | 5           | 6          |
 | --- | --------- | ----------- | ----------- | ---------- | ----------- | ---------- |
 | 1   | Scherkad  | Achibah     | Alrischedar | Unukalhain | Elnashlesat | Mirachira  |
@@ -319,6 +349,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 ## Group 6
 
 ### List 1
+
 | D66 | 1           | 2           | 3         | 4           | 5          | 6           |
 | --- | ----------- | ----------- | --------- | ----------- | ---------- | ----------- |
 | 1   | Gorab       | Bellathfar  | Fomalhail | Ascherak    | Dschel     | Jabbahasich |
@@ -329,6 +360,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Sadirachbah | Benelgedi   | Ashira    | Brachemal   | Ascellah   | Dschedaron  |
 
 ### List 2
+
 | D66 | 1           | 2         | 3           | 4           | 5           | 6           |
 | --- | ----------- | --------- | ----------- | ----------- | ----------- | ----------- |
 | 1   | Unukalhaut  | Eltarfik  | Saipherakis | Menkentak   | Etamintarf  | Casterops   |
@@ -339,6 +371,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Elnascelava | Ashiramin | Errima      | Caphirachir | Sadachib    | Antaran     |
 
 ### List 3
+
 | D66 | 1           | 2           | 3           | 4           | 5           | 6          |
 | --- | ----------- | ----------- | ----------- | ----------- | ----------- | ---------- |
 | 1   | Dhenesham   | Alphadalbal | Algedia     | Zubenelgedi | Ankalhena   | Betelgenib |
@@ -349,6 +382,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Thaldhib    | Porrimach   | Achedar     | Alkalhaula  | Schabih     | Albaraz    |
 
 ### List 4
+
 | D66 | 1           | 2           | 3         | 4           | 5           | 6          |
 | --- | ----------- | ----------- | --------- | ----------- | ----------- | ---------- |
 | 1   | Lesarthim   | Fomalhain   | Lesarich  | Albaran     | Sterebella  | Theemintar |
@@ -359,6 +393,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Ashlesat    | Grassaleh   | Mesarided | Hadach      | Menkalurope | Hamar      |
 
 ### List 5
+
 | D66 | 1          | 2           | 3           | 4           | 5          | 6           |
 | --- | ---------- | ----------- | ----------- | ----------- | ---------- | ----------- |
 | 1   | Albalderam | Aladfarkab  | Sadachedar  | Mintares    | Almachba   | Alphertabit |
@@ -369,6 +404,7 @@ This list of names can be used for planet, stars, sectors or other celestial obj
 | 6   | Krabik     | Sadirachbia | Vindeminkaa | Mirachernar | Phertanev  | Scharaph    |
 
 ### List 6
+
 | D66 | 1           | 2          | 3           | 4           | 5          | 6           |
 | --- | ----------- | ---------- | ----------- | ----------- | ---------- | ----------- |
 | 1   | Hadachir    | Acamalhain | Menkalioth  | Pherrim     | Mataraphir | Dschedar    |
