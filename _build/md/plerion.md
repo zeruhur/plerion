@@ -1,4 +1,4 @@
-# Plerion System Reference Document (v.0.1)
+# Plerion System Reference Document (v.0.2)
 
 **Plerion** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and derives from [**Cairn**](https://cairnrpg.com) by Yochai Gal and [Spacer](https://3rddog.itch.io/spacer-v2) (CC BY 4.0 by Paul Umbers).
 
@@ -14,14 +14,13 @@ Players act as hardened spacers exploring, exploiting and commerce through the v
 - [Character Creation](#character-creation)
 - [Equipment](#equipment)
 - [Rules](#rules)
-- [Psionics](#)
-- [Cybernetics](#)
+- [Cybernetics](#cybernetics)
+- [Psionics](#psionics)
 - [Vehicles and Starships](#)
 - [Spacefaring Adventures](#)
 - [Worlds & Systems](#)
 - [Creatures](#creatures)
 - [Rules Summary](#rules-summary)
-
 
 ## Overview
 
@@ -102,7 +101,6 @@ Players trust one another to engage with the shared setting, character goals, an
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
 [back to index](#index)
-
 
 ## Principles for Players
 ### Agency
@@ -185,14 +183,14 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Character Creation
 
-#### Name, Background & Traits
+### Name, Background & Traits
 First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
 Finally, roll for their **age** (2d20+10).
 
-#### Ability Scores  
+### Ability Scores  
 Player Characters (PCs) have just three attributes:  
 **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
@@ -202,7 +200,7 @@ Player Characters (PCs) have just three attributes:
 ### Hit Protection  
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](#scars-table) table.
 
-#### Inventory
+### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the referee's discretion.
@@ -211,7 +209,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 A PC cannot carry more items than their inventory allows. Vehicles and backpacks can increase inventory.  **Assistants** can also be paid to carry equipment.
 
-#### Starting Gear
+### Starting Gear
 All PCs begin with:
 
 - Three days' rations (one slot)
@@ -223,6 +221,8 @@ Roll once on each of the **Starting Gear** tables to determine your PC's armor, 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
 If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+
+[back to index](#index)
 
 ## Name (d20)
 
@@ -311,7 +311,6 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Ch'Alen | 9   | Kalle   | 14  | Sl'Corvi | 19  | U'Dora  |
 | 5   | Gr'Anan | 10  | Kh'Nari | 15  | Sloni    | 20  | V'Sconi |
 
-
 ### Origins & Traits (d20)
 
 #### Species
@@ -343,7 +342,6 @@ If you would like something closer to traditional classes, refer to the list of 
 | 3   | Charismatic | 8   | Sneaky   | 13  | Thoughtful | 18  | Psionic     |
 | 4   | Educated    | 9   | Tough    | 14  | Learned    | 19  | Impulsive   |
 | 5   | Insightful  | 10  | Vigilant | 15  | Marksman   | 20  | Survivalist |
-
 
 #### Homeworld
 
@@ -385,16 +383,6 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Cowardly   | 9   | Greedy     | 14  | Reckless   | 19  | Wasteful   |
 | 5   | Cruel      | 10  | Irascible  | 15  | Rude       | 20  | Whiny      |
 
-#### Cybernetics
-
-|     |             |     |          |     |            |     |           |
-| --- | ----------- | --- | -------- | --- | ---------- | --- | --------- |
-| 1   | Arm         | 6   | Reflexes | 11  | Comms      | 16  | Skeleton  |
-| 2   | Leg         | 7   | Datalink | 12  | Blades     | 17  | Finger(s) |
-| 3   | IR Vision   | 8   | Skill    | 13  | Firearm    | 18  | Drugs     |
-| 4   | Nightvision | 9   | Medkit   | 14  | Stimulants | 19  | Power     |
-| 5   | Weapon Link | 10  | Armour   | 15  | Weapon     | 20  | Full Body |
-
 #### Background
 
 |     |            |     |          |     |            |     |            |
@@ -415,26 +403,25 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Condemned   | 9   | Disowned    | 14  | Mutilated | 19  | Robbed    |
 | 5   | Unlucky     | 10  | Exiled      | 15  | Poor      | 20  | Suspected |
 
+[back to index](#index)
+
 ## Starting Gear (d20)
 
-#### Armor
+### Armor
 
 |      |       |        |       |         |
 |:----:|:-----:|:------:| ----- |:-------:|
 |  1-5 |  6-10 |  11-15 | 16-19 |    20   |
 | None | Light | Medium | Heavy | Special |
 
-#### Weapons
+### Weapons
 
-|     |      |     |       |     |         |     |         |
-| --- | ---- | --- | ----- | --- | ------- | --- | ------- |
-| 1   | None | 6   | Club  | 11  | Handgun | 16  | Rifle   |
-| 2   | None | 7   | Sword | 12  | Handgun | 17  | Rifle   |
-| 3   | None | 8   | Axe   | 13  | Handgun | 18  | Support |
-| 4   | None | 9   | Staff | 14  | Shotgun | 19  | Support |
-| 5   | None | 10  | Blade | 15  | Stunner | 20  | Special |
+|            |         |                           |               |                       |
+|:----------:|:-------:|:-------------------------:| ------------- |:---------------------:|
+|     1-5    |   6-10  |           11-13           | 14-17         |         18-20         |
+| Blade, Bow | Handgun | Shotgun, Stunner or Rifle | Energy Weapon | Assault Gun, Launcher |
 
-#### Tech
+### Tech
 
 |     |             |     |            |     |              |     |              |
 | --- | ----------- | --- | ---------- | --- | ------------ | --- | ------------ |
@@ -444,7 +431,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Env. Mask   | 9   | Gravchute  | 14  | Computer     | 19  | Goggles      |
 | 5   | Scanner     | 10  | Smartlink  | 15  | Survival Kit | 20  | Translator   |
 
-#### Gear
+### Gear
 
 |     |          |     |             |     |               |     |              |
 | --- | -------- | --- | ----------- | --- | ------------- | --- | ------------ |
@@ -454,7 +441,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Pouch    | 9   | Comms       | 14  | Toolkit       | 19  | Cabin        |
 | 5   | Droid    | 10  | 100 Credits | 15  | 500 Credits   | 20  | 1k Credits   |
 
-#### Vehicles and Ships
+### Vehicles and Ships
 
 |     |              |     |          |     |              |     |           |
 | --- | ------------ | --- | -------- | --- | ------------ | --- | --------- |
@@ -464,12 +451,11 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Walker       | 9   | Drone    | 14  | Racer        | 19  | Freighter |
 | 5   | ATV          | 10  | Mini Sub | 15  | Marauder     | 20  | Fighter   |
 
-
 ## Equipment
 
 All prices are given in Standard Credits, any item is 1 slot unless stated otherwise.
 
-#### Gear
+### Gear
 
 |                                                     |            |
 | --------------------------------------------------- | ---------- |
@@ -505,7 +491,7 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Vacuum Emergency Kit                                | 500        |
 | Wingsuit (bulky)                                    | 500        |
 
-#### Weapons
+### Weapons
 
 |                                                                      |       |
 | -------------------------------------------------------------------- | ----- |
@@ -550,7 +536,7 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Stun Pistol (d8 damage, stun)                                        | 160   |
 | Stun Rifle (d10 damage, bulky, stun)                                 | 300   |
 
-#### Armor
+### Armor
 
 |                                                                 |        |
 | --------------------------------------------------------------- | ------ |
@@ -577,7 +563,10 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Synthetic Mesh (2 Armor)                                        |        |
 | Tactical Body Armour (3 Armor, sealed)                          |        |
 
-## Living Expensens
+### Cybernetic Implants
+TBD
+
+### Living Expensens
 
 |           |              |
 | --------- | ------------ |
@@ -589,6 +578,8 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Rich      | 5,000/month  |
 | Ludicrous | 20,000/month |
 
+[back to index](#index)
+
 ## Rules
 ### Abilities
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
@@ -597,7 +588,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, psionics, etc.
 
 ### Saves
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
@@ -609,8 +600,7 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
 ### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
-PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).
 
 ### Armor
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
@@ -638,9 +628,69 @@ The Reward is what pushes the spacers to adventure, often out of necessity (pay 
 
 Planets, space installations, and starports barter and trade based on the local rarity and value of an item or commodity.
 
-## Psionics
+[back to index](#index)
 
-TDB
+## Cybernetics
+Body parts can be replaced or grafted with advanced technological products that increase their power and capabilities. Beings augmented in this way receive the benefits, but are also subject to deterioration and hacking, as well as potential overloads and sensitivity to magnetic fields. In these cases, a saving throw against STR must be passed to avoid **Critical Damage**.
+
+Augmentations have a cost of purchase and installation, as well as periodic maintenance (see Equipment). 
+Installation has a recovery time of 1d6 days within which absolute rest is required. 
+Missing revisions results in malfunctioning implants, forcing a saving throw every 1d6 days until maintenance or removal.
+
+### Implants
+1. **Air Filter**: It provides immunity to toxic or non-breathable atmospheres.
+2. **Augmented Reflexes**: Nerve implants that improve above average reflexes of the subject. Permanent +2 DEX until removal, wear or malfunction.
+3. **Blade Implant**: A melee weapon of your choice is implanted in the body. Remains hidden until use.
+4. **Brain Augmentation**: Improves the holder's cognitive and mental abilities. Permanent +2 WIL until removal, wear or malfunction.
+5. **Cloacking**: Implanted on the derma, allows light to be refracted, effectively becoming invisible. Use only in the nude, for up to 10 consecutive minutes per day.
+6. **Cortical Implant**: Displays on retinas a complete HUD to control other implants, but also of basic life functions, enhancing them.
+7. **Dermal Plating**: A subdermal layer of protection is installed beneath the entire body surface. +1 Armor.
+8. **Detoxifier**: This artificial "liver" is capable of filtering out any toxins in the body, including radioactivity.
+9. **Direct Neural Interface**: Implant for direct interfacing of the carrier's mind with weapon, vehicle, and spaceship systems.
+10. **Ear Implant**: Provides enhanced hearing including subsonic and ultrasonic frequencies.
+11. **Eye Implant**: Provides enhanced vision, including infrared, ultraviolet and nightvision.
+12. **Firearm Implant**: A ranged weapon of your choice is implanted in the body. Remains hidden until use.
+13. **Integrated Comms**: A standard long-range communicator embedded directly in the hearing aid.
+14. **Mindshield**: Provides full shielding from psionic talents that allow for reading and mind control.
+15. **Neural Datalink**: Provides direct mind-network access, ensuring the ability to dive into cyberspace.
+16. **Prosthetic Limb**: Replaces an ordinary limb with an artificial copy with greater power and agility. +1 DEX and STR for each limb.
+17. **Reinforced Skeleton**: The entire bone skeleton is plated with a super-strong alloy. + 2 STR.
+18. **Repair Nanobots**: These restorative nanites are injected into the bloodstream. Instant recovery of HP after damage resolution.
+19. **Spacesense**: Series of implants designed for space navigation, including a built-in autonomous route planner.
+20. **Stimulants Dispenser**: Temporarily increases (1 combat tun) the responsiveness of the nervous system (+1 DEX) for up to two consecutive times and three per day.
+
+[back to index](#index)
+
+## Psionics
+Psionics is the art of using the mind over matter and spirit. It is a latent ability in all sentient beings, but not everyone can use it. Usually the subject demonstrates the psionic ability in childhood and can use it only with appropriate training. Psionic talents are generally seen as normal and accepted as any other skill, but some civilizations may be hostile to them.
+
+Only a PC with WIL greater than 12, can be a psionic. The player makes a saving throw against WIL once during the generation to represent the activation of mental powers. If successful, the PC will possess a number of innate talents equal to WIL/3 (roll 1d20 on the list below). Talents cannot be taught or learned, only trained. The use of cybernetic brain implants inhibits the use of psionic powers, even once removed.
+
+Everyone may use psionics and Willpower is the source. Each time an ability is used, the psion consumes WIL at the indicated cost. This determines the current level of WIL until recovered (the same rule for HP in **Healing** do apply). Usage that reduces a target's WIL below zero decreases a target's STR by the amount remaining (see **Critical Damage**).
+
+### Psionic Talents
+1. **Astral Projection**: You project an astral boby without spatial constraints. The consciousness is temporarily separated from the physical body which remains defenseless. Cost: 1 WIL/10 minutes.
+2. **Clairvoyance**: You can see events and locate things far away. Cost: 1 WIL/10 minutes.
+3. **Dreamwalking**: You can enter into another person's dreams. You need to be asleep to do so. Cost 1d6 WIL/Night.
+4. **Ergokinesis**: You can influence the movement of energy. The conveyed energy can be used as blast weapon. Cost: 1d6 WIL/use.
+5. **Levitation**: You can levitate anything (including yourself) up to 100 x current WIL kilos. Cost: 1 WIL/minute.
+6. **Materialization**: You can make an object appear out of thin air, equivalent in size to a small vehicle, for a duration of current WIL minutes. Cost: 2d6 WIL/use.
+7. **Mending**: The ability to heal with your own spiritual energy. It recovers full damage to STR and replenishes HP instantly. Cost: 2d6 WIL/use.
+8. **Petrification**: The ability to turn any object or person into stone. Duration: any up to current WIL days. Cost: half the base WIL.
+9. **Precognition**: By focusing, you can get information about future events. Cost: 2d6 WIL/use.
+10. **Psychic Surgery**: Mental power is concentrated in "energetic scalpels" capable of operating from the inside too. Cost: 2d6 WIL/use.
+11. **Psychokinesis**: The ability to move and control objects without touching them. The range is limited to what you see. Cost 1d6 WIL/use.
+12. **Psychometry**: By touching a person or object, you get information about it.  Cost: 2 WIL/use.
+13. **Pyrokinesis**: You can control flames and heat. The conveyed fire can be used as blast weapon. Cost: 1d6 WIL/use.
+14. **Retrocognition**: By focusing, you can get information about past events. Cost: 2d6 WIL/use.
+15. **Shapeshifting**: You can turn yourself into anything of equivalent mass. The ability to reverse the effect depends on the target shape. Cost: half the base WIL.
+16. **Telesthesia**: The ability to see a distant or unseen target. Cost: 2d6 WIL/use.
+17. **Telepathy**: The ability to transmit or receive thoughts. Cost: 2d6 WIL/use.
+18. **Teleportation**: The ability to transport oneself and what one is wearing to a place that can be visualized by sight or clairvoyance. Cost: 1 WIL/1000km.
+19. **Thought Control**: You can only control the mind of one person at a time. The subject will obey any order as long as mental contact is maintained. Cost: 1 WIL/minute.
+20. **Xenoglossy**: The ability to understand, write, and speak an unknown language. Cost: 1 WIL/10 minutes.
+
+[back to index](#index)
 
 ## Combat
 
@@ -722,7 +772,6 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 [back to index](#index)
 
-
 ## Creatures
 
 TDB
@@ -759,8 +808,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
 [back to index](#index)
 
-
-# Rules Summary
+## Rules Summary
 
 **ACTIONS**  
 On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
@@ -807,8 +855,12 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all blast targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.
+If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars Table**](#scars-table) table.
 
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+
+## Changelog
+v.0.2: Cybernetics & Psionics
+v.0.1: General Cairn reskinning, Background Tables, Equipment and Gear from Spacer.
