@@ -1,4 +1,4 @@
-# Plerion System Reference Document (v.0.2)
+# Plerion System Reference Document (v.0.2.1)
 
 **Plerion** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and derives from [**Cairn**](https://cairnrpg.com) by Yochai Gal and [Spacer](https://3rddog.itch.io/spacer-v2) (CC BY 4.0 by Paul Umbers).
 
