@@ -610,9 +610,8 @@ Shields, gauntlets, and helms may provide additional benefits according to their
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the referee may roll 2d6 and consult the following table:
 
-|         |      |         |      |         |
-|:-------:|:----:|:-------:|:----:|:-------:|
 |    2    |  3-5 |   6-8   | 9-11 |    12   |
+|:-------:|:----:|:-------:|:----:|:-------:|
 | Hostile | Wary | Curious | Kind | Helpful |
 
 ### Morale
@@ -862,5 +861,5 @@ Damage that reduces a target's HP **below** 0 decreases their STR by the remaind
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
 
 ## Changelog
-v.0.2: Cybernetics & Psionics
-v.0.1: General Cairn reskinning, Background Tables, Equipment and Gear from Spacer.
+- v.0.2: Cybernetics & Psionics
+- v.0.1: General Cairn reskinning, Background Tables, Equipment and Gear from Spacer.
