@@ -765,7 +765,7 @@ Everyone may use psionics and Willpower is the source. Each time an ability is u
 
 # Vehicles & Starships
 
-Like creature, vehicles have three **abilities** used to **save**.
+Like creatures, vehicles have three **abilities** used to make **saves**.
 
 **Integrity (INT)**: General stability, used to crash safely, smash through things, and resist Critical Damage. Equivalent to STR for creatures.
 
