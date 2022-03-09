@@ -1,5 +1,5 @@
 ---
-title: SRD
+title: Plerion System Reference Document (v.0.2.1)
 nav_order: 2
 ---
 
