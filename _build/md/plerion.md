@@ -811,7 +811,7 @@ As long as a vehicle still has Hull Points they continue to work just fine unles
 A vehicle that exceeds the total value of Load possible for its scale is **overloaded** and it is unable to recover HP or ability scores. Anything overloaded for more than one day deactivates a system, one for each day. Each **Deactivation** occupies one Load slot and lasts until they are able to repair.
 
 ## Reactions
-When two vehicles encounter each other, the referee may roll 2d6 to determine the unknown party's attitude:
+When two vehicles encounter each other, the referee may roll 2d6 to determine the unknown side's attitude:
 
 |    2    |  3-5 |   6-8   | 9-11 |    12   |
 |:-------:|:----:|:-------:|:----:|:-------:|
