@@ -624,19 +624,18 @@ Implants take no inventory slot.
 
 ## Starships
 
-|                 |         |
-| --------------- | ------- |
-| Courier         | 35 mln  |
-| Cruiser         | 40 mln  |
-| Explorer        | 20 mln  |
-| Fighter         | 10 mln  |
-| Freighter       | 60 mln  |
-| Miner           | 30 mln  |
-| Passenger Cargo | 50 mln  |
-| Racer           | 10 mln  |
-| Trader          | 80 mln  |
-| Yatch           | 100 mln |
-
+|                 |        |
+| --------------- | ------ |
+| Courier         | 20 mln |
+| Cruiser         | 94 mln |
+| Explorer        | 47 mln |
+| Fighter         | 14 mln |
+| Freighter       | 75 mln |
+| Miner           | 44 mln |
+| Passenger Cargo | 45 mln |
+| Racer           | 18 mln |
+| Trader          | 43 mln |
+| Yatch           | 41 mln |
 
 ## Living Expensens
 
@@ -785,7 +784,7 @@ Each scale grants a number of Load slots and consumes a different amount of fuel
 | Medium |  20  |     4 l/km    |      6 l/km      |     3 bbl/pc    |
 | Large  |  30  |     6 l/km    |      10 l/km     |     8 bbl/pc    |
 
-Most systems & weapons take up one slot, and small ones can be bundled together. **Broad** systems take up two slots. The vacant space can be used to carry cargo or passengers: 100 tons of cargo equal to 1 slot; 2 passengers occupy 1 slot. A vehicle carrying a full load is reduced to 0 HP. A vehicle cannot carry more items than their load allows. Modules can increase Load.
+Most modules & weapons take up one slot, and small ones can be bundled together. **Broad** modules take up two slots. The vacant space can be used to carry cargo or passengers: 100 tons of cargo equal to 1 slot; 2 passengers occupy 1 slot. A vehicle carrying a full load is reduced to 0 HP. A vehicle cannot carry more items than their load allows.
 
 A standard barrel is equivalent to 160 liters of fuel and and allows for a distance of 10 parsecs. The speed of spaceships traveling in oddspace is on average 1pc/hr. 10 barrels equal to 1 Load.
 
@@ -808,7 +807,7 @@ As characters have Hit Protection, vehicles and starships possess Hull Points wh
 As long as a vehicle still has Hull Points they continue to work just fine unless they take an Effect.
 
 ## Overload
-A vehicle that exceeds the total value of Load possible for its scale is **overloaded** and it is unable to recover HP or ability scores. Anything overloaded for more than one day deactivates a system, one for each day. Each **Deactivation** occupies one Load slot and lasts until they are able to repair.
+A vehicle that exceeds the total value of Load possible for its scale is **overloaded** and it is unable to recover HP or ability scores. Anything overloaded for more than one day deactivates a module, one for each day. Each **Deactivation** occupies one Load slot and lasts until they are able to repair.
 
 ## Reactions
 When two vehicles encounter each other, the referee may roll 2d6 to determine the unknown side's attitude:
@@ -823,10 +822,10 @@ Damage that reduces a target's HP below zero decreases a target's INT by the amo
 A vehicle reduced to zero Hull Points suffers an Effect. A vehicle with zero INT is scrap, or an expanding cloud of debris
 
 ## Effect
-When damage to a vehicle reduces their HP to exactly 0, it gets a critical hit. Roll on the table below for the effect. Even though it is designed primarily for spaceships the same effects can be adapted to other vehicles.
+When damage to a vehicle reduces their HP to exactly 0, it gets an effect. Roll on the table below. Even though it is designed primarily for spaceships the same effects can be adapted to other vehicles.
 
 | 1D6 | Critical Effect                                                                                                                                                                      |
-| 1   | A secondary system: comms, life-support, scanners, shields or an area such as the sickbay or cargo bay is hit and out of action until repaired. Determine randomly.                  |
+| 1   | A secondary module: comms, life-support, scanners, shields or an area such as the sickbay or cargo bay is hit and out of action until repaired. Determine randomly.                  |
 | 2   | A weapon has been hit, determine which randomly. That weapon is unable to fire until repaired.                                                                                       |
 | 3   | Fire breaks out on-board, determine where randomly. Anyone in that area or fighting the fire without protection takes d6 damage every round until the fire is out.                   |
 | 4   | The engines take a hit. The vehicle cannot maneuver and, if flying in a gravitational field, will fall from the sky unless repaired.                                                 |
@@ -835,26 +834,27 @@ When damage to a vehicle reduces their HP to exactly 0, it gets a critical hit. 
 
 ## Destruction and Repairs
 
-Permanently restoring one damaged system or one point of Armor, HP or INT requires some time and an WIL Save. 
+Permanently restoring one damaged module or one point of Armor, HP or INT requires some time and an WIL Save. 
 
 How long it takes and how much it costs is up to the Referee, but typically each repair roll will take 2d6+6 hours and cost 1d6% of the vehicle’s original cost. The Referee should also determine if all the necessary parts are available and, if not, how they can be obtained.
 
 ## Jury Rigging
 In combat or another emergency, it may not be possible to make repairs that will last, but there may just be time to jury rig something that works for as long as is needed.
 
-Make an WIL Save to restore one Hull point, or a single damaged system. The repair lasts for 1d6 rounds.
+Make an WIL Save to restore one Hull point, or a single damaged module. The repair lasts for 1d6 rounds.
 
-## Starship Systems
-A starship may have one or more of the following systems installed. This is not an exhaustive list, so if something you want isn’t here just ask the Referee. While some systems act passively or are always on, others may require an ability save - typically WIL - to operate.
+## Starship Modules
+A starship may have one or more of the following modules installed. This is not an exhaustive list, so if something you want isn’t here just ask the Referee. While some modules act passively or are always on, others may require an ability save - typically WIL - to operate.
 
 - **Cargo Bay**  (broad): An area of the vehicle set aside for cargo or other storage. May include equipment for moving cargo such as cranes, fork-lifts, loader exoskeletons or anti-grav handlers.
 - **Combat Drones**: A number of small vehicles which are deployed en-masse for reconnaissance or combat purposes. The idea of combat drones is to carry the fight away from the main ship and overwhelm the enemy with a large number of attackers. Each drone launched becomes an independent weapon under the control of one or more gunners. Each gunner can control a number of drones equal to their WIL/3. Roll attack and damage for each drone as if they are an independent vehicle.
 - **Crew Quarters** (broad): Section of the vessel dedicated to crew cabins, including common areas. Present only in long-distance or particularly luxurious ships. In other cases the crew sleeps in bunks.
 - **Cryogenic/Stasis Chambers**  (broad): Provides enough chambers for all the crew and passengers to effectively sleep for the duration of a long journey without any aging effects or food & water requirements.
 - **ECM Array**: Electronic Counter-measures devices used to spy on, disrupt or jam enemy communications and scanners.
-- **Emergency Power**: A system of small backup power sources, distributed throughout the vehicle or ship, which provides minimal power when all other sources are unavailable. For most vehicles, this would mean minimal life-support and lighting only. 
+- **Emergency Power**: A module of small backup power sources, distributed throughout the vehicle or ship, which provides minimal power when all other sources are unavailable. For most vehicles, this would mean minimal life-support and lighting only. 
 - **Escape Pod**: A small, low-powered lifeboat capable of automated sub-light travel to the nearest habitable world.
 - **Flight Deck or Shuttle Bay**  (broad): An area of the vehicle where other, smaller, vehicles such as fighters or shuttle craft can be launched and recovered.
+- **Integrated Artificial Intelligence**: Purchasable and installable on advanced worlds, this module allows all ship systems to be integrated with a self-aware artificial intelligence that can assist the crew and steer the ship when needed. IIAs are illegal in some areas.
 - **Interior Scanners**: Cameras and/or sensors inside the vehicle which can be used to track passengers & crew or other creatures on board.
 - **Laboratory or Science Facility**: Facilities for carrying out some form of scientific investigation or study. May be a laboratory capable of a variety of basic scientific functions or several specific facilities each focused on one particular science, such as an Astrometrics Lab.
 - **Life Support**: Seals the vehicle against the outside atmosphere (or lack thereof) and provides breathable air. May also provide a food & water supply and waste reclamation facilities for an extended trip.
@@ -869,29 +869,29 @@ A starship may have one or more of the following systems installed. This is not 
 - **Torpedoes**: Blast weapons. Once a torpedo is locked on to a target the firing ship can move on and attack other targets while the torpedo tracks until it detonates.
 
 ## Starship Crew Actions
-Pilots maneuver their vehicles in hopes of avoiding enemy fire or to position the ship for the perfect shot. Technicians have their hands full jury rigging repairs, trying to keep systems running or boosting the engines for a desperate escape. Gunners, besides trying to blast the enemy to bits and pieces, may need to lock onto a target before trying to shoot them with a valuable but devastating torpedo, or try to restart the Tactical systems if they go offline. Communication officers may need to contact help, or try to jam the comm systems or scanners of rival ships.
+Pilots maneuver their vehicles in hopes of avoiding enemy fire or to position the ship for the perfect shot. Technicians have their hands full jury rigging repairs, trying to keep modules running or boosting the engines for a desperate escape. Gunners, besides trying to blast the enemy to bits and pieces, may need to lock onto a target before trying to shoot them with a valuable but devastating torpedo, or try to restart the Tactical modules if they go offline. Communication officers may need to contact help, or try to jam the comm modules or scanners of rival ships.
 
 The following are just some of the actions a vehicle’s crew can take, the Referee may allow others.
 
 ### Boost Engines
 Redirect the vehicle’s energy reserves to boost its engines temporarily. To do this the character makes a WIL Save . This lasts for 1d6 rounds.
-One other shipboard system becomes inoperative or unusable for the same period of time. On a critical failure, immediately reduce SYS of the
+One other shipboard module becomes inoperative or unusable for the same period of time. On a critical failure, immediately reduce SYS of the
 vehicle by one point.
 
 ### Boost Weapons
 Redirect the vehicle’s energy reserves to temporarily improve the power of a vehicle’s guns. Make a WILL Save. Increase the weapon damage by
-1 die of it’s usual type (eg: if the weapon does 1d10 damage, it now does 2d10, if 1d6, it’s now 2d6). This lasts for 1d6 rounds, no longer. One other shipboard system becomes inoperative or unusable for the same period of time. On a critical failure, immediately reduce SYS of the vehicle by one point.
+1 die of it’s usual type (eg: if the weapon does 1d10 damage, it now does 2d10, if 1d6, it’s now 2d6). This lasts for 1d6 rounds, no longer. One other shipboard module becomes inoperative or unusable for the same period of time. On a critical failure, immediately reduce SYS of the vehicle by one point.
 
 ### Dodge and Jink
 A pilot can perform sudden, chaotic maneuvers in order to avoid enemy fire. The opposing pilot makes a WIL Save. If they fails, enemy’s attacks are impaired. 
 
 ### Jam Comms or Scanners
-A character operating the communication or scanner systems may try to jam an enemy ship’s systems by making a WIL Save. If successful this action makes the target ship unable to communicate as long as that character keeps jamming their channels; any attempts to use scanners, Lock on Target or attack by that ship are impaired. Requires the vehicle to be equipped with an ECM Array.
+A character operating the communication or scanner modules may try to jam an enemy ship’s modules by making a WIL Save. If successful this action makes the target ship unable to communicate as long as that character keeps jamming their channels; any attempts to use scanners, Lock on Target or attack by that ship are impaired. Requires the vehicle to be equipped with an ECM Array.
 
 ### Lock on Target
-Gunners can spend a full round locking their vehicle’s targeting system to a specific target.
+Gunners can spend a full round locking their vehicle’s targeting module to a specific target.
 When firing normal weapons, make a SYS Save and forgo all other actions that round, then next turn the attack against the specified target
-will be **enhanced**, or make an impaired attack to score an automatic Effect against a specific vehicle system (ignoring armor and shields).
+will be **enhanced**, or make an impaired attack to score an automatic Effect against a specific vehicle module (ignoring armor and shields).
 
 When firing blast weapons, make a SYS Save and forgo all other actions that round. If a lock-on is achieved, the weapon may be fired as an action in a later round, provided the lock is maintained.
 
@@ -911,79 +911,88 @@ In a desperate move, a pilot can attempt to take out another vehicle by ramming 
 ## Shipyard
 
 ### Courier
-Small, 2 HP, 3 Armor, 8 INT, 15 ENG, 12 SYS, 10 Load
+Small, 2 HP, 3 Armor, 8 INT, 15 ENG, 12 SYS, 7/10 Load
 - Ultra-fast vessels designed to quickly transport information and small loads.
 - Weapons: 1 forward-mounted Laser Cannons (1d10).
-- Systems: Main Reactor, Emergency Power, Sub-light Drive, Odd Drive, Life Support, Escape Pod.
+- Modules: Main Reactor, Emergency Power, Sub-light Drive, Odd Drive, Life Support, Escape Pod.
 
 ### Cruiser
-Large, 10 HP, 3 Armor, 20 INT, 12 ENG, 14 SYS, 30 Load
+Large, 10 HP, 3 Armor, 20 INT, 12 ENG, 14 SYS, 16/30 Load
 - Combat ship capable of engaging multiple targets simultaneously.
 - Weapons: 4 turret-mounted Blaster Cannons (1d10 dmg each), Torpedoes, Combat Drones.
-- Systems: Main Reactor, Crew Quarters, Self-Destruct, Emergency Power, ECM Array, Sub-light Drive, Odd Drive, Point Defence, Life Support, Flight Deck, Sickbay.
+- Modules: Main Reactor, Crew Quarters, Self-Destruct, Emergency Power, ECM Array, Sub-light Drive, Odd Drive, Point Defence, Life Support, Flight Deck, Sickbay.
 
 ### Explorer
-Medium, 5 HP, 1 Armor, 12 INT, 12 ENG, 14 SYS, 20 Load
+Medium, 5 HP, 1 Armor, 12 INT, 12 ENG, 14 SYS, 14/20 Load
 - Vessel designed to explore uncharted space. It has a high autonomy.
 - Weapons: 4 turret-mounted Laser Cannons (1d10 dmg each), torpedoes.
-- Systems: Main Reactor, Crew Quarters, Emergency Power, Sub-light Drive, Odd Drive, Life Support, Laboratory, Stasis Chambers, Cargo Bay, Sickbay.
+- Modules: Main Reactor, Crew Quarters, Emergency Power, Sub-light Drive, Odd Drive, Life Support, Laboratory, Stasis Chambers, Cargo Bay, Sickbay.
 
 ### Freighter
-Large, 5 HP, 2 Armor, 15 INT, 11 ENG, 11 SYS, 20 Load
+Large, 5 HP, 2 Armor, 15 INT, 11 ENG, 11 SYS, 10/20 Load
 - Long-distance vessel designed to carry cargo on trans-galactic routes.
 - Weapons: 2 turret-mounted Laser Cannons (1d10 dmg each).
-- Systems: Main Reactor, Emergency Power, Crew Quarters, Sub-light Drive, Odd Drive, Life Support, Cargo Bay, Sickbay.
+- Modules: Main Reactor, Emergency Power, Crew Quarters, Sub-light Drive, Odd Drive, Life Support, Cargo Bay, Sickbay.
 
 ### Fighter
-Small, 3 HP, 3 Armor, 7 INT, 13 ENG, 14 SYS, 10 Load
+Small, 3 HP, 3 Armor, 8 INT, 13 ENG, 14 SYS, 2/10 Load
 - Two-seater vessel designed for close space combat.
 - Weapons: 2 forward-mounted Laser Cannons (1d10 dmg each).
-- Systems: Main Reactor, Sub-light Drive, Life Support.
+- Modules: Main Reactor, Sub-light Drive, Life Support.
 
 ### Miner
-Medium, 2 HP, No Armor, 8 INT, 10 ENG, 10 SYS, 20 Load
+Medium, 2 HP, No Armor, 8 INT, 10 ENG, 10 SYS, 9/20 Load
 - Ship designed for collecting and pre-refining rocks and minerals in the sidereal void.
 - Weapons: not provided.
-- Systems: Main Reactor, Life Support, Sub-light Drive, Odd Drive, Cargo Bay.
+- Modules: Main Reactor, Life Support, Sub-light Drive, Odd Drive, Cargo Bay.
 
 ### Passenger Cargo
-Medium, 3 HP, 1 Armor, 10 INT, 15 ENG, 15 SYS, 20 Load
+Medium, 3 HP, 1 Armor, 10 INT, 15 ENG, 15 SYS, 10/20 Load
 - Vessel designed to transport people, has weak defense.
 - Weapons 2 turret-mounted Rail-Guns.
-- Systems: Main Reactor, Life Support, Sub-light Drive, Odd Drive, Crew Quarters, Passenger Quarters, Sickbay, Escape Pod.
+- Modules: Main Reactor, Life Support, Sub-light Drive, Odd Drive, Crew Quarters, Passenger Quarters, Sickbay, Escape Pod.
 
 ### Racer
-Small, 2 HP, No Armor, 10 INT, 16 ENG, 14  SYS, 10 Load
+Small, 2 HP, No Armor, 10 INT, 16 ENG, 14  SYS, 2/10 Load
 - Ultra fast vessel designed for racing. Sometimes used as a courier.
 - Weapons: Not provided.
-- Systems: Main Reactor, Life Support, Sub-light Drive, Odd Drive.
+- Modules: Main Reactor, Life Support, Sub-light Drive, Odd Drive.
 
 ### Trader
-Medium, 4 HP, 2 Armor, 12 INT, 12 ENG, 14 SYS, 20 Load
+Medium, 4 HP, 2 Armor, 12 INT, 12 ENG, 14 SYS, 9/20 Load
 - Merchant ships following medium distance routes.
 - Weapons: 2 turret-mounted Laser Guns.
-- Systems:  Main Reactor, Crew Quarters, Sub-light Drive, Odd Drive, Life Support, Cargo Bay, Sickbay.
+- Modules:  Main Reactor, Crew Quarters, Sub-light Drive, Odd Drive, Life Support, Cargo Bay, Sickbay.
 
 ### Yatch
-Medium, 1 HP, No Armor, 12 INT, 14 ENG, 12 SYS, 20 Load
+Medium, 1 HP, No Armor, 12 INT, 14 ENG, 12 SYS, 9/20 Load
 - Especially luxurious private passenger ship.
 - Weapons: Not provided.
-- Systems: Main Reactor, Emergency Power, Life Support, Sub-light Drive, Odd Drive, Crew Quarters, Passenger Quarters, Sickbay, Escape Pod.
+- Modules: Main Reactor, Emergency Power, Life Support, Sub-light Drive, Odd Drive, Crew Quarters, Passenger Quarters, Sickbay, Escape Pod.
 
 ### Shipbuilding
 Use the following template to model any space vessel:
 
-**Name**  
-Size, X HP, X Armor, X INT, X ENG, X SYS, X Load
+#### Name
+Size, X HP, X Armor, X INT, X ENG, X SYS, X/[max] Load
 - Brief description.
 - Weapons: list mounted weapons.
-- Systems: list installed systems.
+- Modules: list installed modules.
 
-**General Principles**  
+#### General Principles
 - Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
 - Give average starship 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Each system or weapon occupies 1 Load slot, broad ones occupy 2 slots.
+- Each module or weapon occupies 1 Load slot, broad ones occupy 2 slots.
 - Remember that **Hull Points** are a measure of strength, absorbency and sturdiness not structural integrity.
+
+#### Costs
+The costs of building a spaceship are determined by size, number of installed modules and how many slot they occupy. Here are some guidelines:
+- Base cost: Small 5 mln, Medium 20 mln, Large 50 mln. 
+- Base stats: 3 HP, No Armor, 10 INT/ENG/SYS.
+- Additional Stat Point (over base): 1 mln. It is possible to shift points between stats (on a 2 for 1 basis).
+- Stardard modules: Main Reactor, Sub-light Drive, Life Support. Included in base cost, consume Load.
+- Weapons: 1 mln for turret,  
+- Modules: 1 mln for standard, 3 mln for broad.
 
 [back to index](#index)
 
@@ -1172,6 +1181,7 @@ Damage that reduces a target's HP **below** 0 decreases their STR by the remaind
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
 
 # Changelog
+- v.0.3.1: Shipbuilding costs rules + prices adjustment.
 - v.0.3: Vehicles & Starships, including generation tables and prices.
 - v.0.2.1: Cybernetics & Psionics in Rules Summary
 - v.0.2: Cybernetics & Psionics
