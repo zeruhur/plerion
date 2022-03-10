@@ -51,3 +51,13 @@ digraph G {
 | G             | Yellow       | 5,000 K - 6,000 K   | 7.6%                                    | Sun                   |
 | K             | Orange       | 3,500 K - 5000 K    | 12.1%                                   | Arcturus              |
 | M             | Red-orange   | <3,500 K            | 76.5%                                   | Proxima Centauri      |
+
+
+## Worlds
+
+- Star System: 
+  - 1d6: 1-5: multiple star, 6; single
+    - 1-4: binary, 5: trinary, 6: multiple (roll 1d6 1-3: triple, 4-6: quadruple)
+  - 1d6+4 planets
+    - Giant Gas: 1d20 moons, 1d6 planet size
+    - Terrestrial: 1d3 moons (roll 1d6, 1-5: small, 6: large)
