@@ -1181,11 +1181,12 @@ Damage that reduces a target's HP **below** 0 decreases their STR by the remaind
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
 
 # Credits
-Plerion is based on the Cairn SRD by Yochai Gal (release under CC BY-SA 4.0 license) and Spacer (CC BY 4.0) by Paul Umbers.
+Plerion is based on the **Cairn SRD** by Yochai Gal (release under CC BY-SA 4.0 license) and **Spacer** (CC BY 4.0) by Paul Umbers.
 
 A huge thanks to:
-- Yochai Gal: for Cairn, the NSR Discord server, and the kind support.
-- Adam Hensley for Monolith, sibling separated at birth of Plerion.
+- Yochai Gal: for *Cairn*, the NSR Discord server, and the kind support.
+- Jim Parkin: for *Weird North* and *Any Planet is Earth*.
+- Adam Hensley for *Monolith*, sibling separated at birth of Plerion.
 - Alessio Persichetti: for all the valuable advice and for tolerating my lucubrations.
 - The NSR and The Cauldron communities: for advice and support on this project.
 
