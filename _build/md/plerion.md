@@ -781,10 +781,10 @@ Each scale grants a number of Load slots and consumes a different amount of fuel
 |        | Load | Fuel (Ground) | Fuel (Water/Air) | Fuel (Starship) |
 | ------ |:----:|:-------------:|:----------------:|:---------------:|
 | Small  |  10  |     2 l/km    |      3 l/km      |     1 bbl/pc    |
-| Medium |  20  |     4 l/km    |      6 l/km      |     3 bbl/pc    |
-| Large  |  30  |     6 l/km    |      10 l/km     |     8 bbl/pc    |
+| Medium |  20  |     4 l/km    |      6 l/km      |     5 bbl/pc    |
+| Large  |  30  |     6 l/km    |      10 l/km     |    10 bbl/pc    |
 
-Most modules & weapons take up one slot, and small ones can be bundled together. **Broad** modules take up two slots. The vacant space can be used to carry cargo or passengers: 100 tons of cargo equal to 1 slot; 2 passengers occupy 1 slot. A vehicle carrying a full load is reduced to 0 HP. A vehicle cannot carry more items than their load allows.
+Most modules & weapons take up one slot, and small ones can be bundled together. **Broad** modules take up two slots. The vacant space can be used to carry cargo or passengers: 100 tons of cargo equal to 1 slot; 2 passengers occupy 1 slot. Crew does not occupy additional Load. A vehicle carrying a full load is reduced to 0 HP. A vehicle cannot carry more items than their Load allows.
 
 A standard barrel is equivalent to 160 liters of fuel and and allows for a distance of 10 parsecs. The speed of spaceships traveling in oddspace is on average 1pc/hr. 10 barrels equal to 1 Load.
 
@@ -990,7 +990,7 @@ The costs of building a spaceship are determined by size, number of installed mo
 - Base cost: Small 5 mln, Medium 20 mln, Large 50 mln. 
 - Base stats: 3 HP, No Armor, 10 INT/ENG/SYS.
 - Additional Stat Point (over base): 1 mln. It is possible to shift points between stats (on a 2 for 1 basis).
-- Stardard modules: Main Reactor, Sub-light Drive, Life Support. Included in base cost, consume Load.
+- Stardard modules: Main Reactor, Sub-light Drive, Life Support. Included in base cost.
 - Weapons: 1 mln for turret,  
 - Modules: 1 mln for standard, 3 mln for broad.
 
