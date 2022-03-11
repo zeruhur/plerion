@@ -1191,7 +1191,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 # Changelog
-- v.0.3.1: Shipbuilding costs rules + prices adjustment.
+- v.0.3.2: Shipbuilding costs rules + prices adjustment.
 - v.0.3: Vehicles & Starships, including generation tables and prices.
 - v.0.2.1: Cybernetics & Psionics in Rules Summary
 - v.0.2: Cybernetics & Psionics
