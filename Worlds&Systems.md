@@ -58,6 +58,7 @@ digraph G {
 - Star System: 
   - 1d6: 1-5: multiple star, 6; single
     - 1-4: binary, 5: trinary, 6: multiple (roll 1d6 1-3: triple, 4-6: quadruple)
-  - 1d6+4 planets
+  - 1d6+4 planets (if ringworld, no other planet)
     - Giant Gas: 1d20 moons, 1d6 planet size
     - Terrestrial: 1d3 moons (roll 1d6, 1-5: small, 6: large)
+    - Habitat: no moon.
