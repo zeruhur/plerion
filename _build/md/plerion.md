@@ -4,7 +4,7 @@
 **Plerion** is an adventure game for one **referee** and at least one other player.
 Players act as hardened spacers exploring, exploiting and commerce through the vastness of space in the far future.
 
-# Index
+## Index
 - [Overview](#overview)
 - [Principles for referees](#principles-for-referees)
 - [Principles for Players](#principles-for-players)
