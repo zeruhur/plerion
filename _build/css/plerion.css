@@ -10,9 +10,9 @@
 
 } */
 
-#character-creation, #starting-gear, #alien-names, #name-d20, #starting-gear-d20, #equipment, #cybernetics, #psionics, #rules-summary  {
+/* #character-creation, #starting-gear, #alien-names, #name-d20, #starting-gear-d20, #equipment, #cybernetics, #psionics, #rules-summary  {
     page-break-before: always;
-}
+} */
 
 html {
   font-size: 8pt;
@@ -27,9 +27,10 @@ h1, h2, h3, h4, h5, h6, th {
     font-family: 'Orbitron';
     text-transform: uppercase;
 }
-/* h1, table {
-  column-span: all;
-} */
+
+h1 {
+  page-break-before: right;
+}
 
 /**
  * Tables
