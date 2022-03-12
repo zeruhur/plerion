@@ -17,7 +17,7 @@ Players act as hardened spacers exploring, exploiting and commerce through the v
 - [Vehicles and Starships](#vehicles--starships)
 - [Combat](#combat)
 - [Spacefaring Adventures](#)
-- [Worlds & Systems](#)
+- [Worlds & Systems](#words--systems)
 - [Creatures](#creatures)
 - [Rules Summary](#rules-summary)
 
@@ -1086,6 +1086,185 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 [back to index](#index)
 
+# Worlds & Systems
+The Five Galaxies are so exterminated that even within Charted Space not all systems are mapped. This chapter will provide the fundamentals for managing the geography of space and generating star systems.
+
+## Space Geography 
+
+The enormous expanses that access to oddspace has made traversable have generated the need to map the vastness of the Five Galaxies. 
+Normal space is subdivided into 10pc-sided cubes, called sub-sectors. 
+
+Below is the conventional scale in which the Charted Space is subdivided:
+- **Sub-sector**: A region of 10pc<sup>3</sup> space in which there are several star systems.
+- **Sector**: A region of 100pc<sup>3</sup> space or 1000 sub-sectors. 
+- **Cluster**: Aggregation of 2 or more sectors, usually defined by political entities.
+- **Quadrant**: A quarter of a galaxy, containing several sectors each.
+
+To this geography is added the topography of the Wormhole Access Network (WAN). Numerous natural and man-made wormholes are maintained to connect distant sectors and shorten travel times. Usually travel between wormholes is instantaneous and subject to a fee. A pair of wormholes is in exclusive communication, often natural wormholes are single way, while artificial wormholes are always double way, unless disabled on purpose.
+
+## Astrography
+
+Space is usually mapped at the local sub-sector level.  To represent a three-dimensional space, it is possible to "press" the representation into two dimensions, representing the distances between nearest stars as edges of a graph.
+
+[Alt text](https://g.gravizo.com/svg?
+digraph G {
+    edge[arrowhead=none];
+    node[shape=circle, fixedsize=1, width=0.1, label=""];
+    
+    a[color=yellow, style=filled];
+    b[color=orange, style=filled];  
+    c[color=red, style=filled];
+    b[color=blue, style=filled];  
+    
+    a -> b 
+    a -> c
+    b -> c
+    a -> d
+    c -> d
+    b -> e
+    c -> e
+    a -> f
+    d -> f
+}
+)
+
+## Stellar Systems
+
+The generation of features for a star system can be randomly determined using this procedure. Roll on the relevant tables where necessary.  
+When prompted 1d3, roll 1d6, divide by two and round down.
+
+1. Roll for number of stars in the system.
+2. Roll for spectral type and color.
+3. Roll 1d6+4 to determine the number of planets.
+4. Roll 1d6 to determine the number of habitats.
+   - If one of them is a ringworld/Dyson sphere, there are no other planets in the system.
+5. Roll for planet type. 
+   - Roll 1d3 to determine how many worlds are in the habitable zone.
+6. Roll for planet features.
+7. Roll to determine moons:
+   1. For gas/ice giant planets, roll 1d20 to termine the number of moons. Roll for determine type and features of each.
+   2. For terrestrial planets, roll 1d3. Then roll for type and features.
+   3. For dwarf planets, roll 1-6. If result is 6 they have one satellite.
+   4. Habitats and asteroid belts have no moons.
+
+Giant/dwarf planets and asteroids are naturally uninhabitable, but they are settled using domed and underground facilities.
+
+### Number of Stars per System
+
+|   1-3  |  4-18  |    19   |        20        |
+|:------:|:------:|:-------:|:----------------:|
+| Single | Binary | Trinary | Multiple (1d6+1) |
+
+
+### Star Spectral Type
+
+|    1-15    |  16-17 |   18   |   19  |      20      |
+|:----------:|:------:|:------:|:-----:|:------------:|
+|      M     |    K   |   F/G  |   A   |    Special   |
+| Red-Orange | Orange | Yellow | White | (roll below) |
+
+
+|     1-14    |     15    |     16     |    17-18   |     19-20    |
+|:-----------:|:---------:|:----------:|:----------:|:------------:|
+|      T      |     M     |      B     |      -     |       -      |
+| Brown Dwarf | Red Giant | Blue Giant | Black Hole | Neutron Star |
+
+### Star Dimension (don't roll for special)
+
+|  1-17 |   18   |     19     |     20     |
+|:-----:|:------:|:----------:|:----------:|
+| Dwarf |  Giant | Supergiant | Hypergiant |
+
+### Planets and Habitats
+
+#### Planet Type
+
+|    1-5    |    6-10   |    11-17    | 18-19 |       20      |
+|:---------:|:---------:|:-----------:|:-----:|:-------------:|
+| Gas Giant | Ice Giant | Terrestrial | Dwarf | Asteroid Belt |
+
+#### Habitat Type
+
+|       |                    |       |               |
+|:-----:| ------------------ |:-----:| ------------- |
+|  1-4  | O'Neil Cylinder    | 15-16 | Bishop Ring   |
+|  5-6  | McKendree Cylinder | 17-18 | Banks Orbital |
+|  7-9  | Stanford Torus     |   19  | Dyson Sphere  |
+| 10-14 | Bernal Sphere      |   20  | Ringworld     |
+
+#### Terrestrial Planet Features
+
+|     |                |     |             |     |             |     |              |
+| --- | -------------- | --- | ----------- | --- | ----------- | --- | ------------ |
+| 1   | Barren         | 6   | Savanna     | 11  | Forest      | 16  | Ecumenopolis |
+| 2   | Frozen         | 7   | Arctic      | 12  | Archipelago | 17  | Garden World |
+| 3   | Arid           | 8   | Steppe      | 13  | Waterworld  | 18  | Hellworld    |
+| 4   | Desert         | 9   | Continental | 14  | Tropical    | 19  | Tainted      |
+| 5   | Tidally Locked | 10  | Relic       | 15  | Hothouse    | 20  | Ruined       |
+
+#### Moon Size and Type
+
+|             1-10            |    11-14   |   15-18  | 19-20 |
+|:---------------------------:|:----------:|:--------:|:-----:|
+| Planetary-mass (roll below) | Small Rock | Big Rock |  Ring |
+
+
+|  1-15  |  16-17 |    18    |    19    |     20    |
+|:------:|:------:|:--------:|:--------:|:---------:|
+| Barren | Frozen | Vulcanic | Hothouse | Habitable |
+
+### Planet/Habitat Features
+
+#### Government
+
+|      |              |       |             |
+|:----:| ------------ |:-----:| ----------- |
+|  1-2 | Corporate    | 11-12 | Anarchy     |
+|  3-4 | Democracy    | 13-14 | Technocracy |
+|  5-6 | Oligarchy    | 15-16 | Autocracy   |
+|  7-8 | Dictatorship | 17-18 | Bureaucracy |
+| 9-10 | Feudal       | 19-20 | Theocracy   |
+
+#### Economy
+
+|       |              |       |                  |
+|:-----:| ------------ |:-----:| ---------------- |
+|  1-6  | Agricultural | 15-16 | Mining           |
+|  7-11 | Industrial   | 17-19 | Political Center |
+| 12-14 | Finance      |   20  | Religious Center |
+
+#### GDP Level
+
+|      |         |       |      |
+|:----:| ------- |:-----:| ---- |
+|  1-4 | Poor    | 13-16 | Good |
+|  5-8 | Low     | 17-19 | High |
+| 9-12 | Average |   20  | Rich |
+
+#### Technological Level
+
+|     |             |       |                  |
+|:---:| ----------- |:-----:| ---------------- |
+|  1  | Stone Age   |  6-7  | Atomic Age       |
+|  2  | Metal Age   |  8-9  | Information Age  |
+|  3  | Clock Age   | 10-11 | Space Age        |
+|  4  | Steam Age   | 12-13 | Stellar Age      |
+|  5  | Machine Age | 14-20 | Interstellar Age |
+
+#### Population
+
+Roll 1d20: on 19-20 the planet is uninhabited, else roll on the following table.
+
+|      |        |       |         |
+|:----:| ------ |:-----:| ------- |
+|  1-2 | 10+    | 11-12 | 1mln+   |
+|  3-4 | 100+   | 13-14 | 10mln+  |
+|  5-6 | 1,000+ | 15-16 | 100mln+ |
+|  7-8 | 10k+   | 17-18 | 1bln+   |
+| 9-10 | 100k+  | 19-20 | 10bln+* |
+
+[back to index](#index)
+
 # Creatures
 
 TDB
@@ -1191,6 +1370,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 # Changelog
+- v.0.4: Addes Worlds & Systems section.
 - v.0.3.2: Shipbuilding costs rules + prices adjustment.
 - v.0.3: Vehicles & Starships, including generation tables and prices.
 - v.0.2.1: Cybernetics & Psionics in Rules Summary
