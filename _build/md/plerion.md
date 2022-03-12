@@ -1100,7 +1100,7 @@ Below is the conventional scale in which the Charted Space is subdivided:
 - **Cluster**: Aggregation of 2 or more sectors, usually defined by political entities.
 - **Quadrant**: A quarter of a galaxy, containing several sectors each.
 
-![visual representation of a sector](../../_img/sector_dia.svg)
+![visual representation of a sector](../_img/sector_dia.svg)
 
 To this geography is added the topography of the Wormhole Access Network (WAN). Numerous natural and man-made wormholes are maintained to connect distant sectors and shorten travel times. Usually travel between wormholes is instantaneous and subject to a fee. A pair of wormholes is in exclusive communication, often natural wormholes are single way, while artificial wormholes are always double way, unless disabled on purpose.
 
@@ -1108,7 +1108,7 @@ To this geography is added the topography of the Wormhole Access Network (WAN). 
 
 Space is usually mapped at the local sub-sector level.  To represent a three-dimensional space, it is possible to "press" the representation into two dimensions, representing the distances between nearest stars as edges of a graph.
 
-![subsector diagram](../../_img/subsector_dia.svg)
+![subsector diagram](../_img/subsector_dia.svg)
 
 To determine the configuration of a sub-sector:
 1. Roll 2d20 to determine the number of stars of the region.
