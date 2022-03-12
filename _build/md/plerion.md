@@ -1108,7 +1108,14 @@ To this geography is added the topography of the Wormhole Access Network (WAN). 
 
 Space is usually mapped at the local sub-sector level.  To represent a three-dimensional space, it is possible to "press" the representation into two dimensions, representing the distances between nearest stars as edges of a graph.
 
-![subsector diagram](../../_img/sector_dia.svg)
+![subsector diagram](../../_img/subsector_dia.svg)
+
+To determine the configuration of a sub-sector:
+1. Roll 2d20 to determine the number of stars of the region.
+2. For each star roll 1d6, then add the values ​​of two nearby stars to calculate the distance in light-years between them.
+3. Draw the resulting graph, noting the distances.
+
+Optionally, it is possible to drop a number of colored d6s (representing the spectral class of the stars) on a sheet of paper, thus drawing the edges of the graph between them and marking the sum value of each pair.
 
 ## Stellar Systems
 
