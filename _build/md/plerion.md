@@ -17,7 +17,7 @@ Players act as hardened spacers exploring, exploiting and commerce through the v
 - [Vehicles and Starships](#vehicles--starships)
 - [Combat](#combat)
 - [Spacefaring Adventures](#)
-- [Worlds & Systems](#words--systems)
+- [Worlds & Systems](#worlds--systems)
 - [Creatures](#creatures)
 - [Rules Summary](#rules-summary)
 
