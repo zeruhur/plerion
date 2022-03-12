@@ -2,4 +2,4 @@ remote_theme: pmarsceill/just-the-docs
 title: Plerion RPG
 color_scheme: plerion
 exclude: _build
-baseurl: https://plerion.zeruhur.space
+url: https://plerion.zeruhur.space
