@@ -1,0 +1,17 @@
+digraph G {
+    edge[arrowhead=none];
+    node[shape=circle, fixedsize=1, width=0.1, label=""];
+    a[color=yellow, style=filled];
+    b[color=orange, style=filled];  
+    c[color=red, style=filled];
+    b[color=blue, style=filled];  
+    a -> b 
+    a -> c
+    b -> c
+    a -> d
+    c -> d
+    b -> e
+    c -> e
+    a -> f
+    d -> f
+}

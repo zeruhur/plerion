@@ -1106,25 +1106,7 @@ To this geography is added the topography of the Wormhole Access Network (WAN). 
 
 Space is usually mapped at the local sub-sector level.  To represent a three-dimensional space, it is possible to "press" the representation into two dimensions, representing the distances between nearest stars as edges of a graph.
 
-![Alt text](https://g.gravizo.com/svg?
-  digraph G {
-      edge[arrowhead=none];
-      node[shape=circle, fixedsize=1, width=0.1, label=""];
-      a[color=yellow, style=filled];
-      b[color=orange, style=filled];  
-      c[color=red, style=filled];
-      b[color=blue, style=filled];  
-      a -> b 
-      a -> c
-      b -> c
-      a -> d
-      c -> d
-      b -> e
-      c -> e
-      a -> f
-      d -> f
-  }
-)
+![subsector diagram](/_img/graphviz.svg)
 
 ## Stellar Systems
 
