@@ -1356,4 +1356,3 @@ A huge thanks to:
 - v.0.2.1: Cybernetics & Psionics in Rules Summary
 - v.0.2: Cybernetics & Psionics
 - v.0.1: General Cairn reskinning, Background Tables, Equipment and Gear from Spacer.
-
