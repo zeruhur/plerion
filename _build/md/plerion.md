@@ -1279,86 +1279,77 @@ Inhospitable planets, Gas and Ice Giants, and asteroids can still be inhabited t
 
 # Creatures
 
-Arachnid B:3 M:2 S:2 HP:8 Chitin Hide, Octopod
+### Arachnid Drone
+6 HP, 1 Armor, 12 STR, 14 DEX, 10 WIL, Sharp Legs (d6), Fangs (d6, poison)
+- Eight-legged insectoids with a tough chitinous exoskeleton, the size of a large dog, living in colonies.
+- They are connected by a hive mind commanded by the queen.
+- The poison causes immobility and hallucinations, to allow the victim to be digested.
 
-### Arachnid
-6 HP, 1 Armor, 12 STR, 14 DEX, 10 WIL, Sharp Legs (d6),  (dX, special items, qualities)
-- Eight-legged insectoids with a tough chitinous exoskeleton, living in swarms.
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+### Arachnid Queen
+8 HP, 2 Armor, 14 STR, 10 DEX, 14 WIL, Acid Spit (d8, poison)
+- As large as three drones, it shows a huge uterine pouch from which it expels eggs continuously.
+- Head of the arachnid colony, the only member to have independent consciousness.
+- It will have 2d6 drones in its defense if attacked directly.
 
 ### Black Destroyer
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+6 HP, 0 Armor, 12 STR, 16 DEX, 16 WIL, Claws (d6)
+- Intelligent space feline that resembles a fearsome giant panther.
+- Both a chaser and a pouncer, higly intelligent (as or more than humans).
+- Clash of wills: save against WIL. If fail, the destroyer has enhanced attack for the duration of the fight.
 
-### Bug-Eyed Monster
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+### Chuvoid
+5 HP, 0 Armor, 10 STR, 12 DEX, 6 WIL, Spine (d6), Poisonous Thorns
+- Carnivorous giant pod plants, capable of swallowing a humanoid whole 
+- They capture their victims with the pod. They throw spines in defense.
+- Poisonous thorns will cause death within minutes if left untreated.
 
 ### Combat Robot
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+5 HP, 3 Armor, 14 STR, 12 DEX, 10 WIL, Rifled Arm (d8)
+- Automaton designed for war. If it acquires a target nothing will stop it.
+- Insectoid desig: can to move on all types of terrain and surface.
+- Immune to mental manipulation, but vulnerable to kinetic attacks.
 
 ### Floater
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+8 HP, 3 Armor, 12 STR, 16 DEX, 18 WIL, Tentacles (d6), Mind Attack (save vs WIL)
+- Native to gas giants, they look like huge jellyfish. Peaceful if unprovoked.
+- Psionic Master, using especially Thought Control, Xenoglossy, and Psychokinesis.
+- Crusher: its tentacles can crush a human in combat armor.
 
-### Lizardoid
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+### Hiver, Drone
+3 HP, 1 Armor, 10 STR, 12 DEX, 8 WIL, Claws (d6)
+- Humanoid insect with big fly eyes. Lives in hives structured in castes.
+- Drones usually go on reconnaissance, not attack
+- Will call the attention of warriors if they perceive danger.
 
-### Miner Drone
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+### Hiver, Warrior
+6 HP, 2 Armor, 12 STR, 14 DEX, 12 WIL, Energy Rifle (3 x d10)
+- The hiver warriors have human intelligence, although subject to the queen.
+- They commonly use ranged weapons, typically energy rifles.
+- Team Strength: they attack in 2d6 units, with enhanced attack.
+
+### Hiver, Queen
+8 HP, 3 Armor, 14 STR, 10 DEX, 16 WIL, Personal Knife (d4), Energy Pistol (d8) Psionics (see below)
+- They are in charge of the hive and have superhuman intelligence.
+- Skilled diplomats, they will only order the attack if the hive or themselves are threatened.
+- Psionic Masters: will use Thought Control to bend opponents (save vs WIL).
+
+### Krilliks
+4 HP, 1 Armor, 13 STR, 12 DEX, 10 WIL, Staff (d8), Claws (d6) Tail (d10, crusher)
+- Humanoids with the appearance and characteristics of terrestrial reptiles.
+- Highly gregarious species, with a strong sense of clan and family that they will defend with their lives.
+- They usually prefer the use of staves, a blow from their tail is devastating.
 
 ### Ooze
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
-
-### Pod Plants
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+8 HP, 0 Armor, 14 STR, 16 DEX, 12 WIL, Tendrils (d8), Toxic Splash (see below)
+- Giant Parameci look, able to extend tendrils from their bodies.
+- Highly agile and immune to crushing blows. Vulnerable to energy weapons.
+- Toxic Splash: when in mortal danger, they release a powerful acid (instant Critical Damage).
 
 ### Vermid
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
-
-### Xenomorph
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
-
-
-
-Black Destroyer B:4 M:3 S:3 HP: 7 Apex Predator, Sharp Mind
-Bug-Eyed Monster B:4 M:3 S:2 HP:10 Hungry Alien Monster, Crawler
-Combat Robot: B:3 M:2 S:1 HP:4 Rifled Arm, Programmed-to-kill
-Floater B:1 M:3 S:2 HP:6 Jelly Creature, Tentacles
-Miner Drone B:1 M:1 S:1 HP:2 Drilling Machine, Seek-and-Collect
-Ooze B:3 M:1 S:1 HP:4 Toxic Splash, Tendrils
-Pod Plants B:3 M:1 S:2 HP:4 Barbed Spines, Poisonous Thorns
-Space Lizard B:5 M:1 S:3 HP:8 Formidable Predator, Giant Creature
-Vermid B:1 M:1 S:1 HP:1 Pestilent Scavenger, Vacuum Resistant
-Xenomorph B:5 M:2 S:3 HP: 12 Killing Machine, Acid Secretions
+6 HP, 3 Armor, 12 STR, 10 DEX, 8 WIL, Bite (d6), Claws (d8)
+- Centipede the size of a dog. They can live in vacuum and usually on asteroids and moons.
+- Always present in groups (2d6), they will attack on sight.
+- The chitinous exoskeleton is able to resist energy attacks.
 
 ## Making Creatures
 Use the following template to model any more sophisticated Creature or NPC:
@@ -1461,6 +1452,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 # Changelog
+- v.0.5: Added creatures stats.
 - v.0.4.1: Space Station and Colonies sub-section.
 - v.0.4: Addes Worlds & Systems section.
 - v.0.3.2: Shipbuilding costs rules + prices adjustment.
