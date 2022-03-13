@@ -1,5 +1,6 @@
 **Plerion** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and derives from [**Cairn**](https://cairnrpg.com) by Yochai Gal and [Spacer](https://3rddog.itch.io/spacer-v2) (CC BY 4.0 by Paul Umbers).
 
+2022 by Roberto Bisceglie
 
 **Plerion** is an adventure game for one **referee** and at least one other player.
 Players act as hardened spacers exploring, exploiting and commerce through the vastness of space in the far future.
