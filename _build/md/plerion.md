@@ -1087,11 +1087,9 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 [back to index](#index)
 
 # Worlds & Systems
-The Five Galaxies are so exterminated that even within Charted Space not all systems are mapped. This chapter will provide the fundamentals for managing the geography of space and generating star systems.
+The enormous expanses that access to oddspace has made traversable have generated the need to map the vastness of the Five Galaxies. This chapter will provide the fundamentals for managing the geography of space and generating star systems.
 
 ## Space Geography 
-
-The enormous expanses that access to oddspace has made traversable have generated the need to map the vastness of the Five Galaxies. 
 Normal space is subdivided into 10pc-sided cubes, called sub-sectors. 
 
 Below is the conventional scale in which the Charted Space is subdivided:
@@ -1100,7 +1098,7 @@ Below is the conventional scale in which the Charted Space is subdivided:
 - **Cluster**: Aggregation of 2 or more sectors, usually defined by political entities.
 - **Quadrant**: A quarter of a galaxy, containing several sectors each.
 
-![visual representation of a sector](../_img/sector_dia.svg)
+![visual representation of a sector](/img/sector_dia.svg)
 
 To this geography is added the topography of the Wormhole Access Network (WAN). Numerous natural and man-made wormholes are maintained to connect distant sectors and shorten travel times. Usually travel between wormholes is instantaneous and subject to a fee. A pair of wormholes is in exclusive communication, often natural wormholes are single way, while artificial wormholes are always double way, unless disabled on purpose.
 
@@ -1108,7 +1106,7 @@ To this geography is added the topography of the Wormhole Access Network (WAN). 
 
 Space is usually mapped at the local sub-sector level.  To represent a three-dimensional space, it is possible to "press" the representation into two dimensions, representing the distances between nearest stars as edges of a graph.
 
-![subsector diagram](../_img/subsector_dia.svg)
+![subsector diagram](/img/subsector_dia.svg)
 
 To determine the configuration of a sub-sector:
 1. Roll 2d20 to determine the number of stars of the region.
@@ -1131,12 +1129,13 @@ When prompted 1d3, roll 1d6, divide by two and round down.
    - Roll 1d3 to determine how many worlds are in the habitable zone.
 6. Roll for planet features.
 7. Roll to determine moons:
-   1. For gas/ice giant planets, roll 1d20 to termine the number of moons. Roll for determine type and features of each.
-   2. For terrestrial planets, roll 1d3. Then roll for type and features.
-   3. For dwarf planets, roll 1-6. If result is 6 they have one satellite.
-   4. Habitats and asteroid belts have no moons.
+   -. For gas/ice giant planets, roll 1d20 to termine the number of moons. Roll for determine type and features of each.
+   -. For terrestrial planets, roll 1d3. Then roll for type and features.
+   -. For dwarf planets, roll 1-6. If result is 6 they have one satellite.
+   -. Habitats and asteroid belts have no moons.
+8. Roll on Population table to determine each moon inhabitants. They always capped to 10mln.
 
-Giant/dwarf planets and asteroids are naturally uninhabitable, but they are settled using domed and underground facilities.
+Giant/dwarf planets and asteroids are naturally uninhabitable, but they are settled using domed and underground facilities (see Colonies below).
 
 ### Number of Stars per System
 
@@ -1252,6 +1251,30 @@ Roll 1d20: on 19-20 the planet is uninhabited, else roll on the following table.
 |  7-8 | 10k+   | 17-18 | 1bln+   |
 | 9-10 | 100k+  | 19-20 | 10bln+* |
 
+### Space Stations & Bases
+Space stations are quite common in any star system and cannot be determined with a specific algorithm. Usually there can 1d20 stations per planet.  They are usually installed in orbit, on the surface of inhospitable planets and at strategic points such as Langrange Points. To inspire the referee who needs it, here are some examples.
+
+|       1-4       |       5-8      |     9-12     |        13-16       |         17-20        |
+|:---------------:|:--------------:|:------------:|:------------------:|:--------------------:|
+| Wheeled Station | Zero-G Station | Void Citadel | Domed Installation | Underground Facility |
+
+
+|      |                        |       |                   |
+|:----:| ---------------------- |:-----:| ----------------- |
+|  1-2 | Science Lab            | 11-12 | Chemicals Factory |
+|  3-4 | Astronomic Observatory | 13-14 | Mining Station    |
+|  5-6 | Military Base          | 15-16 | Solar Power Plant |
+|  7-8 | Weapon Factory         | 17-18 | Farm              |
+| 9-10 | Electronics Factory    | 19-20 | Idroponics        |
+
+### Colonies
+Inhospitable planets, Gas and Ice Giants, and asteroids can still be inhabited thanks to artificial structures generically called colonies.
+
+|    1-4   |             5-8             |       9-12       |    13-16   |       17-20      |
+|:--------:|:---------------------------:|:----------------:|:----------:|:----------------:|
+| Arcology | Modular Ground Installation | Floating Citadel | Domed City | Underground Base |
+
+
 [back to index](#index)
 
 # Creatures
@@ -1359,6 +1382,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 # Changelog
+- v.0.4.1: Space Station and Colonies sub-section.
 - v.0.4: Addes Worlds & Systems section.
 - v.0.3.2: Shipbuilding costs rules + prices adjustment.
 - v.0.3: Vehicles & Starships, including generation tables and prices.

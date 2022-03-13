@@ -1,5 +1,5 @@
 ---
-title: Plerion System Reference Document (v.0.4)
+title: Plerion System Reference Document (v.0.4.1)
 nav_order: 2
 ---
 

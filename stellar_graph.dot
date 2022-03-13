@@ -1,17 +1,35 @@
 digraph G {
-    edge[arrowhead=none];
-    node[shape=circle, fixedsize=1, width=0.1, label=""];
-    a[color=yellow, style=filled];
-    b[color=orange, style=filled];  
-    c[color=red, style=filled];
-    b[color=blue, style=filled];  
-    a -> b 
-    a -> c
-    b -> c
-    a -> d
-    c -> d
-    b -> e
-    c -> e
-    a -> f
-    d -> f
+    edge[arrowhead=none, fontsize="40pt", fontname="sans-serif", fontcolor="grey"];
+    node[shape=circle, fixedsize=1, width=0.5, label = "", fontsize="50pt", fontname="sans-serif", style=filled];
+    a[color=yellow, xlabel = "Alchir"];
+    b[color=orange, xlabel = "Navior"];  
+    c[color=red, xlabel = "Menchab"];
+    d[color=red, xlabel = "Kitaka"];
+    e[color=red, xlabel = "Vindem"];
+    f[color=orange, xlabel = "Gomeissa"];
+    g[color=orange, xlabel = "Fomal"];
+    h[color=red, xlabel = "Shamak"];
+    i[color=red, xlabel = "Terion"];
+    j[color=yellow, xlabel = "Kasterf"];
+    l[color=red, xlabel = "Arkard"];
+    m[color=blue, xlabel = "Phara"];
+    
+    a -> b [len = 9, xlabel="9ly"];
+    a -> c [len = 9, xlabel="9ly"];
+    a -> d [len = 8, xlabel="8ly"];
+    c -> d [len = 7, xlabel="7ly"];
+    d -> e [len = 7, xlabel="7ly"];
+    c -> e [len = 8, xlabel="8ly"];
+    c -> g [len = 7, xlabel="7ly"];
+    c -> f [len = 8, xlabel="8ly"];
+    f -> g [len = 7, xlabel="7ly"];
+    f -> h [len = 4, xlabel="4ly"];
+    g -> h [len = 3, xlabel="3ly"];
+    f -> i [len = 6, xlabel="6ly"];
+    h -> i [len = 2, xlabel="2ly"];
+    i -> l [len = 6, xlabel="6ly"];
+    i -> j [len = 7, xlabel="7ly"];
+    j -> l [len = 9, xlabel="9ly"];
+    l -> m [len = 6, xlabel="6ly"];
+    
 }
