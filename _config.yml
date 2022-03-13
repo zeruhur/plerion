@@ -3,3 +3,4 @@ title: Plerion RPG
 color_scheme: plerion
 exclude: _build
 url: https://plerion.zeruhur.space
+baseurl: ''
