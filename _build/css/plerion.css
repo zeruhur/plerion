@@ -10,10 +10,6 @@
 
 } */
 
-/* #starting-gear, #alien-names, #name-d20, #starting-gear-d20, #equipment, #cybernetics, #psionics, #rules-summary  {
-    page-break-before: always;
-} */
-
 html {
   font-size: 8pt;
 }
@@ -29,7 +25,11 @@ h1, h2, h3, h4, h5, h6, th {
 }
 
 h1 {
-  page-break-before: right;
+  page-break-before: always;
+}
+
+#alien-names, #starship, #starting-gear-d20, #planethabitat-features  {
+    page-break-before: always;
 }
 
 /**
@@ -71,4 +71,12 @@ p, blockquote, ul, ol, dl, table, pre {
 
 a, a:hover {
     color: #000;
+}
+
+img { 
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto; 
 }
