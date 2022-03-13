@@ -16,9 +16,9 @@ Players act as hardened spacers exploring, exploiting and commerce through the v
 - [Psionics](#psionics)
 - [Vehicles and Starships](#vehicles--starships)
 - [Combat](#combat)
-- [Spacefaring Adventures](#)
 - [Worlds & Systems](#worlds--systems)
 - [Creatures](#creatures)
+- [Spacefaring Adventures](#)
 - [Rules Summary](#rules-summary)
 
 # Overview
@@ -1279,9 +1279,88 @@ Inhospitable planets, Gas and Ice Giants, and asteroids can still be inhabited t
 
 # Creatures
 
-TDB
+Arachnid B:3 M:2 S:2 HP:8 Chitin Hide, Octopod
 
-## Creating Creatures
+### Arachnid
+6 HP, 1 Armor, 12 STR, 14 DEX, 10 WIL, Sharp Legs (d6),  (dX, special items, qualities)
+- Eight-legged insectoids with a tough chitinous exoskeleton, living in swarms.
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Black Destroyer
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Bug-Eyed Monster
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Combat Robot
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Floater
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Lizardoid
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Miner Drone
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Ooze
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Pod Plants
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Vermid
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+### Xenomorph
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+
+
+Black Destroyer B:4 M:3 S:3 HP: 7 Apex Predator, Sharp Mind
+Bug-Eyed Monster B:4 M:3 S:2 HP:10 Hungry Alien Monster, Crawler
+Combat Robot: B:3 M:2 S:1 HP:4 Rifled Arm, Programmed-to-kill
+Floater B:1 M:3 S:2 HP:6 Jelly Creature, Tentacles
+Miner Drone B:1 M:1 S:1 HP:2 Drilling Machine, Seek-and-Collect
+Ooze B:3 M:1 S:1 HP:4 Toxic Splash, Tendrils
+Pod Plants B:3 M:1 S:2 HP:4 Barbed Spines, Poisonous Thorns
+Space Lizard B:5 M:1 S:3 HP:8 Formidable Predator, Giant Creature
+Vermid B:1 M:1 S:1 HP:1 Pestilent Scavenger, Vacuum Resistant
+Xenomorph B:5 M:2 S:3 HP: 12 Killing Machine, Acid Secretions
+
+## Making Creatures
 Use the following template to model any more sophisticated Creature or NPC:
 
 **Name**
