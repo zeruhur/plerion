@@ -5,18 +5,90 @@
   margin: 0.5in; /* Set margin on each page */
 }
 
+@page :left {
+  @bottom-left {
+    content: counter(page);
+    font-family: 'Orbitron';
+    font-weight: bold;
+    position: absolute;
+    z-index: -1;
+  }
+  @bottom-right {
+    content: string(heading);
+    font-family: 'Orbitron';
+    text-transform: uppercase;
+    font-weight: bold;
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+@page :right {
+  @bottom-left {
+    content: string(heading);
+    font-family: 'Orbitron';
+    text-transform: uppercase;
+    font-weight: bold;
+    position: absolute;
+    z-index: -1;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-family: 'Orbitron';
+    font-weight: bold;
+    position: absolute;
+    z-index: -1;
+  }
+}
+
+@page full {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  background: black;
+  margin: 0;
+}
+
+@page :blank {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
+
+@page clean {
+  @bottom-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+}
+
+
+
 /* table, tr, td, th, tbody, thead, tfoot {
     page-break-inside: avoid !important;
 
 } */
 
 html {
+  counter-reset: h1-counter;
+  font-family: 'Lexend';
   font-size: 8pt;
 }
 
 body {
   margin: 0;
-  font-family: 'Lexend';
 }
 
 h1, h2, h3, h4, h5, h6, th {
@@ -25,18 +97,48 @@ h1, h2, h3, h4, h5, h6, th {
 }
 
 h1 {
-  page-break-before: always;
+  counter-increment: h1-counter;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 0;
+  string-set: heading content();
+  text-align: center;
+  page-break-before: right;
 }
 
-#alien-names, #starship, #starting-gear-d20, #planethabitat-features  {
+/* .chapter {
+  page-break-after: right;
+} */
+
+#toc {
+  page: clean;
+}
+#toc p {
+  font-size: 2em;
+}
+#toc ul {
+  display: block;
+  margin: 1em 0;
+  padding: 0;
+}
+#toc li {
+  display: block;
+}
+#toc a {
+  color: inherit;
+  text-decoration: none;
+}
+#toc a::after {
+  content: target-counter(attr(href), page);
+  float: right;
+}
+
+/* #alien-names, #starship, #starting-gear-d20, #planethabitat-features  {
     page-break-before: always;
-}
+} */
 
-/**
- * Tables
- */
 table {
-  /* display: block; */
   width: 100%;
   overflow: auto;
   border-collapse: collapse;
@@ -79,4 +181,56 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: auto; 
+}
+
+h1::before {
+  background: center / cover;
+  /* border-radius: 0 0 50% 50% / 0 0 0.5in 0.5in; */
+  content: "";
+  color: #000;
+  display: block;
+  /* height: 2in; */
+  /* left: -30mm; */
+  position: absolute;
+  /* top: -20mm;
+  width: 5.5in;
+  z-index: -1; */
+}
+#overview::before {
+  background-image: url("../assets/img/header_1.jpg");
+}
+#principles-for-referees::before {
+  background-image: url("../assets/img/header_2.jpg");
+  bottom: 0;
+  height: 8.5in;
+  left: 0;
+  margin: 0;
+  max-width: none;
+  object-fit: cover;
+  page: blank;
+  position: absolute;
+  width: 5.5in;
+  z-index: 1;
+}
+#principles-for-players::before {
+  background-image: url("../assets/img/header_3.jpg");
+}
+#principles-of-the-universe::before {
+  background-image: url("../assets/img/header_4.jpg");
+}
+
+.cover img {
+  bottom: 0;
+  height: 8.5in;
+  left: 0;
+  margin: 0;
+  max-width: none;
+  object-fit: cover;
+  page: full;
+  position: absolute;
+  width: 5.5in;
+  z-index: 1;
+}
+.cover:last-child {
+  break-before: left;
 }
