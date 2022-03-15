@@ -12,14 +12,14 @@ Players act as hardened spacers exploring, exploiting and commerce through the v
 - [Principles of the Universe](#principles-of-the-universe)
 - [Character Creation](#character-creation)
 - [Equipment](#equipment)
-- [Rules](#rules)
 - [Cybernetics](#cybernetics)
 - [Psionics](#psionics)
+- [Archetypes](#archetypes)
+- [Rules](#rules)
 - [Vehicles and Starships](#vehicles--starships)
 - [Combat](#combat)
 - [Worlds & Systems](#worlds--systems)
 - [Creatures](#creatures)
-- [Spacefaring Adventures](#)
 - [Rules Summary](#rules-summary)
 
 # Overview
@@ -221,15 +221,15 @@ It is best to provide the party with a spaceship, roll once on the relevant tabl
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+If you would like something closer to traditional classes, refer to the list of [**Archetypes**](#archetypes).
 
 [back to index](#index)
 
-# Name (d20)
+## Name (d20)
 
-## Human Names
+### Human Names
 
-### Female Names
+#### Female Names
 
 |     |          |     |         |     |          |     |         |
 | --- | -------- | --- | ------- | --- | -------- | --- | ------- |
@@ -240,7 +240,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 5   | Debfa    | 10  | Evelyt  | 15  | Mile     | 20  | Vean    |
 
 
-### Male Names
+#### Male Names
 
 |     |        |     |           |     |          |     |         |
 | --- | ------ | --- | --------- | --- | -------- | --- | ------- |
@@ -250,7 +250,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Annrew | 9   | Eroc      | 14  | Justoph  | 19  | Tine    |
 | 5   | Aqan   | 10  | Hary      | 15  | Lakrence | 20  | Waxter  |
 
-### Neutral Names
+#### Neutral Names
 
 |     |        |     |         |     |        |     |        |
 | --- | ------ | --- | ------- | --- | ------ | --- | ------ |
@@ -260,7 +260,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Brady  | 9   | Keagan  | 14  | Mecah  | 19  | Sidgey |
 | 5   | Cyarke | 10  | Kin     | 15  | Morgan | 20  | So     |
 
-### Surnames
+#### Surnames
 
 |     |          |     |           |     |        |     |         |
 | --- | -------- | --- | --------- | --- | ------ | --- | ------- |
@@ -270,9 +270,9 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Edner    | 9   | Jamos     | 14  | Niewi  | 19  | Turusen |
 | 5   | Evuns    | 10  | Koytovski | 15  | Olsen  | 20  | Wacobs  |
 
-## Alien Names
+### Alien Names
 
-### Female Names
+#### Female Names
 
 |     |        |     |       |     |       |     |        |
 | --- | ------ | --- | ----- | --- | ----- | --- | ------ |
@@ -282,7 +282,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Churi  | 9   | Madai | 14  | Scata | 19  | Zarboe |
 | 5   | Hile   | 10  | Micia | 15  | Sycia | 20  | Zeni   |
 
-### Male Names
+#### Male Names
 
 |     |        |     |         |     |         |     |       |
 | --- | ------ | --- | ------- | --- | ------- | --- | ----- |
@@ -292,7 +292,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Dreele | 9   | Morphee | 14  | Russke  | 19  | Vanni |
 | 5   | Elol   | 10  | Nokti   | 15  | Synthua | 20  | Xilou |
 
-### Neutral Names
+#### Neutral Names
 
 |     |        |     |       |     |        |     |          |
 | --- | ------ | --- | ----- | --- | ------ | --- | -------- |
@@ -302,7 +302,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Drille | 9   | Jori  | 14  | Mromi  | 19  | Shurquen |
 | 5   | Henii  | 10  | Kizo  | 15  | Mule   | 20  | Skoni    |
 
-### Surnames
+#### Surnames
 
 |     |         |     |         |     |          |     |         |
 | --- | ------- | --- | ------- | --- | -------- | --- | ------- |
@@ -406,23 +406,23 @@ If you would like something closer to traditional classes, refer to the list of 
 
 [back to index](#index)
 
-# Starting Gear (d20)
+## Starting Gear (d20)
 
-## Armor
+### Armor
 
 |      |       |        |       |         |
 |:----:|:-----:|:------:|:-----:|:-------:|
 |  1-5 |  6-10 |  11-15 | 16-19 |    20   |
 | None | Light | Medium | Heavy | Special |
 
-## Personal Weapons
+### Personal Weapons
 
 |            |         |                           |               |                       |
 |:----------:|:-------:|:-------------------------:| ------------- |:---------------------:|
 |     1-5    |   6-10  |           11-13           | 14-17         |         18-20         |
 | Blade, Bow | Handgun | Shotgun, Stunner or Rifle | Energy Weapon | Assault Gun, Launcher |
 
-## Tech
+### Tech
 
 |     |             |     |            |     |              |     |              |
 | --- | ----------- | --- | ---------- | --- | ------------ | --- | ------------ |
@@ -432,7 +432,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Env. Mask   | 9   | Gravchute  | 14  | Computer     | 19  | Goggles      |
 | 5   | Scanner     | 10  | Smartlink  | 15  | Survival Kit | 20  | Translator   |
 
-## Gear
+### Gear
 
 |     |          |     |             |     |               |     |              |
 | --- | -------- | --- | ----------- | --- | ------------- | --- | ------------ |
@@ -442,7 +442,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Pouch    | 9   | Comms       | 14  | Toolkit       | 19  | Cabin        |
 | 5   | Droid    | 10  | 100 Credits | 15  | 500 Credits   | 20  | 1k Credits   |
 
-## Vehicle
+### Vehicle
 
 |     |                    |     |                |     |              |     |                  |
 | --- | ------------------ | --- | -------------- | --- | ------------ | --- | ---------------- |
@@ -452,7 +452,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Bicycle            | 9   | Half Track ATV | 14  | Marauder     | 19  | Rowboat          |
 | 5   | Combat Walker      | 10  | Helicopter     | 15  | Mini Sub     | 20  | Tracked Explorer |
 
-## Starship
+### Starship
 
 |          |           |        |                 |       |
 |:--------:|:---------:|:------:|:---------------:|:-----:|
@@ -652,55 +652,6 @@ Implants take no inventory slot.
 
 [back to index](#index)
 
-# Rules
-## Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
-
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
-
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, psionics, etc.
-
-## Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-
-> **Example**  
-  _Aniet encounters a group of heavily-armed Combat Robots standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
-
-## Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
-
-## Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).
-
-## Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
-
-## Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the referee may roll 2d6 and consult the following table:
-
-|    2    |  3-5 |   6-8   | 9-11 |    12   |
-|:-------:|:----:|:-------:|:----:|:-------:|
-| Hostile | Wary | Curious | Kind | Helpful |
-
-## Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
-
-## Assistants
-PCs can hire **Assistants** to aid them in their expeditions. To create an Assistant, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Assistants cost between 1-3sc per day, or a share of whatever Reward the party obtains.
-
-## Wealth & Reward
-Everything costs credits, everyone gets paid in credits. One credits is equivalent to a one copper piece in **Cairn**.
-
-The Reward is what pushes the spacers to adventure, often out of necessity (pay the expenses, make a living), other times for prestige or mere sake of adventure. It can be a lure, taking PCs to exotic and even dangerous locations, by confronting them with intimidating foes.
-
-Planets, space installations, and starports barter and trade based on the local rarity and value of an item or commodity.
-
-[back to index](#index)
-
 # Cybernetics
 Body parts can be replaced or grafted with advanced technological products that increase their power and capabilities. Beings augmented in this way receive the benefits, but are also subject to deterioration and hacking, as well as potential overloads and sensitivity to magnetic fields. In these cases, a saving throw against STR must be passed to avoid **Critical Damage**.
 
@@ -760,6 +711,242 @@ Everyone may use psionics and Willpower is the source. Each time an ability is u
 18. **Teleportation**: The ability to transport oneself and what one is wearing to a place that can be visualized by sight or clairvoyance. Cost: 1 WIL/1000km.
 19. **Thought Control**: You can only control the mind of one person at a time. The subject will obey any order as long as mental contact is maintained. Cost: 1 WIL/minute.
 20. **Xenoglossy**: The ability to understand, write, and speak an unknown language. Cost: 1 WIL/10 minutes.
+
+[back to index](#index)
+
+# Archetypes
+Archetypes are pre-made character packages combinaing equipment, implants and talents. They can be used as an alternative to roll starting gear in [**Character Creation**](#character-creation).
+
+<div class="columned" markdown="1">
+
+### 1. Bounty Hunter
+To bring dangerous scoundrels to justice. Incidentally for a good pay.
+- Ballistic Gel Coat
+- Flechette Rifle
+- Electrowhip
+- Stunner
+- Portable Containment Field
+- License
+
+### 2. Croaker
+A redundant graduate. To repair broken bones, to cure diseases. Out there looking for a job.
+- Trauma Medikit
+- Laser Scalpel
+- Bioscanner
+- White Coat
+- Cortical Implant
+- Eye Implant
+
+### 3. Emissary
+Sometimes useful, sometimes not. Peace rests on their shoulders, not always appreciated.
+- Elegant Clothes
+- Diplomatic Passport
+- Secured Suitcase
+- Universal Translator
+- Personal Comms
+- Telepathy
+
+### 4. Expert
+The subtleties of science have no mystery to them. Know-it-all handyman, every ship should have one.
+- Portable Computer
+- Portable Analysis Kit
+- All-round Digital Library
+- Chemical Reagents
+- Augmented Reality Goggles
+- Brain Augmentation
+
+### 5. Freelancer
+A mercenary, looking for the next high-paying client. Nothing more, nothing less.
+- Projectile Rifle
+- Knife
+- Boarding Armor
+- Survival Kit 
+- Playing Cards
+- Smokes
+
+### 6. Highborn
+Member of the highest castes, ventures out of his regge out of necessity or in search of adventure.
+- Iridescent Robes
+- Diplomatic Pass
+- Enhanced Charm (+2 save vs WIL)
+- Foil
+- Yatch
+- Manservant (2 HP, 12 STR, Knife (d6))
+
+### 7. Hitman
+Professional assassin, hired by mobster (and others) to termine inconvenient or untouchable targets.
+- IR/Nightvision Goggles
+- Binoculars
+- Spiner Rifle
+- Silencer
+- Ballistic Vest
+- Cloacking
+
+### 8. Jarhead
+Wardog devoted to high-risk missions. Strong survival instinct, ready to die.
+- Survival Knife
+- Frag Grenade
+- Energy Rifle
+- Tactical Body Armor
+- Direct Neural Interface
+- Cortical Implant
+
+### 9. Matterjammer
+Master of the mental manipulation of matter. You don't want one as an opponent.
+- Ergokinesis
+- Psychokinesis
+- Pyrokinesis
+- Insulating Gloves
+- Gas Mask
+- Ballistic Vest
+
+### 10. Mindbender
+The mind of others has no secrets for them. They persuade you are an arachnid if they wanted to.
+- Telepathy
+- Thought Control
+- Dreamwalking
+- Staff
+- Sun Glasses
+- Rain Coat
+
+### 11. Operative
+Exotic places, beautiful women, good wine, deadly missions. For the sake of the galaxy.
+- Projectile Pistol
+- Silencer
+- Ballistic Vest
+- Cloacking
+- Eye Implant
+- Mindshield
+
+### 12. Rockhopper
+They jump from asteroid to asteroid to mine and collect minerals for resale at the nearest base.
+- Standard Spacesuit
+- Laser Drill
+- Vacuum Emergency Kit
+- Stimulants Dispenser
+- Detoxifier
+- Miner Ship
+
+### 13. Routeplanner (navigator)
+Human interfaces of the on-board computers, tracing the routes through the oddspace.
+- Spacesense
+- Neural Datalink
+- Brain Augmentation
+- Integrated Comms
+- Cortical Implant
+- Direct Neural Interface
+
+### 14. Savage
+Born on a low-tech planet, skyrocketed while maintaining his primal survival instinct.
+- Survival Kit
+- Arrows x 20
+- Bow
+- Mace
+- Old-fashioned Clothes
+- Chainmail 
+
+### 15. Shaper
+If there is a problem on board, whether it is with wirings or engines, it is them that you will want.
+- Toolkit 
+- Hand Scanner
+- Flashlight
+- Laser Cutter
+- Personal Comms
+- Mechanics Overall
+
+### 16. Smuggler
+Smuggling is certainly not legal, but it's exciting and romantic, isn't it?
+- Personal Drone 
+- Energy Pistol
+- Electrowhip 
+- Air Filter
+- Stimulants Dispenser
+- Ballistic Cloth Jacket 
+
+### 17. Techie
+Computers and electronics have no secrets for them, both hardware and software.
+- Toolkit
+- Neural Datalink
+- Duct Tape
+- Flashlight
+- Portable Computer
+- Clipper
+
+### 18. Trader
+They sail perilous routes to transport goods and people to distant planets. One of the most ancient professions in the universe.
+- Commercial License
+- Guild Uniform
+- Boarding Blade
+- Stun Pistol
+- Ear Implant
+- Universal Translator
+
+### 19. Trailblazer
+Undiscovered voids and unknown planets are their bread and butter.
+- Stun Pistol
+- Synthetic Mesh
+- Universal Translator
+- Environment Mask
+- First Aid Kit
+- Personal Comms
+
+### 20. Voidcutter
+The backbone of transgalactic civilization, pilots of the sidereal expanses.
+- Augmented Reflexes
+- Cortical Implant
+- Eye Implant
+- Integrated Comms
+- Direct Neural Interface
+- Heated Uniform
+
+</div>
+
+# Rules
+## Abilities
+Each of the three **abilities** are used in different circumstances (see **saves**, below).
+
+**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+
+**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+
+**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, psionics, etc.
+
+## Saves
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+
+> **Example**  
+  _Aniet encounters a group of heavily-armed Combat Robots standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+
+## Healing
+Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+
+## Deprivation & Fatigue
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).
+
+## Armor
+Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
+No one can have more than 3 Armor.  
+Shields, gauntlets, and helms may provide additional benefits according to their use.
+
+## Reactions
+When the PCs encounter an NPC whose reaction to the party is not obvious, the referee may roll 2d6 and consult the following table:
+
+|    2    |  3-5 |   6-8   | 9-11 |    12   |
+|:-------:|:----:|:-------:|:----:|:-------:|
+| Hostile | Wary | Curious | Kind | Helpful |
+
+## Morale
+Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+
+## Assistants
+PCs can hire **Assistants** to aid them in their expeditions. To create an Assistant, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Assistants cost between 1-3sc per day, or a share of whatever Reward the party obtains.
+
+## Wealth & Reward
+Everything costs credits, everyone gets paid in credits. One credits is equivalent to a one copper piece in **Cairn**.
+
+The Reward is what pushes the spacers to adventure, often out of necessity (pay the expenses, make a living), other times for prestige or mere sake of adventure. It can be a lure, taking PCs to exotic and even dangerous locations, by confronting them with intimidating foes.
+
+Planets, space installations, and starports barter and trade based on the local rarity and value of an item or commodity.
 
 [back to index](#index)
 
@@ -1453,6 +1640,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 # Changelog
+- v.0.6: Added Archetypes.
 - v.0.5: Added creatures stats.
 - v.0.4.1: Space Station and Colonies sub-section.
 - v.0.4: Addes Worlds & Systems section.

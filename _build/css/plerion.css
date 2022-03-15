@@ -57,6 +57,7 @@
 @page :blank {
   @bottom-right {
     content: none;
+
   }
 
   @bottom-left {
@@ -105,6 +106,26 @@ h1 {
   string-set: heading content();
   text-align: center;
   page-break-before: right;
+}
+
+p {
+  text-align: justify;
+  word-spacing: -1px;
+}
+
+.columned {
+  columns: 2;
+  column-fill: balance;
+}
+
+blockquote {
+  page-break-inside: avoid;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.columned ul {
+  page-break-inside: avoid;
 }
 
 /* .chapter {
@@ -166,7 +187,7 @@ table tr:nth-child(2n) {
 th em {
     font-family: 'Lexend';
 }
-p, blockquote, ul, ol, dl, table, pre {
+p, ul, ol, dl, table, pre {
   margin-top: 0;
   margin-bottom: 1em;
 }
@@ -181,22 +202,23 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: auto; 
+  height: 4.5in;
 }
 
-h1::before {
+/* h1::before {
   background: center / cover;
-  /* border-radius: 0 0 50% 50% / 0 0 0.5in 0.5in; */
+  border-radius: 0 0 50% 50% / 0 0 0.5in 0.5in;
   content: "";
   color: #000;
   display: block;
-  /* height: 2in; */
-  /* left: -30mm; */
+  height: 2in;
+  left: -30mm;
   position: absolute;
-  /* top: -20mm;
+  top: -20mm;
   width: 5.5in;
-  z-index: -1; */
-}
-#overview::before {
+  z-index: -1;
+} */
+/* #overview::before {
   background-image: url("../assets/img/header_1.jpg");
 }
 #principles-for-referees::before {
@@ -207,7 +229,7 @@ h1::before {
   margin: 0;
   max-width: none;
   object-fit: cover;
-  page: blank;
+  page: full;
   position: absolute;
   width: 5.5in;
   z-index: 1;
@@ -217,7 +239,7 @@ h1::before {
 }
 #principles-of-the-universe::before {
   background-image: url("../assets/img/header_4.jpg");
-}
+} */
 
 .cover img {
   bottom: 0;
