@@ -105,7 +105,7 @@ h1 {
   margin: 0;
   string-set: heading content();
   text-align: center;
-  page-break-before: right;
+  page-break-before: always;
 }
 
 p {
@@ -155,9 +155,10 @@ blockquote {
   float: right;
 }
 
-/* #alien-names, #starship, #starting-gear-d20, #planethabitat-features  {
+#starting-gear-d20, #attacking--damage, #scars-table, #planethabitat-features, 
+#floater, #vermid, #landing--exploration, #effect, #costs  {
     page-break-before: always;
-} */
+}
 
 table {
   width: 100%;

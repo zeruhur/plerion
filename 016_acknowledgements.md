@@ -11,6 +11,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 ### Changelog
+- v.0.8: Added Space Faring Adventures and Celestial Names Appendix.
 - v.0.7: Added Spark Tables section.
 - v.0.6: Added Archetypes section.
 - v.0.5: Added creatures stats.

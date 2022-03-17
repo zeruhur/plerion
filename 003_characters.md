@@ -3,7 +3,7 @@
 ## Name, Background & Traits
 First, choose or roll your PC’s **name** and **background** from their respective [tables](#name-d20). A PC’s background informs their potential knowledge and skills.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#origins--traits-d20) tables.
+Next, roll for the rest of your character's **traits** (species, talents, virtue, vices, etc.) on the [**Character Traits**](#origins--traits-d20) tables.
 
 Finally, roll for their **age** (2d20+10).
 
@@ -15,7 +15,7 @@ Player Characters (PCs) have just three attributes:
   Aniet rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
 
 ## Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](#scars-table) table.
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the **Scars** table.
 
 ## Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
@@ -24,22 +24,22 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
 
-A PC cannot carry more items than their inventory allows. Vehicles and backpacks can increase inventory.  **Assistants** can also be paid to carry equipment.
+A PC cannot carry more items than their inventory allows. Vehicles and backpacks can increase inventory. **Assistants** can also be paid to carry equipment.
 
 ## Starting Gear
 All PCs begin with:
 
 - Three days' rations (one slot)
 - A personal comms (one slot)
-- 3d6 credits
+- 3d6x100 credits
 
 Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, vehicles and equipment.
 
-It is best to provide the party with a spaceship, roll once on the relevant table to determine which vessel is assigned.
+It is best to provide the party with a spaceship, roll once on the relevant table to determine which vessel is assigned to the whole group.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
-If you would like something closer to traditional classes, refer to the list of [**Archetypes**](#archetypes).
+If you would like something closer to traditional classes, refer to the list of [**Archetypes**](/007_archetypes.md).
 
 ## Name (d20)
 
