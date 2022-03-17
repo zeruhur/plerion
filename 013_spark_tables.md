@@ -2,6 +2,8 @@
 
 Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The entries are general enough that they can be used as the inspiration for a person, place, event, or object.
 
+<div class="columned" markdown="1">
+
 | D20 | Spark One | Spark Two  |
 |-----|-----------|------------|
 | 1   | far       | photograph |
@@ -186,3 +188,4 @@ Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The ent
 | 19  | cantankerous | rotunda      |
 | 20  | wheeled      | tyrant       |
 
+</div>
