@@ -34,6 +34,11 @@ table thead :empty{
   display: none;
 }
 
+.columned {
+  columns: 2;
+  column-fill: balance;
+}
+
 .columned ul {
   page-break-inside: avoid;
 }
