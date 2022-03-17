@@ -166,6 +166,11 @@ table {
   border-spacing: 0;
   margin: 0 auto;
 }
+
+table thead :empty{
+  display: none;
+}
+
 table th {
   font-weight: bold;
   background: #000;

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;400;500;600;700;800;900&family=Orbitron:wght@400;500;600;700;800;900');
+
+/* app-name */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron' !important;
+    text-transform: capitalize;
+}
+
+body {
+    font-family: 'Lexend';
+  }
+
+  .search a:hover, 
+  .search .search-keyword, 
+  .app-nav a:hover, 
+  .app-nav a:active,
+  .sidebar ul li.active > a, 
+  .markdown-section a, 
+  .token.attr-value, 
+  .token.control, 
+  .token.directive, 
+  .token.string, 
+  .token.unit, 
+  section.cover .cover-main > p:last-child a,
+  section.cover blockquote > p > a:hover
+  { color: #0077ff }  
+
+.github-corner svg {
+    fill: #0077ff;
+}
+
+table thead :empty{
+  display: none;
+}
+
+.columned ul {
+  page-break-inside: avoid;
+}
+
+section.cover .cover-main>p:last-child a {
+  border: 1px solid #0077ff;
+}
+
+section.cover .cover-main>p:last-child a:last-child {
+  background-color: #0077ff;
+}
