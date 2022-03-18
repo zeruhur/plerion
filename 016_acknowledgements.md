@@ -1,6 +1,8 @@
 # Acknowledgements
 Plerion is based on the **Cairn SRD** by Yochai Gal (release under CC BY-SA 4.0 license) and **Spacer** (CC BY 4.0) by Paul Umbers.
 
+Cover has been designed using resources from Freepik.com
+
 A huge thanks to:
 - Marc Miller: for *Traveller*.
 - Jack Vance: for the *Gaean Reach* book series.

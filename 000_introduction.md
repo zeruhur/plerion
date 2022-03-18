@@ -16,4 +16,4 @@ Sources of inspiration:
 
 *Plerion* is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and derives from [**Cairn**](https://cairnrpg.com) by Yochai Gal and [Spacer](https://3rddog.itch.io/spacer-v2) (CC BY 4.0 by Paul Umbers).
 
-v.8.1 2022 by Roberto Bisceglie
+v.0.8.1 2022 by Roberto Bisceglie
