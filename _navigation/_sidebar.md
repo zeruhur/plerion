@@ -14,7 +14,7 @@
 * [Creatures](/013_creatures.md)
 * [Spark Tables](/014_spark_tables.md)
 * [Rules Summary](/015_rules_summary.md)
-* [Acknowledgements](/016_credits.md)
+* [Acknowledgements](/016_acknowledgements.md)
 * [Celestial Names](/017_celestial_names.md)
 * []()
 * []()
