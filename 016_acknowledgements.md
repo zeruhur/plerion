@@ -2,8 +2,8 @@
 Plerion is based on the **Cairn SRD** by Yochai Gal (release under CC BY-SA 4.0 license) and **Spacer** (CC BY 4.0) by Paul Umbers.
 
 A huge thanks to:
-- Marc Miller: for *Traveller*
-- Jack Vance: for the *Gaean Reach* book series
+- Marc Miller: for *Traveller*.
+- Jack Vance: for the *Gaean Reach* book series.
 - Yochai Gal: for *Cairn*, the NSR Discord server, and the kind support.
 - Jim Parkin: for *Weird North* and *Any Planet is Earth*.
 - Adam Hensley: for *Monolith*, sibling separated at birth of Plerion.
@@ -11,6 +11,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 ### Changelog
+- v.0.8.1: Habitats renamed as Space Habitats for clarity.
 - v.0.8: Added Space Faring Adventures and Celestial Names Appendix.
 - v.0.7: Added Spark Tables section.
 - v.0.6: Added Archetypes section.

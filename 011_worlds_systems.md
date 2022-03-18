@@ -35,16 +35,16 @@ When prompted 1d3, roll 1d6, divide by two and round down.
 1. Roll for number of stars in the system.
 2. Roll for spectral type and color.
 3. Roll 1d6+4 to determine the number of planets.
-4. Roll 1d6 to determine the number of habitats.
+4. Roll 1d6 to determine the number of space habitats.
    - If one of them is a ringworld/Dyson sphere, there are no other planets in the system.
 5. Roll for planet type. 
    - Roll 1d3 to determine how many worlds are in the habitable zone.
 6. Roll for planet features.
 7. Roll to determine moons:
-   -. For gas/ice giant planets, roll 1d20 to termine the number of moons. Roll for determine type and features of each.
-   -. For terrestrial planets, roll 1d3. Then roll for type and features.
-   -. For dwarf planets, roll 1-6. If result is 6 they have one satellite.
-   -. Habitats and asteroid belts have no moons.
+   - For gas/ice giant planets, roll 1d20 to termine the number of moons. Roll for determine type and features of each.
+   - For terrestrial planets, roll 1d3. Then roll for type and features.
+   - For dwarf planets, roll 1-6. If result is 6 they have one satellite.
+   - Space habitats and asteroid belts have no moons.
 8. Roll on Population table to determine each moon inhabitants. They always capped to 10mln.
 
 Giant/dwarf planets and asteroids are naturally uninhabitable, but they are settled using domed and underground facilities (see Colonies below).
@@ -75,7 +75,7 @@ Giant/dwarf planets and asteroids are naturally uninhabitable, but they are sett
 |:-----:|:------:|:----------:|:----------:|
 | Dwarf |  Giant | Supergiant | Hypergiant |
 
-### Planets and Habitats
+### Planets and Space Habitats
 
 #### Planet Type
 
@@ -83,7 +83,7 @@ Giant/dwarf planets and asteroids are naturally uninhabitable, but they are sett
 |:---------:|:---------:|:-----------:|:-----:|:-------------:|
 | Gas Giant | Ice Giant | Terrestrial | Dwarf | Asteroid Belt |
 
-#### Habitat Type
+#### Space Habitat Type
 
 |       |                    |       |               |
 |:-----:| ------------------ |:-----:| ------------- |
@@ -113,7 +113,7 @@ Giant/dwarf planets and asteroids are naturally uninhabitable, but they are sett
 |:------:|:------:|:--------:|:--------:|:---------:|
 | Barren | Frozen | Vulcanic | Hothouse | Habitable |
 
-### Planet/Habitat Features
+### Planet/Space Habitat Features
 
 #### Government
 
