@@ -99,18 +99,25 @@ h1, h2, h3, h4, h5, h6, th {
 
 h1 {
   counter-increment: h1-counter;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  margin: 0;
   string-set: heading content();
   text-align: center;
   page-break-before: always;
 }
 
-p {
+#separator {
+  height: 1.4in;
+}
+
+#version {
+  text-align: center;
+  font-size: 9pt;
+  text-transform: uppercase;
+}
+
+p, ol, ul {
   text-align: justify;
   word-spacing: -1px;
+  hyphens: auto;
 }
 
 .columned {
@@ -128,9 +135,19 @@ blockquote {
   page-break-inside: avoid;
 }
 
-/* .chapter {
-  page-break-after: right;
-} */
+.columned ol {
+  page-break-inside: avoid;
+}
+
+.columned table {
+  page-break-inside: avoid;
+}
+
+.columned p {
+  word-spacing: -1px;
+}
+
+/* toc */
 
 #toc {
   page: clean;
@@ -155,10 +172,19 @@ blockquote {
   float: right;
 }
 
-#starting-gear-d20, #attacking--damage, #scars-table, #planethabitat-features, 
-#floater, #vermid, #landing--exploration, #effect, #costs  {
+/* flow control */
+
+#psionics {
+  page-break-before: avoid !important;
+}
+
+#starting-gear-d20, #attacking--damage, #scars-table, #planetspace-habitat-features, 
+#floater, #vermid, #landing--exploration, #effect, #cybernetic-implants, #missions, 
+#shipyard, #starship-modules, #shipbuilding, #trade, #artifacts  {
     page-break-before: always;
 }
+
+/* tables */
 
 table {
   width: 100%;
@@ -202,50 +228,131 @@ a, a:hover {
     color: #000;
 }
 
+/* images */
+
+.bottonimg {
+  object-fit: cover;
+  width: 5.5in;
+}
+
 img { 
   max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: auto; 
-  height: 4.5in;
+  height: 4.2in;
 }
 
-/* h1::before {
-  background: center / cover;
-  border-radius: 0 0 50% 50% / 0 0 0.5in 0.5in;
-  content: "";
-  color: #000;
-  display: block;
+#principlesimg {
+  height: 3.2in;
+  border-radius: 25% 75% / 50%;
+}
+
+#originsimg {
+  height: 1.8in;
+  object-position: 10%;
+  border-radius: 75% 25% / 50%;
+}
+
+#armorimg {
+  height: 1.5in;
+  object-position: 10%;
+  border-radius: 75% 25% / 50%;
+}
+
+#starshipsimg{
+  height: 1.2in;
+  object-position: 10%;
+  border-radius: 25% 75% / 50%;
+}
+
+#psionicsimg {
+  height: 4.5in;
+  border-radius: 25% 75% / 50%;
+}
+
+#archetypesimg{
+  height: 4in;
+  border-radius: 25% 75% / 50%;
+}
+
+#reactionsimg {
   height: 2in;
-  left: -30mm;
-  position: absolute;
-  top: -20mm;
-  width: 5.5in;
-  z-index: -1;
-} */
-/* #overview::before {
-  background-image: url("../assets/img/header_1.jpg");
+  border-radius: 25% 75% / 50%;
 }
-#principles-for-referees::before {
-  background-image: url("../assets/img/header_2.jpg");
-  bottom: 0;
-  height: 8.5in;
-  left: 0;
-  margin: 0;
-  max-width: none;
-  object-fit: cover;
-  page: full;
-  position: absolute;
-  width: 5.5in;
-  z-index: 1;
+
+#distanceimg {
+  height: 1.2in;
+  object-position: 30% 70%;
+  border-radius: 25% 75% / 50%;
 }
-#principles-for-players::before {
-  background-image: url("../assets/img/header_3.jpg");
+
+#criticalimg {
+  height: 2.6in;
+  object-position: 30% 70%;
+  border-radius: 75% 25% / 50%;
 }
-#principles-of-the-universe::before {
-  background-image: url("../assets/img/header_4.jpg");
-} */
+
+#scarsimg {
+  height: 2.5in;
+  border-radius: 25% 75% / 50%;
+}
+
+#vehicleimg {
+  height: 1.5in;
+  border-radius: 25% 75% / 50%;
+}
+
+#effectimg {
+  height: 1.5in;
+  object-position: 0% 85%;
+  border-radius: 25% 75% / 50%;
+}
+
+#costsimg {
+  height: 2in;
+  border-radius: 25% 75% / 50%;
+}
+
+#planetsimg {
+  height: 2in;
+  border-radius: 25% 75% / 50%;
+}
+
+#stationsimg {
+  height: 3in;
+  border-radius: 75% 25% / 50%;
+}
+
+#starfaringimg {
+  height: 1.3in;
+  object-position: 0% 60%;
+  border-radius: 75% 25% / 50%;
+}
+
+#landingimg {
+  height: 1.8in;
+  object-position: 0% 70%;
+  border-radius: 25% 75% / 50%;
+}
+
+#tradeimg {
+  height: 1.8in;
+  border-radius: 75% 25% / 50%;
+}
+
+#whoimg {
+  height: 2in;
+  object-position: -10% 20%;
+  border-radius: 25% 75% / 50%;
+}
+
+#artifactimg {
+  height: 4in;
+  object-position: 0% 70%;
+  border-radius: 75% 25% / 50%;
+}
 
 .cover img {
   bottom: 0;
@@ -259,6 +366,7 @@ img {
   width: 5.5in;
   z-index: 1;
 }
+
 .cover:last-child {
   break-before: left;
 }

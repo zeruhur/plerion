@@ -50,3 +50,11 @@ section.cover .cover-main>p:last-child a {
 section.cover .cover-main>p:last-child a:last-child {
   background-color: #0077ff;
 }
+
+.bottonimg {
+  display: none;
+}
+
+.dia {
+  width: 600px;
+}

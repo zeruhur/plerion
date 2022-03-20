@@ -1,6 +1,6 @@
 Intrepid spacers ply the vastness of the Five Galaxies in search of fortune and glory. 
 
-This is **Plerion**, a sci-fi hack from [*Cairn*](https://cairnrpg.com) designed to play rutilant space opera.
+This is **Plerion**, a sci-fi hack from [*Cairn*](https://cairnrpg.com) designed to play radiant space opera.
 
 Inspired by classic science fiction and the RPGs that emulate it, but with a more modern twist, winking at transhumanism and cyberpunk.
 
@@ -16,4 +16,6 @@ Sources of inspiration:
 
 *Plerion* is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and derives from [**Cairn**](https://cairnrpg.com) by Yochai Gal and [Spacer](https://3rddog.itch.io/spacer-v2) (CC BY 4.0 by Paul Umbers).
 
-v.0.8.1 2022 by Roberto Bisceglie
+<div id="version" markdown="1">
+    v.0.8.2 2022 by Roberto Bisceglie
+</div>

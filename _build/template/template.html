@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
@@ -50,20 +50,24 @@ $endfor$
   $include-before$
   $endfor$
   <section class="cover">
-      <img src="_assets/img/cover.png" />
+      <img src="_assets/cover.png" />
   </section>
 
   $if(toc)$
   <section id="$idprefix$toc" role="doc-toc">
       $if(toc-title)$
-      <h2 id="$idprefix$toc-title">$toc-title$</h2>
+      <h1 id="$idprefix$toc-title">$toc-title$</h1>
       $endif$
       $table-of-contents$
   </section>
   $endif$
-  $body$
-  $for(include-after)$
-  $include-after$
-  $endfor$
+  <section id="separator">
+  </section>
+  <section>
+    $body$
+    $for(include-after)$
+    $include-after$
+    $endfor$
+  </section>
 </body>
 </html>

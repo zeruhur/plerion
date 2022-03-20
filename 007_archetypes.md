@@ -129,6 +129,8 @@ Born on a low-tech planet, skyrocketed while maintaining his primal survival ins
 - Old-fashioned Clothes
 - Chainmail 
 
+<img id="archetypesimg" class="bottonimg" src="_assets/woman-5242907.jpg">
+
 ### 15. Shaper
 If there is a problem on board, whether it is with wirings or engines, it is them that you will want.
 - Toolkit 

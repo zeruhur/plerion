@@ -7,11 +7,13 @@ The game typically plays without strict time accounting. In a fight or circumsta
 
 For ease of reference, range is relative and noted in three terms: **close**, **nearby**, and **distant**.
 
-| /        | Close   | Nearby     | Distant     |
-| -------- | :-----: | :--------: | :---------: |
-| On foot  | < 1.5 m | < 15 m     | < 30 m      |
-| Vehicle  | < 50 m  | < 150 m    | < 500 m     |
-| Starship | Visual  | < 5,000 km | < 15,000 km |
+|    ---   |  Close  |   Nearby   |   Distant   |
+|:--------:|:-------:|:----------:|:-----------:|
+|  On foot | < 1.5 m |   < 15 m   |    < 30 m   |
+|  Vehicle |  < 50 m |   < 150 m  |   < 500 m   |
+| Starship |  Visual | < 5,000 km | < 15,000 km |
+
+<img id="distanceimg" class="bottonimg" src="_assets/freepik/science-fiction-scene (1).jpg">
 
 ## Actions  
 On their turn, a character may move up to nearby and take up to one action. This may be using psionics, attacking, making a second move, or some other reasonable action.
@@ -48,6 +50,8 @@ Attacks with the **blast** quality affect all targets in the noted blast, rollin
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+
+<img id="criticalimg" class="bottonimg" src="_assets/freepik/render-3617342.jpg">
 
 ## Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
@@ -86,3 +90,4 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 11  | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12  | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
+<img id="scarsimg" class="bottonimg" src="_assets/pxfuel.com.jpg">

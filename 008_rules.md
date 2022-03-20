@@ -25,6 +25,8 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
+<img id="reactionsimg" class="bottonimg" src="_assets/freepik/study-halls-biology-digital-illustrations.jpg">
+
 ## Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the referee may roll 2d6 and consult the following table:
 

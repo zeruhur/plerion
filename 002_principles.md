@@ -122,3 +122,5 @@
 - Spacers have different ways of making profit, but all of them are risky.
 - Paramilitary and mercenary missions are a great source of income.
 - Interstellar trade, search for artifacts, or exploration missions are another common activity of spacers.
+
+<img id="principlesimg" class="bottonimg" src="_assets/freepik/science-fiction-scene.jpg">

@@ -10,7 +10,7 @@ Below is the conventional scale in which the Charted Space is subdivided:
 - **Cluster**: Aggregation of 2 or more sectors, usually defined by political entities.
 - **Quadrant**: A quarter of a galaxy, containing several sectors each.
 
-<img src="_assets/graphviz/sector_dia.png" width="600px">
+<img id="sectordia" class="dia" src="_assets/graphviz/sector_dia.png">
 
 To this geography is added the topography of the Wormhole Access Network (WAN). Numerous natural and man-made wormholes are maintained to connect distant sectors and shorten travel times. Usually travel between wormholes is instantaneous and subject to a fee. A pair of wormholes is in exclusive communication, often natural wormholes are single way, while artificial wormholes are always double way, unless disabled on purpose.
 
@@ -18,7 +18,7 @@ To this geography is added the topography of the Wormhole Access Network (WAN). 
 
 Space is usually mapped at the local sub-sector level.  To represent a three-dimensional space, it is possible to "press" the representation into two dimensions, representing the distances between nearest stars as edges of a graph.
 
-<img src="_assets/graphviz/subsector_dia.svg" width="600px">
+<img id="subsectordia" class="dia" src="_assets/graphviz/subsector_dia.svg">
 
 To determine the configuration of a sub-sector:
 1. Roll 2d20 to determine the number of stars of the region.
@@ -75,6 +75,8 @@ Giant/dwarf planets and asteroids are naturally uninhabitable, but they are sett
 |:-----:|:------:|:----------:|:----------:|
 | Dwarf |  Giant | Supergiant | Hypergiant |
 
+<img id="planetsimg" class="bottonimg" src="_assets/freepik/space-ladder-mars-science-fiction-painting-3d-illustration.jpg">
+
 ### Planets and Space Habitats
 
 #### Planet Type
@@ -86,11 +88,11 @@ Giant/dwarf planets and asteroids are naturally uninhabitable, but they are sett
 #### Space Habitat Type
 
 |       |                    |       |               |
-|:-----:| ------------------ |:-----:| ------------- |
-|  1-4  | O'Neil Cylinder    | 15-16 | Bishop Ring   |
-|  5-6  | McKendree Cylinder | 17-18 | Banks Orbital |
-|  7-9  | Stanford Torus     |   19  | Dyson Sphere  |
-| 10-14 | Bernal Sphere      |   20  | Ringworld     |
+| ----- | ------------------ | ----- | ------------- |
+| 1-4   | O'Neil Cylinder    | 15-16 | Bishop Ring   |
+| 5-6   | McKendree Cylinder | 17-18 | Banks Orbital |
+| 7-9   | Stanford Torus     | 19    | Dyson Sphere  |
+| 10-14 | Bernal Sphere      | 20    | Ringworld     |
 
 #### Terrestrial Planet Features
 
@@ -118,50 +120,52 @@ Giant/dwarf planets and asteroids are naturally uninhabitable, but they are sett
 #### Government
 
 |      |              |       |             |
-|:----:| ------------ |:-----:| ----------- |
-|  1-2 | Corporate    | 11-12 | Anarchy     |
-|  3-4 | Democracy    | 13-14 | Technocracy |
-|  5-6 | Oligarchy    | 15-16 | Autocracy   |
-|  7-8 | Dictatorship | 17-18 | Bureaucracy |
+| ---- | ------------ | ----- | ----------- |
+| 1-2  | Corporate    | 11-12 | Anarchy     |
+| 3-4  | Democracy    | 13-14 | Technocracy |
+| 5-6  | Oligarchy    | 15-16 | Autocracy   |
+| 7-8  | Dictatorship | 17-18 | Bureaucracy |
 | 9-10 | Feudal       | 19-20 | Theocracy   |
 
 #### Economy
 
 |       |              |       |                  |
-|:-----:| ------------ |:-----:| ---------------- |
-|  1-6  | Agricultural | 15-16 | Mining           |
-|  7-11 | Industrial   | 17-19 | Political Center |
-| 12-14 | Finance      |   20  | Religious Center |
+| ----- | ------------ | ----- | ---------------- |
+| 1-6   | Agricultural | 15-16 | Mining           |
+| 7-11  | Industrial   | 17-19 | Political Center |
+| 12-14 | Finance      | 20    | Religious Center |
 
 #### GDP Level
 
 |      |         |       |      |
-|:----:| ------- |:-----:| ---- |
-|  1-4 | Poor    | 13-16 | Good |
-|  5-8 | Low     | 17-19 | High |
-| 9-12 | Average |   20  | Rich |
+| ---- | ------- | ----- | ---- |
+| 1-4  | Poor    | 13-16 | Good |
+| 5-8  | Low     | 17-19 | High |
+| 9-12 | Average | 20    | Rich |
 
 #### Technological Level
 
 |     |             |       |                  |
-|:---:| ----------- |:-----:| ---------------- |
-|  1  | Stone Age   |  6-7  | Atomic Age       |
-|  2  | Metal Age   |  8-9  | Information Age  |
-|  3  | Clock Age   | 10-11 | Space Age        |
-|  4  | Steam Age   | 12-13 | Stellar Age      |
-|  5  | Machine Age | 14-20 | Interstellar Age |
+| --- | ----------- | ----- | ---------------- |
+| 1   | Stone Age   | 6-7   | Atomic Age       |
+| 2   | Metal Age   | 8-9   | Information Age  |
+| 3   | Clock Age   | 10-11 | Space Age        |
+| 4   | Steam Age   | 12-13 | Stellar Age      |
+| 5   | Machine Age | 14-20 | Interstellar Age |
 
 #### Population
 
 Roll 1d20: on 19-20 the planet is uninhabited, else roll on the following table.
 
 |      |        |       |         |
-|:----:| ------ |:-----:| ------- |
-|  1-2 | 10+    | 11-12 | 1mln+   |
-|  3-4 | 100+   | 13-14 | 10mln+  |
-|  5-6 | 1,000+ | 15-16 | 100mln+ |
-|  7-8 | 10k+   | 17-18 | 1bln+   |
+| ---- | ------ | ----- | ------- |
+| 1-2  | 10+    | 11-12 | 1mln+   |
+| 3-4  | 100+   | 13-14 | 10mln+  |
+| 5-6  | 1,000+ | 15-16 | 100mln+ |
+| 7-8  | 10k+   | 17-18 | 1bln+   |
 | 9-10 | 100k+  | 19-20 | 10bln+* |
+
+<img id="stationsimg" class="bottonimg" src="_assets/freepik/alien-planet-building.jpg">
 
 ### Space Stations & Bases
 Space stations are quite common in any star system and cannot be determined with a specific algorithm. Usually there can 1d20 stations per planet.  They are usually installed in orbit, on the surface of inhospitable planets and at strategic points such as Langrange Points. To inspire the referee who needs it, here are some examples.
@@ -172,11 +176,11 @@ Space stations are quite common in any star system and cannot be determined with
 
 
 |      |                        |       |                   |
-|:----:| ---------------------- |:-----:| ----------------- |
-|  1-2 | Science Lab            | 11-12 | Chemicals Factory |
-|  3-4 | Astronomic Observatory | 13-14 | Mining Station    |
-|  5-6 | Military Base          | 15-16 | Solar Power Plant |
-|  7-8 | Weapon Factory         | 17-18 | Farm              |
+| ---- | ---------------------- | ----- | ----------------- |
+| 1-2  | Science Lab            | 11-12 | Chemicals Factory |
+| 3-4  | Astronomic Observatory | 13-14 | Mining Station    |
+| 5-6  | Military Base          | 15-16 | Solar Power Plant |
+| 7-8  | Weapon Factory         | 17-18 | Farm              |
 | 9-10 | Electronics Factory    | 19-20 | Idroponics        |
 
 ### Colonies

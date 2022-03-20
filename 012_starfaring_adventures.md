@@ -4,6 +4,8 @@ In the Five Galaxies starfaring travel is as commons as traveling by plane nowad
 
 Nevertheless, venture out on a mission is a risky business that involves facing uncharted expanses, landing on unknown planets facing its alien culture, or face the dangers of an abandoned installation or a derelict, or even face the risk of encountering hostile ships and pirates.
 
+<img id="starfaringimg" class="bottonimg" src="_assets/space-1579231.jpg">
+
 Generally, the referee will provide a map of the local sub-sector with a clear indication of the presence of service stations and the known dangers. It can be assumed that the Charted Space map was purchased and installed on the ship's systems, but this obviously will not contain data on uncharted  star systems, or secret or illegal installations.
 
 ## Contingencies in space
@@ -34,6 +36,8 @@ Not only explorers and trailblazers will face situations in which they will have
 | 11-12 | Advantage                     |
 
 An advantage is anything positive to the mission or to travel purpose (such as meeting a friendly population, finding game, finding a healing compound, etc.).
+
+<img id="landingimg" class="bottonimg" src="_assets/fantasy-6835790.jpg">
 
 ## Salvaging
 Some missions require the boarding of derelict for their salvage or dispossession. Furthermore, even call-for-help events could lead to dealing with similar environments. For each room or environment explored, the referee should roll on the following event table to determine the type of occurrence.
@@ -73,14 +77,20 @@ Usually, the most profitable routes are drawn between agricultural and industria
 
 The base price therefore undergoes variations in relation to planetary GDP level.
 
-| /        | Poor | Low  | Average | Good | High | Rich |
-| -------- | ---- | ---- | ------- | ---- | ---- | ---- |
+| ---      | Poor | Low  | Average | Good | High | Rich |
+| :------: | :--: | :--: | :-----: | :--: | :--: | :--: |
 | Purchase | 120% | 110% | 100%    | 90%  | 80%  | 70%  |
-| Sale     | 80%  | 90   | 100%    | 110% | 120% | 130% |
+| Sale     | 80%  | 90%  | 100%    | 110% | 120% | 130% |
+
+<img id="tradeimg" class="bottonimg" src="_assets/planets-5799077.jpg">
+
+
 
 ## Missions
 
 If you need to build a Mission on the fly or you are looking for inspiration you can pull on the following tables to build the outline.
+
+<div class="columned">
 
 ## Who
 
@@ -90,6 +100,8 @@ If you need to build a Mission on the fly or you are looking for inspiration you
 4. An old mentor
 5. A local population in need
 6. Someone malicious who can blackmail the party
+
+<img id="whoimg" class="bottonimg" src="_assets/woman-1974300.jpg">
 
 ## What
 
@@ -109,7 +121,7 @@ If you need to build a Mission on the fly or you are looking for inspiration you
 5. To seek fortune and glory
 6. To avenge a wrong (to you or someone else)
 
-## Where (1d20 parsecs distant)
+## Where
 
 1. Pirate Base
 2. Nearby Colony
@@ -136,6 +148,8 @@ If you need to build a Mission on the fly or you are looking for inspiration you
 5. You arrived too late/early
 6. The target is somewhere else
 
+</div>
+
 ## Artifacts
 
 Artifacts are rare and powerful items lost in legend and found in the ruins of ancient civilizations or on the market at exorbitant prices. The Five Galaxies are ancient and the amount of artifacts left behind by vanished civilizations is incalculable. Here are some examples:
@@ -144,3 +158,5 @@ Artifacts are rare and powerful items lost in legend and found in the ruins of a
 - **Seer Eye**: anyone wearing it can temporarily acquire clairvoyance powers while not being a psionic. To use it, you must save vs WIL. In case of failure the user will lose his eye.
 - **Neutralizer**: A dangerous artifact that destroyed the civilization that created it. It is capable of instantly killing any life form in any biosphere. One use only.
 - **Precursor Remembrance**: It looks like a banal little casket, but it contains the collective memories of the First Born. An ordinary mind (WIL less than 17) cannot bear its weight. Those who are, have access to advanced knowledge and unlimited mental powers.It can be used only once. Thereafter the user will ascend to a higher plane of existence.
+
+<img id="artifactimg" class="bottonimg" src="_assets/spaceship-5848274.jpg">

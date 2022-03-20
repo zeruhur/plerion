@@ -42,7 +42,7 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 
 |                                                                      |       |
 | -------------------------------------------------------------------- | ----- |
-| Arrows x 20 10                                                       |       |
+| Arrows x 20                                                          | 10    |
 | Boarding Blade (d6 damage, hidden)                                   | 50    |
 | Bow (d6 damage, bulky)                                               | 15    |
 | Brass Knuckles (d4 damage)                                           | 40    |
@@ -110,6 +110,8 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Synthetic Mesh (2 Armor)                                       | 6,000  |
 | Tactical Body Armor (3 Armor, sealed)                          | 10,000 |
 
+<img id="armorimg" class="bottonimg" src="_assets/alien-weapon-3688067.jpg">
+
 ## Cybernetic Implants
 Implants take no inventory slot.
 
@@ -136,6 +138,24 @@ Implants take no inventory slot.
 | Spacesense              | 10,000 |
 | Stimulants Dispenser    | 3,000  |
 
+## Starships
+
+|                 |        |
+| --------------- | ------ |
+| Courier         | 20 mln |
+| Cruiser         | 94 mln |
+| Explorer        | 47 mln |
+| Fighter         | 14 mln |
+| Freighter       | 75 mln |
+| Miner           | 44 mln |
+| Passenger Cargo | 45 mln |
+| Racer           | 18 mln |
+| Trader          | 43 mln |
+| Yatch           | 41 mln |
+
+
+<img id="starshipsimg" class="bottonimg" src="_assets/universe-6019852.jpg">
+
 ## Vehicles
 
 |                    |         |
@@ -160,22 +180,6 @@ Implants take no inventory slot.
 | Riot Tank          | 210,000 |
 | Rowboat            | 5,000   |
 | Tracked Explorer   | 400,000 |
-
-
-## Starships
-
-|                 |        |
-| --------------- | ------ |
-| Courier         | 20 mln |
-| Cruiser         | 94 mln |
-| Explorer        | 47 mln |
-| Fighter         | 14 mln |
-| Freighter       | 75 mln |
-| Miner           | 44 mln |
-| Passenger Cargo | 45 mln |
-| Racer           | 18 mln |
-| Trader          | 43 mln |
-| Yatch           | 41 mln |
 
 ## Living Expensens
 

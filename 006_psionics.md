@@ -26,3 +26,5 @@ Everyone may use psionics and Willpower is the source. Each time an ability is u
 18. **Teleportation**: The ability to transport oneself and what one is wearing to a place that can be visualized by sight or clairvoyance. Cost: 1 WIL/1000km.
 19. **Thought Control**: You can only control the mind of one person at a time. The subject will obey any order as long as mental contact is maintained. Cost: 1 WIL/minute.
 20. **Xenoglossy**: The ability to understand, write, and speak an unknown language. Cost: 1 WIL/10 minutes.
+
+<img id="psionicsimg" class="bottonimg" src="_assets/MaxPixel.net-Alien-Art-Design-Effect-Abstract-Character-6782767.jpg">

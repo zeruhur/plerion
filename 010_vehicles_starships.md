@@ -14,11 +14,11 @@ They have three sizes: **Small**, **Medium** and **Large**.
 
 Each scale grants a number of Load slots and consumes a different amount of fuel (to be considered abstract and indicative for non-spaceships).
 
-| \      | Load | Fuel (Ground) | Fuel (Water/Air) | Fuel (Starship) |
-| ------ |:----:|:-------------:|:----------------:|:---------------:|
-| Small  |  10  |     2 l/km    |      3 l/km      |     1 bbl/pc    |
+|   ---  | Load | Fuel (Ground) | Fuel (Water/Air) | Fuel (Starship) |
+|:------:|:----:|:-------------:|:----------------:|:---------------:|
+|  Small |  10  |     2 l/km    |      3 l/km      |     1 bbl/pc    |
 | Medium |  20  |     4 l/km    |      6 l/km      |     5 bbl/pc    |
-| Large  |  30  |     6 l/km    |      10 l/km     |    10 bbl/pc    |
+|  Large |  30  |     6 l/km    |      10 l/km     |    10 bbl/pc    |
 
 Most modules & weapons take up one slot, and small ones can be bundled together. **Broad** modules take up two slots. The vacant space can be used to carry cargo or passengers: 100 tons of cargo equal to 1 slot; 2 passengers occupy 1 slot. Crew does not occupy additional Load. A vehicle carrying a full load is reduced to 0 HP. A vehicle cannot carry more items than their Load allows.
 
@@ -26,17 +26,15 @@ A standard barrel is equivalent to 160 liters of fuel, costs on average 200 cred
 
 Vehicles of different scales are considered more agile in maneuvering than those of larger sizes.
 
-## Weapons
-Weapons fall into two categories: normal and blast.
-
-Normal weapons include lasers, blasters, particle beams, cannons, rail-guns, gatling guns, rockets and anything else where the act of firing results in damage in the same round. Combat is handle using the normal procedure.
-
-Blast weapons include torpedoes, bombs and mass-drivers, the primary characteristic of which is that there is a delay (sometimes significant)
-between firing the weapon and the actual damage. They require the firing character to take a Lock Target action (see below) in one round, then fire the weapon on a later round. The lock must be maintained until the weapon hits.
-
 ## Armor
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. No vehicle can have more than 5 Armor.  
 Additional modules may provide additional benefits according to their use.
+
+## Weapons
+Weapons fall into two categories:
+- **Normal weapons** include lasers, blasters, particle beams, cannons, rail-guns, gatling guns, rockets and anything else where the act of firing results in damage in the same round. Combat is handle using the normal procedure.
+- **Blast weapons** include torpedoes, bombs and mass-drivers, the primary characteristic of which is that there is a delay (sometimes significant)
+between firing the weapon and the actual damage. They require the firing character to take a Lock Target action (see below) in one round, then fire the weapon on a later round. The lock must be maintained until the weapon hits.
 
 ## Hull
 As characters have Hit Protection, vehicles and starships possess Hull Points which reflect their ability to avoid damage in combat.
@@ -68,6 +66,8 @@ When damage to a vehicle reduces their HP to exactly 0, it gets an effect. Roll 
 | 4   | The engines take a hit. The vehicle cannot maneuver and, if flying in a gravitational field, will fall from the sky unless repaired.                                                 |
 | 5   | The hull is breached, determine where randomly. Anyone in the affected area will suffer the effects of the atmosphere (if toxic) or vacuum (if in space) until the breach is sealed. |
 | 6   | The vehicle’s controls explode in a shower of sparks & debris. d6 damage to any crew member using them, Dexterity Save to avoid.                                                     |
+
+<img id="effectimg" class="bottonimg" src="_assets/piqsels.com-id-jjtzk.jpg">
 
 ## Destruction and Repairs
 
@@ -231,3 +231,4 @@ The costs of building a spaceship are determined by size, number of installed mo
 - Weapons: 1 mln for turret,  
 - Modules: 1 mln for standard, 3 mln for broad.
 
+<img id="costsimg" class="bottonimg" src="_assets/fantasy-5047080.jpg">
