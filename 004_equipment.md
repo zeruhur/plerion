@@ -154,8 +154,6 @@ Implants take no inventory slot.
 | Yatch           | 41 mln |
 
 
-<img id="starshipsimg" class="bottonimg" src="_assets/universe-6019852.jpg">
-
 ## Vehicles
 
 |                    |         |
@@ -180,6 +178,8 @@ Implants take no inventory slot.
 | Riot Tank          | 210,000 |
 | Rowboat            | 5,000   |
 | Tracked Explorer   | 400,000 |
+
+<img id="starshipsimg" class="bottonimg" src="_assets/universe-6019852.jpg">
 
 ## Living Expensens
 
