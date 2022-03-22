@@ -14,6 +14,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 ### Changelog
+- v.0.8.3: Added Appendix B, reduced Appendix A.
 - v.0.8.2: Added PDF images.
 - v.0.8.1: Habitats renamed as Space Habitats for clarity.
 - v.0.8: Added Space Faring Adventures and Celestial Names Appendix.

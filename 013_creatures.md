@@ -88,7 +88,7 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
-**Converting from OSR Games**  
+**Converting from OSR Games** 
 - Give 1 HP per HD for most creatures.
 - Most humanoids have at least 4HP.
 - **Morale** can also be used as a baseline.
@@ -101,4 +101,3 @@ Some pointers:
 - Is it charismatic? Give it high **WIL**.
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
-

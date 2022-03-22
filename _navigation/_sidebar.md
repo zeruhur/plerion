@@ -15,7 +15,11 @@
 * [Spark Tables](/014_spark_tables.md)
 * [Rules Summary](/015_rules_summary.md)
 * [Acknowledgements](/016_acknowledgements.md)
-* [Celestial Names](/017_celestial_names.md)
-* []()
+---
+* [Appendix A: Celestial Names](/017_celestial_names.md)
+* [Appendix B: Creatures & NPC Conversion Guides](/018_conversion_guides.md)
+---
+* Tools
+  * [More Celestial Names](/901_more_celestial_names.md)
 * []()
 * []()
