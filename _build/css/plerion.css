@@ -118,6 +118,8 @@ p, ol, ul {
   text-align: justify;
   word-spacing: -1px;
   hyphens: auto;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern";
 }
 
 .columned {
