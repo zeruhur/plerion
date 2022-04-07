@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plerion Character Sheet</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;400;500;600;700;800;900&family=Orbitron:wght@400;500;600;700;800;900');
+        
+        @page {
+            size: 5.5in 8.5in;
+            margin: 0in;
+        }
+
+        html {
+            font-family: 'Lexend';
+        }
+
+        h1, h2 {
+            font-family: 'Orbitron';
+
+        }
+
+        h1 {
+            text-transform: uppercase;
+        }
+
+        .section h2 {
+            text-align: center;
+            text-transform:capitalize;
+        }
+
+        .section {
+            width: 100%;
+            display: block;
+        }
+
+        .column {
+            display: flex;
+            flex-direction: column;
+            flex-basis: 100%;
+            flex: 1;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            padding: 0.10em;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .box {
+            flex: 1;
+            display:grid;
+            border: 1px dashed black;
+            padding: 0.5em;
+            margin: 0.5em;
+            height: 1em;
+            border-radius: 10%;
+            align-items: center;
+        }
+
+        .lbox {
+            flex:none;
+            height: 4.9em;
+            display:grid;
+            border: 1px dashed black;
+            padding: 0.5em;
+            margin: 0.5em;
+            border-radius: 10%;
+            align-items: center;
+        }
+
+        .empty {
+            flex: 2.5;
+        }
+
+        .title, .separator {
+            font-size: 1em;
+        }
+
+        .column > h2 {
+            margin: 0.2em;
+        }
+
+        #subtitle {
+            font-size: 70%;
+        }
+
+        #item {
+            margin: 0;
+        }
+        
+        #scarbox {
+            flex:none;
+            height: 6.5em;
+        }
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Plerion <span id="subtitle">Character Sheet</span></h1> 
+    </header>
+    <div class="section" id="upper">
+        <div class="container" id="identity">
+            <h2 class="title">Name</h2>
+            <div class="box" id="name"></div>
+            <h2 class="title">Surname</h2>
+            <div  class="box" id="surname"></div>
+        </div>    
+        <div class="container" id="background">    
+            <h2 class="title">Background</h2>
+            <div class="box" id="bkgrd"></div>
+        </div>
+        <div class="container" id="traits">
+            <div class="column">
+                <h2 class="title">Traits</h2>
+                <div class="lbox" id="traitslist"></div>
+            </div>
+            <div class="column">
+                <h2 class="title">Psionics</h2>
+                <div class="lbox" id="psionics"></div>
+            </div>
+        </div>
+        <div class="container" id="abilities">
+            <h2 class="title">STR</h2>
+            <div class="box" id="str"></div>
+            <h2 class="separator">/</h2>
+            <div class="box" id="strmax"></div>
+            <h2 class="title">DEX</h2>
+            <div class="box" id="dex"></div>
+            <h2 class="separator">/</h2>
+            <div class="box" id="dexmax"></div>
+            <h2 class="title">WIL</h2>
+            <div class="box" id="wil"></div>
+            <h2 class="separator">/</h2>
+            <div class="box" id="wilmax"></div>
+        </div>    
+        <div class="container" id="abilities2">
+            <h2 class="title">HP</h2>
+            <div class="box" id="hp"></div>
+            <h2 class="separator">/</h2>
+            <div class="box" id="hpmax"></div>
+            <h2 class="title">Armor</h2>
+            <div class="box" id="armor"></div>
+            <h2 class="title">Deprived</h2>
+            <div class="box" id="deprived"></div>
+            <div class="empty"></div>
+        </div>
+    </div>
+    <div class="section" id="middle">
+        <div class="container">
+            <div class="column">
+                <h2 class="title">Inventory</h2>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+                <div class="box" id="item"></div>
+            </div>
+            <div class="column">
+                <h2 class="title">Funds</h2>
+                <div class="box" id="fundslist"></div>
+                <h2 class="title">Scars</h2>
+                <div class="box" id="scarbox"></div>
+            </div>
+        </div>
+    </div>
+    <div class="section" id="bottom">
+        <div class="container" id="traits">
+            <div class="column">
+                <h2 class="title">Implants</h2>
+                <div class="lbox" id="implants"></div>
+            </div>
+            <div class="column">
+                <h2 class="title">Vehicles/Starship</h2>
+                <div class="lbox" id="vehicles"></div>
+            </div>
+        </div>
+    <footer>
+
+    </footer>
+</body>
+</html>

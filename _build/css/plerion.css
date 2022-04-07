@@ -372,3 +372,77 @@ img {
 .cover:last-child {
   break-before: left;
 }
+
+/* character sheet */
+
+.section h2 {
+  text-align: center;
+  text-transform:capitalize;
+}
+
+.section {
+  width: 100%;
+  display: block;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 0.10em;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  flex: 1;
+  display:grid;
+  border: 1px dashed black;
+  padding: 0.5em;
+  margin: 0.5em;
+  height: 1em;
+  border-radius: 10%;
+  align-items: center;
+}
+
+.lbox {
+  flex:none;
+  height: 4.9em;
+  display:grid;
+  border: 1px dashed black;
+  padding: 0.5em;
+  margin: 0.5em;
+  border-radius: 10%;
+  align-items: center;
+}
+
+.empty {
+  flex: 2.5;
+}
+
+.title, .separator {
+  font-size: 1em;
+}
+
+.column > h1 {
+  margin: 0.2em;
+}
+
+#subtitle {
+  font-size: 70%;
+}
+
+#item {
+  margin: 0;
+}
+
+#scarbox {
+  flex:none;
+  height: 6.5em;
+}
