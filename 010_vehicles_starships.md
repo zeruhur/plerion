@@ -27,7 +27,7 @@ A standard barrel is equivalent to 160 liters of fuel, costs on average 200 cred
 Vehicles of different scales are considered more agile in maneuvering than those of larger sizes.
 
 ## Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. No vehicle can have more than 5 Armor.  
+Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. No vehicle can have more than 3 Armor.  
 Additional modules may provide additional benefits according to their use.
 
 ## Weapons
