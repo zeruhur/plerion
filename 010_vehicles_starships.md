@@ -201,7 +201,7 @@ Medium, 4 HP, 2 Armor, 12 INT, 12 ENG, 14 SYS, 9/20 Load
 - Weapons: 2 turret-mounted Laser Guns.
 - Modules:  Main Reactor, Crew Quarters, Sub-light Drive, Odd Drive, Life Support, Cargo Bay, Sickbay.
 
-### Yatch
+### Yacht
 Medium, 1 HP, No Armor, 12 INT, 14 ENG, 12 SYS, 9/20 Load
 - Especially luxurious private passenger ship.
 - Weapons: Not provided.

@@ -54,7 +54,7 @@ Member of the highest castes, ventures out of his regge out of necessity or in s
 - Diplomatic Pass
 - Enhanced Charm (+2 save vs WIL)
 - Foil
-- Yatch
+- Yacht
 - Manservant (2 HP, 12 STR, Knife (d6))
 
 ### 7. Hitman

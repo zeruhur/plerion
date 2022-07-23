@@ -151,7 +151,7 @@ Implants take no inventory slot.
 | Passenger Cargo | 45 mln |
 | Racer           | 18 mln |
 | Trader          | 43 mln |
-| Yatch           | 41 mln |
+| Yacht           | 41 mln |
 
 
 ## Vehicles
