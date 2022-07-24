@@ -156,7 +156,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | --- | ----------- | --- | -------- | --- | ---------- | --- | ----------- |
 | 1   | Acrobatic   | 6   | Lucky    | 11  | Brawler    | 16  | Opportunist |
 | 2   | Berserker   | 7   | Resolute | 12  | Focused    | 17  | Perceptive  |
-| 3   | Charismatic | 8   | Sneaky   | 13  | Thoughtful | 18  | Psionic     |
+| 3   | Charismatic | 8   | Sneaky   | 13  | Thoughtful | 18  | Empathic    |
 | 4   | Educated    | 9   | Tough    | 14  | Learned    | 19  | Impulsive   |
 | 5   | Insightful  | 10  | Vigilant | 15  | Marksman   | 20  | Survivalist |
 
