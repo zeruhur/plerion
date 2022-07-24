@@ -226,10 +226,10 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ### Armor
 
-|      |       |        |       |         |
-|:----:|:-----:|:------:|:-----:|:-------:|
-|  1-5 |  6-10 |  11-15 | 16-19 |    20   |
-| None | Light | Medium | Heavy | Special |
+|      |                        |                |                |             |
+|:----:|:----------------------:|:--------------:|:--------------:|:-----------:|
+|  1-5 |          6-10          |      11-15     |      16-19     |      20     |
+| None | Ballistic Cloth Jacket | Synthetic Mesh | Boarding Armor | Power Armor |
 
 ### Personal Weapons
 
