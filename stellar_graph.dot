@@ -14,7 +14,7 @@ digraph G {
     l[color=red, xlabel = "Arkard"];
     m[color=blue, xlabel = "Phara"];
     
-    a -> b [len = 9, xlabel="9ly"];
+    a -> b [len = 3, xlabel="3ly"];
     a -> c [len = 9, xlabel="9ly"];
     a -> d [len = 8, xlabel="8ly"];
     c -> d [len = 7, xlabel="7ly"];
