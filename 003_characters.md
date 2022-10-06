@@ -1,15 +1,15 @@
 # Character Creation
 
 ## Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name-d20). A PC’s background informs their potential knowledge and skills.
+First, roll for the rest of your character's **background** and **traits** (species, talents, virtue, vices, etc.) on the [**Character Traits**](#origins--traits-d20) tables. Only aliens may have special abilities. 
 
-Next, roll for the rest of your character's **traits** (species, talents, virtue, vices, etc.) on the [**Character Traits**](#origins--traits-d20) tables.
+Next, choose or roll your PC’s **name** from their respective [tables](#name-d20). A PC’s background informs their potential knowledge and skills.
 
 Finally, roll for their **age** (2d20+10).
 
 ## Ability Scores  
 Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results. If WIL is greater than 12, the PC may have psionic powers (see [Psionics](./006_psionics.md))
 
 > **Example**  
   Aniet rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
@@ -40,6 +40,98 @@ It is best to provide the party with a spaceship, roll once on the relevant tabl
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
 If you would like something closer to traditional classes, refer to the list of [**Archetypes**](/007_archetypes.md).
+
+## Origins & Traits (d20)
+
+### Species
+
+|     |            |     |           |     |           |     |            |
+| --- | ---------- | --- | --------- | --- | --------- | --- | ---------- |
+| 1   | Humanoid   | 6   | Insectoid | 11  | Canine    | 16  | Cetacean   |
+| 2   | Humanoid   | 7   | Icthyoid  | 12  | Feline    | 17  | Energy     |
+| 3   | Humanoid   | 8   | Saurian   | 13  | Amorphous | 18  | Amphibious |
+| 4   | Humanoid   | 9   | Ursine    | 14  | Symbiont  | 19  | Human      |
+| 5   | Transhuman | 10  | Vulpine   | 15  | Quadruped | 20  | Human      |
+
+### Species Abilities (Non-Human Characters)
+
+|     |              |     |            |     |           |     |             |
+| --- | ------------ | --- | ---------- | --- | --------- | --- | ----------- |
+| 1   | Aggressive   | 6   | Weakness   | 11  | Telepathy | 16  | Ethereal    |
+| 2   | Shapeshifter | 7   | Multi-limb | 12  | Logic     | 17  | Telekinesis |
+| 3   | Invisibility | 8   | Regenerate | 13  | Climbing  | 18  | Reputation  |
+| 4   | Multiform    | 9   | Teleport   | 14  | Immunity  | 19  | Healer      |
+| 5   | Hive Mind    | 10  | Parasitic  | 15  | Poisonous | 20  | Weak Spot   |
+
+### Talents
+
+|     |             |     |          |     |            |     |             |
+| --- | ----------- | --- | -------- | --- | ---------- | --- | ----------- |
+| 1   | Acrobatic   | 6   | Lucky    | 11  | Brawler    | 16  | Opportunist |
+| 2   | Berserker   | 7   | Resolute | 12  | Focused    | 17  | Perceptive  |
+| 3   | Charismatic | 8   | Sneaky   | 13  | Thoughtful | 18  | Empathic    |
+| 4   | Educated    | 9   | Tough    | 14  | Learned    | 19  | Impulsive   |
+| 5   | Insightful  | 10  | Vigilant | 15  | Marksman   | 20  | Survivalist |
+
+### Background
+
+|     |            |     |          |     |            |     |            |
+| --- | ---------- | --- | -------- | --- | ---------- | --- | ---------- |
+| 1   | Technician | 6   | Explorer | 11  | Barbarian  | 16  | Performer  |
+| 2   | Clergy     | 7   | Cop      | 12  | Politician | 17  | Pickpocket |
+| 3   | Pilot      | 8   | Soldier  | 13  | Mercenary  | 18  | Smuggler   |
+| 4   | Noble      | 9   | Gambler  | 14  | Merchant   | 19  | Student    |
+| 5   | Hacker     | 10  | Medic    | 15  | Outlaw     | 20  | Thug       |
+
+### Homeworld
+
+|     |               |     |           |     |             |     |          |
+| --- | ------------- | --- | --------- | --- | ----------- | --- | -------- |
+| 1   | Space Station | 6   | Arctic    | 11  | Gas Giant   | 16  | Huge     |
+| 2   | High          | 7   | Jungle    | 12  | Starship    | 17  | Asteroid |
+| 3   | Low-G         | 8   | High-Tech | 13  | Water World | 18  | Toxic    |
+| 4   | Zero-G        | 9   | Low-Tech  | 14  | Rock        | 19  | Toxic    |
+| 5   | Desert        | 10  | Colony    | 15  | Volcanic    | 20  | Dead     |
+
+### Clothing
+
+|     |           |     |            |     |           |     |           |
+| --- | --------- | --- | ---------- | --- | --------- | --- | --------- |
+| 1   | Dark      | 6   | Futuristic | 11  | Tight     | 16  | Sensible  |
+| 2   | Gaudy     | 7   | Dapper     | 12  | Formal    | 17  | Sporty    |
+| 3   | Colourful | 8   | Majestic   | 13  | Homespun  | 18  | Thermal   |
+| 4   | Fur       | 9   | Chic       | 14  | Modest    | 19  | Glossy    |
+| 5   | Leather   | 10  | Baggy      | 15  | Revealing | 20  | Geometric |
+
+### Virtue
+
+|     |            |     |             |     |            |     |           |
+| --- | ---------- | --- | ----------- | --- | ---------- | --- | --------- |
+| 1   | Ambitious  | 6   | Disciplined | 11  | Honourable | 16  | Merciful  |
+| 2   | Cautious   | 7   | Focused     | 12  | Humble     | 17  | Righteous |
+| 3   | Colourful  | 8   | Generous    | 13  | Idealistic | 18  | Serene    |
+| 4   | Courageous | 9   | Gregarious  | 14  | Just       | 19  | Stoic     |
+| 5   | Curious    | 10  | Honest      | 15  | Loyal      | 20  | Tolerant  |
+
+### Vice
+
+|     |            |     |            |     |            |     |            |
+| --- | ---------- | --- | ---------- | --- | ---------- | --- | ---------- |
+| 1   | Aggressive | 6   | Deceitful  | 11  | Lazy       | 16  | Suspicious |
+| 2   | Arrogant   | 7   | Flippant   | 12  | Nervous    | 17  | Vain       |
+| 3   | Bitter     | 8   | Gluttonous | 13  | Prejudiced | 18  | Vengeful   |
+| 4   | Cowardly   | 9   | Greedy     | 14  | Reckless   | 19  | Wasteful   |
+| 5   | Cruel      | 10  | Irascible  | 15  | Rude       | 20  | Whiny      |
+
+### Misfortune
+
+|     |             |     |             |     |           |     |           |
+| --- | ----------- | --- | ----------- | --- | --------- | --- | --------- |
+| 1   | Abandoned   | 6   | Defrauded   | 11  | Framed    | 16  | Pursued   |
+| 2   | Addicted    | 7   | Demoted     | 12  | Haunted   | 17  | Rejected  |
+| 3   | Blackmailed | 8   | Discredited | 13  | Kidnapped | 18  | Replaced  |
+| 4   | Condemned   | 9   | Disowned    | 14  | Mutilated | 19  | Robbed    |
+| 5   | Unlucky     | 10  | Exiled      | 15  | Poor      | 20  | Suspected |
 
 ## Name (d20)
 
@@ -128,99 +220,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4   | Ch'Alen | 9   | Kalle   | 14  | Sl'Corvi | 19  | U'Dora  |
 | 5   | Gr'Anan | 10  | Kh'Nari | 15  | Sloni    | 20  | V'Sconi |
 
-## Origins & Traits (d20)
-
-### Species
-
-|     |            |     |           |     |           |     |            |
-| --- | ---------- | --- | --------- | --- | --------- | --- | ---------- |
-| 1   | Human      | 6   | Insectoid | 11  | Canine    | 16  | Cetacean   |
-| 2   | Human      | 7   | Icthyoid  | 12  | Feline    | 17  | Energy     |
-| 3   | Human      | 8   | Saurian   | 13  | Amorphous | 18  | Amphibious |
-| 4   | Human      | 9   | Ursine    | 14  | Symbiont  | 19  | Humanoid   |
-| 5   | Transhuman | 10  | Vulpine   | 15  | Quadruped | 20  | Humanoid   |
-
-### Species Abilities (Non-Human Characters)
-
-|     |              |     |            |     |           |     |             |
-| --- | ------------ | --- | ---------- | --- | --------- | --- | ----------- |
-| 1   | Aggressive   | 6   | Weakness   | 11  | Telepathy | 16  | Ethereal    |
-| 2   | Shapeshifter | 7   | Multi-limb | 12  | Logic     | 17  | Telekinesis |
-| 3   | Invisibility | 8   | Regenerate | 13  | Climbing  | 18  | Reputation  |
-| 4   | Multiform    | 9   | Teleport   | 14  | Immunity  | 19  | Healer      |
-| 5   | Hive Mind    | 10  | Parasitic  | 15  | Poisonous | 20  | Weak Spot   |
-
-### Talents
-
-|     |             |     |          |     |            |     |             |
-| --- | ----------- | --- | -------- | --- | ---------- | --- | ----------- |
-| 1   | Acrobatic   | 6   | Lucky    | 11  | Brawler    | 16  | Opportunist |
-| 2   | Berserker   | 7   | Resolute | 12  | Focused    | 17  | Perceptive  |
-| 3   | Charismatic | 8   | Sneaky   | 13  | Thoughtful | 18  | Empathic    |
-| 4   | Educated    | 9   | Tough    | 14  | Learned    | 19  | Impulsive   |
-| 5   | Insightful  | 10  | Vigilant | 15  | Marksman   | 20  | Survivalist |
-
-### Homeworld
-
-|     |               |     |           |     |             |     |          |
-| --- | ------------- | --- | --------- | --- | ----------- | --- | -------- |
-| 1   | Space Station | 6   | Arctic    | 11  | Gas Giant   | 16  | Huge     |
-| 2   | High          | 7   | Jungle    | 12  | Starship    | 17  | Asteroid |
-| 3   | Low-G         | 8   | High-Tech | 13  | Water World | 18  | Toxic    |
-| 4   | Zero-G        | 9   | Low-Tech  | 14  | Rock        | 19  | Toxic    |
-| 5   | Desert        | 10  | Colony    | 15  | Volcanic    | 20  | Dead     |
-
-### Clothing
-
-|     |           |     |            |     |           |     |           |
-| --- | --------- | --- | ---------- | --- | --------- | --- | --------- |
-| 1   | Dark      | 6   | Futuristic | 11  | Tight     | 16  | Sensible  |
-| 2   | Gaudy     | 7   | Dapper     | 12  | Formal    | 17  | Sporty    |
-| 3   | Colourful | 8   | Majestic   | 13  | Homespun  | 18  | Thermal   |
-| 4   | Fur       | 9   | Chic       | 14  | Modest    | 19  | Glossy    |
-| 5   | Leather   | 10  | Baggy      | 15  | Revealing | 20  | Geometric |
-
-### Virtue
-
-|     |            |     |             |     |            |     |           |
-| --- | ---------- | --- | ----------- | --- | ---------- | --- | --------- |
-| 1   | Ambitious  | 6   | Disciplined | 11  | Honourable | 16  | Merciful  |
-| 2   | Cautious   | 7   | Focused     | 12  | Humble     | 17  | Righteous |
-| 3   | Colourful  | 8   | Generous    | 13  | Idealistic | 18  | Serene    |
-| 4   | Courageous | 9   | Gregarious  | 14  | Just       | 19  | Stoic     |
-| 5   | Curious    | 10  | Honest      | 15  | Loyal      | 20  | Tolerant  |
-
-### Vice
-
-|     |            |     |            |     |            |     |            |
-| --- | ---------- | --- | ---------- | --- | ---------- | --- | ---------- |
-| 1   | Aggressive | 6   | Deceitful  | 11  | Lazy       | 16  | Suspicious |
-| 2   | Arrogant   | 7   | Flippant   | 12  | Nervous    | 17  | Vain       |
-| 3   | Bitter     | 8   | Gluttonous | 13  | Prejudiced | 18  | Vengeful   |
-| 4   | Cowardly   | 9   | Greedy     | 14  | Reckless   | 19  | Wasteful   |
-| 5   | Cruel      | 10  | Irascible  | 15  | Rude       | 20  | Whiny      |
-
-### Background
-
-|     |            |     |          |     |            |     |            |
-| --- | ---------- | --- | -------- | --- | ---------- | --- | ---------- |
-| 1   | Technician | 6   | Explorer | 11  | Barbarian  | 16  | Performer  |
-| 2   | Clergy     | 7   | Cop      | 12  | Politician | 17  | Pickpocket |
-| 3   | Pilot      | 8   | Soldier  | 13  | Mercenary  | 18  | Smuggler   |
-| 4   | Noble      | 9   | Gambler  | 14  | Merchant   | 19  | Student    |
-| 5   | Hacker     | 10  | Medic    | 15  | Outlaw     | 20  | Thug       |
-
-### Misfortune
-
-|     |             |     |             |     |           |     |           |
-| --- | ----------- | --- | ----------- | --- | --------- | --- | --------- |
-| 1   | Abandoned   | 6   | Defrauded   | 11  | Framed    | 16  | Pursued   |
-| 2   | Addicted    | 7   | Demoted     | 12  | Haunted   | 17  | Rejected  |
-| 3   | Blackmailed | 8   | Discredited | 13  | Kidnapped | 18  | Replaced  |
-| 4   | Condemned   | 9   | Disowned    | 14  | Mutilated | 19  | Robbed    |
-| 5   | Unlucky     | 10  | Exiled      | 15  | Poor      | 20  | Suspected |
-
-<img id="originsimg" class="bottonimg" src="_assets/a-woman-3508435.jpg">
+<!-- <img id="originsimg" class="bottonimg" src="_assets/a-woman-3508435.jpg"> -->
 
 ## Starting Gear (d20)
 

@@ -18,5 +18,5 @@ Sources of inspiration:
 <p></p>
 <div id="version" markdown="1">
 
-    v.0.8.4 2022 by Roberto Bisceglie
+    v.0.8.5 2022 by Roberto Bisceglie
 </div>

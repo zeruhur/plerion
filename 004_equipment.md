@@ -110,7 +110,7 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Synthetic Mesh         | (2 Armor)                                      | 6,000  |
 | Tactical Body Armor    | (3 Armor, sealed)                              | 10,000 |
 
-<img id="armorimg" class="bottonimg" src="_assets/alien-weapon-3688067.jpg">
+<!-- <img id="armorimg" class="bottonimg" src="_assets/alien-weapon-3688067.jpg"> -->
 
 ## Cybernetic Implants
 Implants take no inventory slot.

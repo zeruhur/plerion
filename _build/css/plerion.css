@@ -180,7 +180,7 @@ blockquote {
   page-break-before: avoid !important;
 }
 
-#starting-gear-d20, #attacking--damage, #scars-table, #planetspace-habitat-features, 
+#starting-gear-d20, #surnames, #attacking--damage, #scars-table, #planetspace-habitat-features, 
 #floater, #vermid, #landing--exploration, #effect, #cybernetic-implants, #missions, 
 #shipyard, #starship-modules, #shipbuilding, #trade, #artifacts  {
     page-break-before: always;
