@@ -39,39 +39,40 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Wingsuit                           | (bulky)                                     | 500        |
 
 ## Weapons
+When multiple die are listed in damage (i.e., 2d6) roll all dice and take highest value.
 
 |                                                  |                                                    |       |
 | ------------------------------------------------ | -------------------------------------------------- | ----- |
 | Arrows                                           | (x 20)                                             | 10    |
 | Boarding Blade                                   | (d6 damage, hidden)                                | 50    |
-| Bow                                              | (d6 damage, bulky)                                 | 15    |
-| Brass Knuckles                                   | (d4 damage)                                        | 40    |
-| Chainsaw                                         | (d10 damage, bulky)                                | 200   |
+| Bow                                              | (d6 damage, bulky, silent)                         | 15    |
+| Brass Knuckles                                   | (2d4 damage)                                       | 40    |
+| Chainsaw                                         | (d10 damage, bulky, silent)                        | 200   |
 | Crossbow                                         | (d8 damage, bulky)                                 | 60    |
-| Dagger, Cudgel, Sickle, Staff, etc               | (4 x d8 damage)                                    | 5     |
-| Electrowhip                                      | (d6 damage, stun)                                  | 200   |
-| EMP Grenade                                      | (4 x d8 damage, blast, electronics only)           | 20    |
+| Dagger, Cudgel, Sickle, Staff, etc               | (d6 damage, hideen)                                | 5     |
+| Electrowhip                                      | (d8 damage, stun)                                  | 200   |
+| EMP Grenade                                      | (4d8 damage, blast, electronics only)              | 20    |
 | Energy Pistol                                    | (d8 damage)                                        | 150   |
-| Energy Rifle                                     | (3 x d10 damage, bulky)                            | 200   |
-| Energy Support Weapon                            | (3 x d20 damage, bulky, auto-fire)                 | 380   |
+| Energy Rifle                                     | (3d10 damage, bulky)                               | 200   |
+| Energy Support Weapon                            | (3d12 damage, bulky)                               | 380   |
 | Flechette Pistol                                 | (d6 damage, silent)                                | 200   |
 | Flechette Rifle                                  | (d8 damage, bulky, silent)                         | 300   |
-| Force Sword                                      | (d20 damage, rare)                                 | N/A   |
-| Frag Grenade                                     | (4 x d10 damage, blast)                            | 10    |
+| Force Sword                                      | (2d8 damage)                                       | N/A   |
+| Frag Grenade                                     | (1d10 damage, blast)                               | 10    |
 | Grenade Launcher                                 | (add grenade to any rifle or support weapon)       | 150   |
-| Gyrojet Pistol                                   | (d10 damage, recoilless)                           | 500   |
-| Gyrojet Rifle                                    | (d12 damage, bulky, recoilless)                    | 1,300 |
+| Gyrojet Pistol                                   | (d8 damage, recoilless)                            | 500   |
+| Gyrojet Rifle                                    | (d10 damage, bulky, recoilless)                    | 1,300 |
 | Halberd, War Hammer, Long Sword, Battle Axe, etc | (d10 damage, bulky)                                | 20    |
-| Incinerator                                      | (2 x d8 damage, bulky, blast)                      | 65    |
-| Man-Portable Missile                             | (6 x d10 damage, bulky                             | 8,000 |
-| Monofilament Blade                               | (d12 damage)                                       | 2,500 |
-| Mortar                                           | (4 x d10 damage, bulky, indirect)                  | 200   |
+| Incinerator                                      | (2d8 damage, bulky, blast)                         | 65    |
+| Man-Portable Missile                             | (2d12 damage, bulky                                | 8,000 |
+| Monofilament Blade                               | (2d8 damage)                                       | 2,500 |
+| Mortar                                           | (d10, blast damage, bulky)                         | 200   |
 | Projectile Pistol                                | (d8 damage)                                        | 70    |
 | Projectile Rifle                                 | (d10 damage, bulky)                                | 140   |
-| Projectile Support Weapon                        | (3 x d12 damage, bulky, auto-fire)                 | 320   |
-| Rocket launcher                                  | (3 x d20 damage, bulky)                            | 420   |
+| Projectile Support Weapon                        | (2d12 damage, bulky)                               | 320   |
+| Rocket launcher                                  | (3d12 damage, bulky)                               | 420   |
 | Security                                         | (add to any weapon, only identified user can fire) | 200   |
-| Sentry Gun                                       | (5 x d10 damage, bulky, auto-fire, AI controlled)  | 5,000 |
+| Sentry Gun                                       | (3d10 damage, bulky, AI controlled)                | 5,000 |
 | Shotgun                                          | (d8 damage, bulky)                                 | 60    |
 | Silencer                                         | (add to any ranged projectile weapon, silent)      | 150   |
 | Smartgun Link                                    | (add to any ranged weapon, +1 damage)              | 500   |
@@ -79,7 +80,7 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Spear, Sword, Mace, Axe, Flail, etc              | (d8 damage)                                        | 10    |
 | Staff                                            | (d8 damage)                                        | 50    |
 | Stun Baton                                       | (d6 damage, stun)                                  | 100   |
-| Stun Grenade                                     | (4 x d8 damage, blast, stun)                       | 150   |
+| Stun Grenade                                     | (2d8 damage, blast, stun)                          | 150   |
 | Stun Pistol                                      | (d8 damage, stun)                                  | 160   |
 | Stun Rifle                                       | (d10 damage, bulky, stun)                          | 300   |
 
@@ -109,6 +110,18 @@ All prices are given in Standard Credits, any item is 1 slot unless stated other
 | Standard Spacesuit     | (2 Armor, bulky, sealed)                       | 1,000  |
 | Synthetic Mesh         | (2 Armor)                                      | 6,000  |
 | Tactical Body Armor    | (3 Armor, sealed)                              | 10,000 |
+
+## Tags
+
+- **Blast**. Affects targets in the area. Roll damage for each target separately. When in doubt as to how many targets are affected, roll the damage die. Example: *- 1d8 Blast means that it affects 1d8 targets near the point of impact, dealing 1d8 to each*.
+- **Bulky**. Takes up 2 inventory slots and requires 2 hands to use.
+- **Clumsy**. Pass a STR Save or attacks are impaired.
+- **Enhanced**. Attacks are enhanced.
+- **Hidden**. Concealable on your body, but can be found with a thorough frisk.
+- **Recoilless**. A subsequent attack against the same target (without moving yourself) deals +1 damage.
+- **Sealed**. User is immune to environmental threats.
+- **Silent**. The sound can be identified by those within the same room, but does not draw further attention.
+- **Stun**. Pass a STR Save or target loses next turn.
 
 <!-- <img id="armorimg" class="bottonimg" src="_assets/alien-weapon-3688067.jpg"> -->
 

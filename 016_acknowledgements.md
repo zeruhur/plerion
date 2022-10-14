@@ -11,9 +11,11 @@ A huge thanks to:
 - Jim Parkin: for *Weird North* and *Any Planet is Earth*.
 - Adam Hensley: for *Monolith*, sibling separated at birth of Plerion.
 - Alessio Persichetti: for all the valuable advice and for tolerating my lucubrations.
+- Lars Huijbregts: contributed to the conversion of all weapons from Spacer to Plerion.
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 ### Changelog
+- v.0.8.6: Equipment: overhaul of weapon damage and added tags clarification.
 - v.0.8.5: Characters: reordering of tables and clarifications.
 - v.0.8.4: Minor fixes.
 - v.0.8.3: Added Appendix B, reduced Appendix A.

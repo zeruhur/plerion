@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# PLERION <small>v.0.8.5</small>
+# PLERION <small>v.0.8.6</small>
 
 ## Space Opera Adventure Game
 
