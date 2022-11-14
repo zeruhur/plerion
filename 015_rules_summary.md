@@ -49,6 +49,8 @@ No one can have more than 3 Armor.
 
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all blast targets, rolling separately for each.
 
+If multiple dice are listed in the weapon's damage dice, take the highest result.
+
 ## DAMAGE  
 If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars Table**](#scars-table) table.
 
