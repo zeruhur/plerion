@@ -27,7 +27,7 @@ The referee will telegraph the most likely actions taken by NPCs or creatures. A
   _Aniet has accidentally stumbled onto the stomping grounds of a massive Black Destroyer. In order to make a move before the Destroyer, she makes a DEX save. She fails, and the Destroyer gets to attack first._
 
 ## Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage. If multiple dice are listed in the weapon's damage dice, take the highest result.
 
 > **Example**  
    _The Black Destroyer roars, drawing its claws  and approaching Aniet, who has 5 HP. Claws do 1d6 damage and the referee rolls a 4. They subtract 1 to account for Aniet's light armor, leaving Aniet with 2 HP remaining_.

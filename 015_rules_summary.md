@@ -7,8 +7,8 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 
 ## ABILITIES  
 **STR:** Brawn, prowess & resistance.   
-**DEX:** Dodging, sneaking & reflexes.   
-**WIL:**  Persuasion, intimidation & magic.
+**DEX:** Dodging, sneaking & reflexes.
+**WIL:**  Persuasion, intimidation & psionics.
 
 ## SAVES  
 - Roll a d20 equal to or under an ability.
