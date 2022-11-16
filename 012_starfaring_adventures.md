@@ -1,16 +1,18 @@
 # Starfaring Adventures
 
-In the Five Galaxies starfaring travel is as commons as traveling by plane nowadays. Planets, regions and nation communicate and trade through routes, which are discovered continuously through the oddspace. Due to the limit capacity of fuel tanks, it is commonly recommend to trace routes to end travel in well-known star systems, or at least in one served by a base to refuel.
+In the Five Galaxies starfaring travel is as commons as traveling by plane nowadays. 
 
-Nevertheless, venture out on a mission is a risky business that involves facing uncharted expanses, landing on unknown planets facing its alien culture, or face the dangers of an abandoned installation or a derelict, or even face the risk of encountering hostile ships and pirates.
+- Planets, regions and nation communicate and trade through routes, which are discovered continuously through the oddspace. 
+- Due to the limit capacity of fuel tanks, it is commonly recommend to trace routes to end travel in well-known star systems, or at least in one served by a base to refuel.
+- Venture out on a mission is a risky business that involves facing uncharted expanses, landing on unknown planets facing its alien culture, or face the dangers of an abandoned installation or a derelict, or even face the risk of encountering hostile ships and pirates.
 
 <img id="starfaringimg" class="bottonimg" src="_assets/space-1579231.jpg">
 
-Generally, the referee will provide a map of the local sub-sector with a clear indication of the presence of service stations and the known dangers. It can be assumed that the Charted Space map was purchased and installed on the ship's systems, but this obviously will not contain data on uncharted  star systems, or secret or illegal installations.
+The referee will provide a map of the local sub-sector with a clear indication of the presence of service stations and the known dangers. Assumed that the Charted Space map was purchased and installed on the ship's systems, but this obviously will not contain data on uncharted star systems, or secret or illegal installations.
 
 ## Contingencies in space
 
-Each time a starship exits oddspace, the referee should determine a random event that will affect the next moves of the adventure. This system is intended as a guideline. The referee will interpret the result in a way that best suits the fiction.
+Each time a starship exits oddspace, the referee should determine a random event that will affect the next moves of the adventure. 
 
 | 2D6   | Event                                    |
 | ----- | ---------------------------------------- |
@@ -20,12 +22,12 @@ Each time a starship exits oddspace, the referee should determine a random event
 | 8-10  | Distress call                            |
 | 11-12 | Advantage                                |
 
-Space anomalies should be interpreted according to the fiction. Events such as solar storms or asteroid fields can have equally important effects on the course of the adventure (e.g., a storm disrupts the ship's systems, the asteroid field must be bypassed or crossed at reduced speed adding 1d6 hours to the journey, etc.).
-
-An advantage is anything positive to the mission or to travel purpose (such a patron's call with an offer, appearing on the sensors of an allied base, etc.). 
+- This system is intended as a guideline. The referee will interpret the result in a way that best suits the fiction.
+- Space anomalies should be interpreted according to the fiction. Events such as solar storms or asteroid fields can have equally important effects on the course of the adventure (e.g., a storm disrupts the ship's systems, the asteroid field must be bypassed or crossed at reduced speed adding 1d6 hours to the journey, etc.).
+- An advantage is anything positive to the mission or to travel purpose (such a patron's call with an offer, appearing on the sensors of an allied base, etc.). 
 
 ## Landing & Exploration
-Not only explorers and trailblazers will face situations in which they will have to land and explore unknown and potentially hostile planets. In these cases it is possible that the group needs to cross unknown territories. Every travel day, the referee should roll on the following events to determine contingencies.
+Not only explorers and trailblazers will face situations in which they will have to land and explore unknown and potentially hostile planets. 
 
 | 2D6   | Event                         |
 | ----- | ----------------------------- |
@@ -35,12 +37,14 @@ Not only explorers and trailblazers will face situations in which they will have
 | 8-10  | Clue regarding next encounter |
 | 11-12 | Advantage                     |
 
-An advantage is anything positive to the mission or to travel purpose (such as meeting a friendly population, finding game, finding a healing compound, etc.).
+- In these cases it is possible that the group needs to cross unknown territories. 
+- Every travel day, the referee should roll on the following events to determine contingencies.
+- An advantage is anything positive to the mission or to travel purpose (such as meeting a friendly population, finding game, finding a healing compound, etc.).
 
 <img id="landingimg" class="bottonimg" src="_assets/fantasy-6835790.jpg">
 
 ## Salvaging
-Some missions require the boarding of derelict for their salvage or dispossession. Furthermore, even call-for-help events could lead to dealing with similar environments. For each room or environment explored, the referee should roll on the following event table to determine the type of occurrence.
+On salvaging mission, the referee should roll on the following event table, for each room or environment explored.
 
 | 2D6   | Event                         |
 | ----- | ----------------------------- |
@@ -50,7 +54,9 @@ Some missions require the boarding of derelict for their salvage or dispossessio
 | 8-10  | Clue regarding next encounter |
 | 11-12 | Advantage                     |
 
-Encounter tables should be built thematically based on the type of mission and derelict explored (such as an alien infestation, a terrorist boarding, a failed experiment in a laboratory that released pathogens or psychotropics, etc.).
+- Some missions require the boarding of derelict for their salvage or dispossession. 
+- Also distress calls could lead to dealing with similar environments.
+- Encounter tables should be built thematically based on the type of mission and derelict explored (such as an alien infestation, a terrorist boarding, a failed experiment in a laboratory that released pathogens or psychotropics, etc.).
 
 ## Trade
 Trade is the backbone of the intergalactic economy. The routes established through the star systems guarantee the supply of materials impossible to produce on one planet, by importing them from others.
