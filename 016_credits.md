@@ -1,4 +1,4 @@
-# Acknowledgements
+# Credits
 Plerion is based on the **Cairn SRD** by Yochai Gal (release under CC BY-SA 4.0 license) and **Spacer** (CC BY 4.0) by Paul Umbers.
 
 Some art has been designed using resources from Freepik.com  
@@ -15,6 +15,7 @@ A huge thanks to:
 - The NSR and The Cauldron communities: for advice and support on this project.
 
 ### Changelog
+- v.1.0.0: Text compliant to print edition.
 - v.0.8.7: Added clarification on multiple damage dice, cleared reference to magic.
 - v.0.8.6: Equipment: overhaul of weapon damage and added tags clarification.
 - v.0.8.5: Characters: reordering of tables and clarifications.
