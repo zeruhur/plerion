@@ -76,7 +76,7 @@ Usually, the most profitable routes are drawn between agricultural and industria
 | Weapons     | 700 cr/kg     | Industrial     | 1d20x20 kg   |
 | Raws        | 120 cr/t      | Mining         | 1d20x100 t   |
 | Ores        | 250 cr/t      | Mining         | 1d20x100 t   |
-| Artifacts   | 50,000 ea.    | Central*        | 1d6          |
+| Artifacts   | 50,000 ea.    | Central*       | 1d6          |
 | Fuel        | 200 cr/bbl    | Any            | 1d20x10 bbl  |
 
 \* A Central world is either a Political/Religious Center or a Finance world.
@@ -123,7 +123,7 @@ If you need to build a Mission on the fly or you are looking for inspiration you
 1. To help the inquirer
 2. To get your hands on the Prize
 3. An oracle has foreseen it
-4. Your daimon urges you to do so
+4. Your coscience urges you to do so
 5. To seek fortune and glory
 6. To avenge a wrong (to you or someone else)
 
