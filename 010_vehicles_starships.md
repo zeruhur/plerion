@@ -30,15 +30,15 @@ Vehicles of different scales are considered more agile in maneuvering than those
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. No vehicle can have more than 3 Armor.  
 Additional modules may provide additional benefits according to their use.
 
+## Hull
+As characters have Hit Protection, vehicles and starships possess Hull Points which reflect their ability to avoid damage in combat.
+As long as a vehicle still has Hull Points they continue to work just fine unless they take an Effect.
+
 ## Weapons
 Weapons fall into two categories:
 - **Normal weapons** include lasers, blasters, particle beams, cannons, rail-guns, gatling guns, rockets and anything else where the act of firing results in damage in the same round. Combat is handle using the normal procedure.
 - **Blast weapons** include torpedoes, bombs and mass-drivers, the primary characteristic of which is that there is a delay (sometimes significant)
 between firing the weapon and the actual damage. They require the firing character to take a Lock Target action (see below) in one round, then fire the weapon on a later round. The lock must be maintained until the weapon hits.
-
-## Hull
-As characters have Hit Protection, vehicles and starships possess Hull Points which reflect their ability to avoid damage in combat.
-As long as a vehicle still has Hull Points they continue to work just fine unless they take an Effect.
 
 ## Overload
 A vehicle that exceeds the total value of Load possible for its scale is **overloaded** and it is unable to recover HP or ability scores. Anything overloaded for more than one day deactivates a module, one for each day. Each **Deactivation** occupies one Load slot and lasts until they are able to repair.
@@ -58,14 +58,14 @@ A vehicle reduced to zero Hull Points suffers an Effect. A vehicle with zero INT
 ## Effect
 When damage to a vehicle reduces their HP to exactly 0, it gets an effect. Roll on the table below. Even though it is designed primarily for spaceships the same effects can be adapted to other vehicles.
 
-| 1D6 | Critical Effect                                                                                                                                                                      |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | A secondary module: comms, life-support, scanners, shields or an area such as the sickbay or cargo bay is hit and out of action until repaired. Determine randomly.                  |
-| 2   | A weapon has been hit, determine which randomly. That weapon is unable to fire until repaired.                                                                                       |
-| 3   | Fire breaks out on-board, determine where randomly. Anyone in that area or fighting the fire without protection takes d6 damage every round until the fire is out.                   |
-| 4   | The engines take a hit. The vehicle cannot maneuver and, if flying in a gravitational field, will fall from the sky unless repaired.                                                 |
-| 5   | The hull is breached, determine where randomly. Anyone in the affected area will suffer the effects of the atmosphere (if toxic) or vacuum (if in space) until the breach is sealed. |
-| 6   | The vehicle’s controls explode in a shower of sparks & debris. d6 damage to any crew member using them, Dexterity Save to avoid.                                                     |
+| 1D6 | Critical Effect                                                                                                                                            |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A secondary module is hit and out of action until repaired.                                                                                                |
+| 2   | A weapon has been hit and is unable to fire until repaired..                                                                                               |
+| 3   | Fire breaks out on-board. Anyone in that area or fighting the fire without protection takes d6 damage every round until the fire is out.                   |
+| 4   | The engines take a hit. The vehicle cannot maneuver and, if flying in a gravitational field, will fall from the sky unless repaired.                       |
+| 5   | The hull is breached. Anyone in the affected area will suffer the effects of the atmosphere (if toxic) or vacuum (if in space) until the breach is sealed. |
+| 6   | The vehicle’s controls explode in a shower of sparks & debris. d6 damage to any crew member using them, Dexterity Save to avoid.                           |
 
 <img id="effectimg" class="bottonimg" src="_assets/piqsels.com-id-jjtzk.jpg">
 
@@ -79,31 +79,6 @@ How long it takes and how much it costs is up to the Referee, but typically each
 In combat or another emergency, it may not be possible to make repairs that will last, but there may just be time to jury rig something that works for as long as is needed.
 
 Make an WIL Save to restore one Hull point, or a single damaged module. The repair lasts for 1d6 rounds.
-
-## Starship Modules
-A starship may have one or more of the following modules installed. This is not an exhaustive list, so if something you want isn’t here just ask the Referee. While some modules act passively or are always on, others may require an ability save - typically WIL - to operate.
-
-- **Cargo Bay**  (broad): An area of the vehicle set aside for cargo or other storage. May include equipment for moving cargo such as cranes, fork-lifts, loader exoskeletons or anti-grav handlers.
-- **Combat Drones**: A number of small vehicles which are deployed en-masse for reconnaissance or combat purposes. The idea of combat drones is to carry the fight away from the main ship and overwhelm the enemy with a large number of attackers. Each drone launched becomes an independent weapon under the control of one or more gunners. Each gunner can control a number of drones equal to their WIL/3. Roll attack and damage for each drone as if they are an independent vehicle.
-- **Crew Quarters** (broad): Section of the vessel dedicated to crew cabins, including common areas. Present only in long-distance or particularly luxurious ships. In other cases the crew sleeps in bunks.
-- **Cryogenic/Stasis Chambers**  (broad): Provides enough chambers for all the crew and passengers to effectively sleep for the duration of a long journey without any aging effects or food & water requirements.
-- **ECM Array**: Electronic Counter-measures devices used to spy on, disrupt or jam enemy communications and scanners.
-- **Emergency Power**: A module of small backup power sources, distributed throughout the vehicle or ship, which provides minimal power when all other sources are unavailable. For most vehicles, this would mean minimal life-support and lighting only. 
-- **Escape Pod**: A small, low-powered lifeboat capable of automated sub-light travel to the nearest habitable world.
-- **Flight Deck or Shuttle Bay**  (broad): An area of the vehicle where other, smaller, vehicles such as fighters or shuttle craft can be launched and recovered.
-- **Integrated Artificial Intelligence**: Purchasable and installable on advanced worlds, this module allows all ship systems to be integrated with a self-aware artificial intelligence that can assist the crew and steer the ship when needed. IIAs are illegal in some areas.
-- **Interior Scanners**: Cameras and/or sensors inside the vehicle which can be used to track passengers & crew or other creatures on board.
-- **Laboratory or Science Facility**: Facilities for carrying out some form of scientific investigation or study. May be a laboratory capable of a variety of basic scientific functions or several specific facilities each focused on one particular science, such as an Astrometrics Lab.
-- **Life Support**: Seals the vehicle against the outside atmosphere (or lack thereof) and provides breathable air. May also provide a food & water supply and waste reclamation facilities for an extended trip.
-- **Main Reactor**: The main power source of the vehicle. Some vehicles may also have a secondary power source, usually less powerful than the main reactor, which can be used to supply power if the main reactor is inoperative.
-- **Odd Drive** (broad): Allows the vehicle to travel faster than-light accessing the oddspace.
-- **Passenger Quarters** (broad): Section of the vessel dedicated to the accommodation of passengers, complete with cabin with toilets and common area adjacent to the galley.
-- **Point Defence**: Short-range cannons with a high rate-of-fire which are used to shoot down incoming targets such as torpedoes and fighters. Before a blast weapon hits, make a SYS vs SYS Save between the attacking ship and the target ship. If the target ship wins, the incoming weapon is destroyed, if not then that weapon hits it’s target. PDC’s attack incoming fighters with a SYS vs ENG Save.
-- **Self-Destruct**: Arranges for the complete, usually explosive, destruction of the vehicle after a suitable escape delay.
-- **Sickbay**: A medical facility equipped for some form of First Aid or medical procedures. A larger, better equipped, sickbay may include surgical, recovery and intensive care facilities. One hour in a sick bay allows a character to recover 1d6 STR. In 24 hours they can recover back to their maximum STR.
-- **Stealth Package**: Makes the vehicle harder to locate or determine details by enemy scanners. All scan or lock-on attempts against it are impaired.
-- **Sub-light Drive**: Moves the vehicle through space or an atmosphere at speeds less than that of light.
-- **Torpedoes**: Blast weapons. Once a torpedo is locked on to a target the firing ship can move on and attack other targets while the torpedo tracks until it detonates.
 
 ## Starship Crew Actions
 Pilots maneuver their vehicles in hopes of avoiding enemy fire or to position the ship for the perfect shot. Technicians have their hands full jury rigging repairs, trying to keep modules running or boosting the engines for a desperate escape. Gunners, besides trying to blast the enemy to bits and pieces, may need to lock onto a target before trying to shoot them with a valuable but devastating torpedo, or try to restart the Tactical modules if they go offline. Communication officers may need to contact help, or try to jam the comm modules or scanners of rival ships.
@@ -144,6 +119,31 @@ The Referee can rule that this only takes one round, or may decide on longer, bu
 
 ### Ram
 In a desperate move, a pilot can attempt to take out another vehicle by ramming it without suffering too much damage themselves. Make a ENG Save against, inflicting half the ramming vehicle’s normal maximum Hull Points in damage on both vehicles. Armor will reduce this damage for both vehicles.
+
+## Starship Modules
+A starship may have one or more of the following modules installed. This is not an exhaustive list, so if something you want isn’t here just ask the Referee. While some modules act passively or are always on, others may require an ability save - typically WIL - to operate.
+
+- **Cargo Bay**  (broad): An area of the vehicle set aside for cargo or other storage. May include equipment for moving cargo such as cranes, fork-lifts, loader exoskeletons or anti-grav handlers.
+- **Combat Drones**: A number of small vehicles which are deployed en-masse for reconnaissance or combat purposes. The idea of combat drones is to carry the fight away from the main ship and overwhelm the enemy with a large number of attackers. Each drone launched becomes an independent weapon under the control of one or more gunners. Each gunner can control a number of drones equal to their WIL/3. Roll attack and damage for each drone as if they are an independent vehicle.
+- **Crew Quarters** (broad): Section of the vessel dedicated to crew cabins, including common areas. Present only in long-distance or particularly luxurious ships. In other cases the crew sleeps in bunks.
+- **Cryogenic/Stasis Chambers**  (broad): Provides enough chambers for all the crew and passengers to effectively sleep for the duration of a long journey without any aging effects or food & water requirements.
+- **ECM Array**: Electronic Counter-measures devices used to spy on, disrupt or jam enemy communications and scanners.
+- **Emergency Power**: A module of small backup power sources, distributed throughout the vehicle or ship, which provides minimal power when all other sources are unavailable. For most vehicles, this would mean minimal life-support and lighting only. 
+- **Escape Pod**: A small, low-powered lifeboat capable of automated sub-light travel to the nearest habitable world.
+- **Flight Deck or Shuttle Bay**  (broad): An area of the vehicle where other, smaller, vehicles such as fighters or shuttle craft can be launched and recovered.
+- **Integrated Artificial Intelligence**: Purchasable and installable on advanced worlds, this module allows all ship systems to be integrated with a self-aware artificial intelligence that can assist the crew and steer the ship when needed. IIAs are illegal in some areas.
+- **Interior Scanners**: Cameras and/or sensors inside the vehicle which can be used to track passengers & crew or other creatures on board.
+- **Laboratory or Science Facility**: Facilities for carrying out some form of scientific investigation or study. May be a laboratory capable of a variety of basic scientific functions or several specific facilities each focused on one particular science, such as an Astrometrics Lab.
+- **Life Support**: Seals the vehicle against the outside atmosphere (or lack thereof) and provides breathable air. May also provide a food & water supply and waste reclamation facilities for an extended trip.
+- **Main Reactor**: The main power source of the vehicle. Some vehicles may also have a secondary power source, usually less powerful than the main reactor, which can be used to supply power if the main reactor is inoperative.
+- **Odd Drive** (broad): Allows the vehicle to travel faster than-light accessing the oddspace.
+- **Passenger Quarters** (broad): Section of the vessel dedicated to the accommodation of passengers, complete with cabin with toilets and common area adjacent to the galley.
+- **Point Defence**: Short-range cannons with a high rate-of-fire which are used to shoot down incoming targets such as torpedoes and fighters. Before a blast weapon hits, make a SYS vs SYS Save between the attacking ship and the target ship. If the target ship wins, the incoming weapon is destroyed, if not then that weapon hits it’s target. PDC’s attack incoming fighters with a SYS vs ENG Save.
+- **Self-Destruct**: Arranges for the complete, usually explosive, destruction of the vehicle after a suitable escape delay.
+- **Sickbay**: A medical facility equipped for some form of First Aid or medical procedures. A larger, better equipped, sickbay may include surgical, recovery and intensive care facilities. One hour in a sick bay allows a character to recover 1d6 STR. In 24 hours they can recover back to their maximum STR.
+- **Stealth Package**: Makes the vehicle harder to locate or determine details by enemy scanners. All scan or lock-on attempts against it are impaired.
+- **Sub-light Drive**: Moves the vehicle through space or an atmosphere at speeds less than that of light.
+- **Torpedoes**: Blast weapons. Once a torpedo is locked on to a target the firing ship can move on and attack other targets while the torpedo tracks until it detonates.
 
 ## Shipyard
 
