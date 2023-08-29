@@ -1,0 +1,20 @@
+digraph galaxies {
+    rankdir = LR;
+    node [shape = point, fontname = "Arial"];
+    edge[fontsize=30];
+
+    // Define nodes
+    andromeda [xlabel = "Andromeda", fontsize = 50, width = 1];
+    milkyway [xlabel = "Milky Way", fontsize = 50, width = 0.5];
+    triangulum [xlabel = "Triangulum", fontsize = 50, width = 0.27];
+    largemagcloud [xlabel = "Large Magellanic\nCloud", fontsize = 0.06];
+    smallmagcloud [xlabel = "Small Magellanic\nCloud", fontsize = 20];
+
+    // Define edges
+    milkyway -> andromeda [len= 20.537, label = "2.537 Mly", arrowhead=none];
+    milkyway -> triangulum [len= 20.723, label = "2.723 Mly", arrowhead=none];
+    milkyway -> largemagcloud [len= 1.58, label = "158 kly", arrowhead=none];
+    milkyway -> smallmagcloud [len= 1.97, label = "197 kly", arrowhead=none];
+    triangulum -> andromeda [len = 7.50, style=invis];
+    largemagcloud -> smallmagcloud [len = 1.582, style=invis];
+}

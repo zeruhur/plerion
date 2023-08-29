@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1611pt" height="1407pt" viewBox="0.00 0.00 1611.30 1407.08">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1403.0818)">
+<title>galaxies</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1403.0818 1607.2965,-1403.0818 1607.2965,4 -4,4"/>
+<!-- andromeda -->
+<g id="node1" class="node">
+<title>andromeda</title>
+<ellipse fill="#000000" stroke="#000000" cx="294.405" cy="-383.6806" rx="36" ry="36"/>
+<text text-anchor="middle" x="129.2025" y="-434.6806" font-family="Arial" font-size="50.00" fill="#000000">Andromeda</text>
+</g>
+<!-- milkyway -->
+<g id="node2" class="node">
+<title>milkyway</title>
+<ellipse fill="#000000" stroke="#000000" cx="1585.2965" cy="-1292.0509" rx="18" ry="18"/>
+<text text-anchor="middle" x="1453.4365" y="-1229.0509" font-family="Arial" font-size="50.00" fill="#000000">Milky Way</text>
+</g>
+<!-- milkyway&#45;&gt;andromeda -->
+<g id="edge1" class="edge">
+<title>milkyway-&gt;andromeda</title>
+<path fill="none" stroke="#000000" d="M1570.3528,-1281.5354C1440.4415,-1190.1198 503.0766,-530.518 323.9458,-404.4677"/>
+<text text-anchor="middle" x="884.6473" y="-852.0016" font-family="Times,serif" font-size="30.00" fill="#000000">2.537 Mly</text>
+</g>
+<!-- triangulum -->
+<g id="node3" class="node">
+<title>triangulum</title>
+<ellipse fill="#000000" stroke="#000000" cx="684.0265" cy="-9.72" rx="9.72" ry="9.72"/>
+<text text-anchor="middle" x="549.3065" y="-34.44" font-family="Arial" font-size="50.00" fill="#000000">Triangulum</text>
+</g>
+<!-- milkyway&#45;&gt;triangulum -->
+<g id="edge2" class="edge">
+<title>milkyway-&gt;triangulum</title>
+<path fill="none" stroke="#000000" d="M1574.8631,-1277.2063C1479.507,-1141.5332 761.0541,-119.3152 689.726,-17.8292"/>
+<text text-anchor="middle" x="1069.7925" y="-656.5178" font-family="Times,serif" font-size="30.00" fill="#000000">2.723 Mly</text>
+</g>
+<!-- largemagcloud -->
+<g id="node4" class="node">
+<title>largemagcloud</title>
+<ellipse fill="#000000" stroke="#000000" cx="1535.7353" cy="-1394.8818" rx="1.8" ry="1.8"/>
+<text text-anchor="middle" x="1530.129" y="-1398.1818" font-family="Arial" font-size="1.00" fill="#000000">Large Magellanic</text>
+<text text-anchor="middle" x="1530.129" y="-1396.9818" font-family="Arial" font-size="1.00" fill="#000000">Cloud</text>
+</g>
+<!-- milkyway&#45;&gt;largemagcloud -->
+<g id="edge3" class="edge">
+<title>milkyway-&gt;largemagcloud</title>
+<path fill="none" stroke="#000000" d="M1577.3336,-1308.5725C1564.7467,-1334.6882 1541.1991,-1383.5452 1536.5459,-1393.1999"/>
+<text text-anchor="middle" x="1511.5213" y="-1359.8862" font-family="Times,serif" font-size="30.00" fill="#000000">158 kly</text>
+</g>
+<!-- smallmagcloud -->
+<g id="node5" class="node">
+<title>smallmagcloud</title>
+<ellipse fill="#000000" stroke="#000000" cx="1447.7469" cy="-1323.5228" rx="1.8" ry="1.8"/>
+<text text-anchor="middle" x="1370.3919" y="-1355.3228" font-family="Arial" font-size="20.00" fill="#000000">Small Magellanic</text>
+<text text-anchor="middle" x="1370.3919" y="-1331.3228" font-family="Arial" font-size="20.00" fill="#000000">Cloud</text>
+</g>
+<!-- milkyway&#45;&gt;smallmagcloud -->
+<g id="edge4" class="edge">
+<title>milkyway-&gt;smallmagcloud</title>
+<path fill="none" stroke="#000000" d="M1567.5959,-1296.1009C1533.9287,-1303.8041 1462.8526,-1320.0666 1449.8217,-1323.0481"/>
+<text text-anchor="middle" x="1463.2903" y="-1318.5745" font-family="Times,serif" font-size="30.00" fill="#000000">197 kly</text>
+</g>
+<!-- triangulum&#45;&gt;andromeda -->
+<!-- largemagcloud&#45;&gt;smallmagcloud -->
+</g>
+</svg>
