@@ -190,3 +190,16 @@ Below are descriptions of the encounters presented in the Installation Generator
 - Its quirk is that it can control and harness elemental forces.
 - Special Effect: Elemental Attacks can have various elemental effects.
 
+### Star Leviathan
+8 HP, 3 Armor, 6 STR, 6 DEX, 6 WIL, Gigantic Cosmic Creature, Armored Skin, Intense Gravity Fields, Starlight Energy Beams
+
+- A colossal space creature with armored skin and cosmic tentacles. Can generate intense gravity fields and spew beams of starlight energy.
+- Its immense cosmic presence and ability to manipulate gravity make it a force to be reckoned with.
+- When critically damaged, disrupts the fabric of space, creating an unstable gravitational anomaly that draws in and damages nearby enemies, while also using the gravitational energy to fortify its own resilience.
+
+### Star Kraken
+9 HP, 3 Armor, 8 STR, 6 DEX, 6 WIL, Cosmic Sea Creature, Giant Tentacles, Devastating Cosmic Energy Beams
+
+- A massive sea creature hailing from space. Possesses giant tentacles and can emit devastating cosmic energy beams.
+- Its cosmic origin and immense size make it a formidable and awe-inspiring opponent.
+- When critically damaged, unleashes a surge of cosmic energy, creating a localized cosmic storm that damages and disorients nearby enemies, while also using the energy to repair and regenerate its own wounds.
