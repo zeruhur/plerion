@@ -1,3 +1,5 @@
+# Plerion - Solo Starfarer
+
 I cautiously approach the wreckage, anchoring my spaceship to the deformed scaffolding with a slight, eerie creaking sound. As I cross the threshold, I sense a feeling of unease, as if time itself has frozen in this place.
 
 The corridors are dark and dusty, illuminated only by faint red glows from damaged control panels. Cables hang from the ceiling, and the sound of my breathing is the only audible noise. I move cautiously, examining every detail of the wreckage. Every now and then, I hear a distant whisper, a ghostly echo from a long-forgotten past.

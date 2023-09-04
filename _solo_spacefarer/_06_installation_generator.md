@@ -47,31 +47,35 @@
 
 ## Area
 
-| D10 | Area Size | Exits | Features                                   | Traps                                 | Encounters                           |
-|-----|------------|-------|--------------------------------------------|---------------------------------------|-------------------------------------|
-| 1   | Small      | 1     | Scientific Laboratory                      | Security Lasers, Electric Field      | Disused Androids, Genetic Experiments |
-| 2   | Medium     | 2     | Control Room                               | Security Barricades, Paralyzing Gas  | Defense Robots, Scientists          |
-| 3   | Large      | 3     | Robot Factory                              | Defense Sphere, Robotic Arms         | Worker Androids, Surveillance Robots |
-| 4   | Long       | 4     | Neon-Lit Corridor                          | Explosive Trap, Teleportation       | Alien Creatures, Smugglers          |
-| 5   | Narrow     | 5     | Resource Depot                             | Inverted Gravity Field, Gravitational Force | Cargo Androids, Security Robots  |
-| 6   | Complex    | Various | Military Training Center                  | Virtual Training Field, Lethal Lasers | Elite Soldiers, Officers           |
-| 7   | Maze       | Random | Complex and Labyrinthine Structures        | Invisible Energy Field, False Wall  | Mutant Creatures, Explorers         |
-| 8   | Environment | Various | Alien Ecosystem, Artificial Forests or Swamps | Carnivorous Plants, Camouflaged Creatures | Space Explorers, Hunters         |
-| 9   | Hidden     | Camouflaged or Concealed | Secret Rooms, Accessible Only Through Passageways | Invisibility Field, Silent Alarm | Secret Agents, Thieves            |
-| 10  | Malfunctioning | Blocked | Damaged Area, Difficult or Blocked Access | Unstable Explosives, Moving Platforms | Mechanical Creatures, Malfunctioning Robots |
+Roll on each colum per Area. Roll for Traps and Encounters only if needed.
+
+| D10 | Area Size      | Exits                    | Features                                          | Traps                                       | Encounters                                  |
+| --- | -------------- | ------------------------ | ------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| 1   | Small          | 1                        | Scientific Laboratory                             | Security Lasers, Electric Field             | Disused Androids, Genetic Experiments       |
+| 2   | Medium         | 2                        | Control Room                                      | Security Barricades, Paralyzing Gas         | Defense Robots, Scientists                  |
+| 3   | Large          | 3                        | Robot Factory                                     | Defense Sphere, Robotic Arms                | Worker Androids, Surveillance Robots        |
+| 4   | Long           | 4                        | Neon-Lit Corridor                                 | Explosive Trap, Teleportation               | Alien Creatures, Smugglers                  |
+| 5   | Narrow         | 5                        | Resource Depot                                    | Inverted Gravity Field, Gravitational Force | Cargo Androids, Security Robots             |
+| 6   | Complex        | Various                  | Military Training Center                          | Virtual Training Field, Lethal Lasers       | Elite Soldiers, Officers                    |
+| 7   | Maze           | Random                   | Complex and Labyrinthine Structures               | Invisible Energy Field, False Wall          | Mutant Creatures, Explorers                 |
+| 8   | Environment    | Various                  | Alien Ecosystem, Artificial Forests or Swamps     | Carnivorous Plants, Camouflaged Creatures   | Space Explorers, Hunters                    |
+| 9   | Hidden         | Camouflaged or Concealed | Secret Rooms, Accessible Only Through Passageways | Invisibility Field, Silent Alarm            | Secret Agents, Thieves                      |
+| 10  | Malfunctioning | Blocked                  | Damaged Area, Difficult or Blocked Access         | Unstable Explosives, Moving Platforms       | Mechanical Creatures, Malfunctioning Robots |
 
 ## Junction
 
-| D10 | Junction Size   | Exits               | Features                                                                     | Traps                                      | Encounters                                   |
-|-----|-----------------|---------------------|-------------------------------------------------------------------------------|--------------------------------------------|----------------------------------------------|
-| 1   | Narrow          | 1                   | Corridor with metal walls and ceiling                                        | Security Lasers, Electric Field            | Surveillance Robots, Security Systems        |
-| 2   | Wide            | 2                   | Corridor with illuminated panels along the walls                             | Toxic Gas, Electronic Locks                | Maintenance Androids, Technicians            |
-| 3   | Long            | 3                   | Corridor with panoramic windows                                               | Motion Sensors, Force Field               | Space Explorers, Secret Agents                |
-| 4   | Curved          | 4                   | Corridor with irregular curves and angles                                    | Energy Barriers, Energy Field             | Alien Creatures, Predators                   |
-| 5   | Branched        | 5                   | Corridor with bifurcations and secondary paths                                | Inverted Gravity Field, Teleportation     | Smugglers, Mercenaries                        |
-| 6   | Vertical        | Stairs or Elevators | Corridor with vertical sections and multiple levels                            | Gravity Trap, Malfunctioning Elevators    | Space Abyss Explorers, Flying Aliens          |
-| 7   | Technological   | Interactive Panels  | Corridor with interactive displays or holograms                               | Laser Barriers, Surveillance Devices      | Scientists, Technicians                       |
-| 8   | Dark            | Limited Lighting    | Corridor with low illumination or in semi-darkness                             | Sonic Trap, Invisible Presence            | Nocturnal Creatures, Shadows                   |
-| 9   | Environment     | Various Environments | Corridor traversing different environments (aquatic, icy, volcanic, etc.)     | Electric Trap, Corrosive Force Field     | Interdimensional Explorers, Elemental Beings  |
-| 10  | Abandoned       | Sealed Entrances    | Corridor with signs of abandonment and sealed doors                            | Explosive Trap, Radioactive Materials     | Malfunctioning Androids, Mutant Creatures    |
+Roll on each colum per Area. Roll for Traps and Encounters only if needed.
+
+| D10 | Junction Size | Exits                | Features                                                                  | Traps                                  | Encounters                                   |
+| --- | ------------- | -------------------- | ------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------- |
+| 1   | Narrow        | 1                    | Corridor with metal walls and ceiling                                     | Security Lasers, Electric Field        | Surveillance Robots, Security Systems        |
+| 2   | Wide          | 2                    | Corridor with illuminated panels along the walls                          | Toxic Gas, Electronic Locks            | Maintenance Androids, Technicians            |
+| 3   | Long          | 3                    | Corridor with panoramic windows                                           | Motion Sensors, Force Field            | Space Explorers, Secret Agents               |
+| 4   | Curved        | 4                    | Corridor with irregular curves and angles                                 | Energy Barriers, Energy Field          | Alien Creatures, Predators                   |
+| 5   | Branched      | 5                    | Corridor with bifurcations and secondary paths                            | Inverted Gravity Field, Teleportation  | Smugglers, Mercenaries                       |
+| 6   | Vertical      | Stairs or Elevators  | Corridor with vertical sections and multiple levels                       | Gravity Trap, Malfunctioning Elevators | Space Abyss Explorers, Flying Aliens         |
+| 7   | Technological | Interactive Panels   | Corridor with interactive displays or holograms                           | Laser Barriers, Surveillance Devices   | Scientists, Technicians                      |
+| 8   | Dark          | Limited Lighting     | Corridor with low illumination or in semi-darkness                        | Sonic Trap, Invisible Presence         | Nocturnal Creatures, Shadows                 |
+| 9   | Environment   | Various Environments | Corridor traversing different environments (aquatic, icy, volcanic, etc.) | Electric Trap, Corrosive Force Field   | Interdimensional Explorers, Elemental Beings |
+| 10  | Abandoned     | Sealed Entrances     | Corridor with signs of abandonment and sealed doors                       | Explosive Trap, Radioactive Materials  | Malfunctioning Androids, Mutant Creatures    |
 

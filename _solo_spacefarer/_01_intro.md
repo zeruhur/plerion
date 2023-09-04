@@ -1,5 +1,6 @@
 # Intro
-This booklet serves as a companion to "Loner," the Space Opera Adventure Game based on Cairn. To make use of these additional rules, you'll require the core book. Here, you won't find information on character creation, combat, or equipment.
+
+Welcome to _Solo Starfarer_. This booklet serves as a companion to "Loner," the Space Opera Adventure Game based on Cairn. To make use of these additional rules, you'll require the core book. Here, you won't find information on character creation, combat, or equipment.
 
 Within these pages, you'll discover suggested approaches and procedures, but consider them as flexible guidelines. After all, this is your game, and you can adjust it to your liking. Do you wish to chart the vast reaches of interstellar space? Utilize the exploration procedure and the star system generation tables from the core book. Interested in scavenging a derelict vessel adrift in the cosmos? Employ the installation generation system and embark on your exploration. Fancy venturing into speculative trading? Why not!
 
