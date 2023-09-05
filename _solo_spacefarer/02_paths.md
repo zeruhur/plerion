@@ -104,7 +104,7 @@ As a Carrier, your life revolves around plowing through the sidereal depths, car
 
 ### Additional Assets
 
-A well-equipped Trader ship or a thriving business with loyal employees
+A well-equipped Trader ship
 
 ### Debt
 
