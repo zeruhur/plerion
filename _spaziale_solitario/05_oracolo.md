@@ -22,8 +22,8 @@ Quando devi determinare l'esito di azioni che non sono regolate da regole precis
 1. Tira un dado 1d100 per generare un numero compreso tra 1 e 100.
 2. Verifica il tuo tiro sulla tabella. L'oracolo svelerà la sua risposta.
 3. Considera la risposta nel contesto della tua domanda e della situazione attuale. È adatta? Ti ispira?
-4. Se hai la tua risposta, sei pronto! Gioca per vedere cosa succede. Se desideri ulteriori dettagli, puoi tirare per i Presagi.
-5. Se sei bloccato, puoi tirare nuovamente, provare un altro Presagio o semplicemente fare affidamento sulla tua intuizione per decidere cosa succede dopo.
+4. Se hai la tua risposta, sei pronto! Gioca per vedere cosa succede. Se desideri ulteriori dettagli, puoi tirare per le Scintille.
+5. Se sei bloccato, puoi tirare nuovamente, provare un'altra Scintilla o semplicemente fare affidamento sulla tua intuizione per decidere cosa succede dopo.
 
 | Probabilità       | No, e  | No      | No, ma  | Sì, ma  | Sì      | Sì, e    |
 | ----------------- | ------ | ------- | ------- | ------- | ------- | -------- |
@@ -49,8 +49,8 @@ Quando la risposta dell'Oracolo include un "ma", puoi tirare il dado sulla segue
 | 6   | Peggiora una condizione maggiore |
 | 7   | Aggiungi una condizione maggiore |
 | 8   | Rimuovi una condizione maggiore  |
-| 9   | Presagio Positivo                |
-| 10  | Presagio Negativo                |
+| 9   | Scintilla Positiva                |
+| 10  | Scintilla Negativa                |
 
 ## Svolta nella Trama
 
@@ -79,15 +79,15 @@ Un doppio risultato quando tiri i dadi sulla tabella dell'Oracolo attiva un risu
 | 91-95 | Vengono rivelati poteri o abilità inaspettati.                                                                                   |
 | 96-00 | Tira su questa tabella altre due volte. Entrambi i risultati si verificano. Se sono lo stesso risultato, diventa più drammatico. |
 
-## Presagi
+## Scintille
 
-I Presagi possono essere invocati nei seguenti casi:
+Le Scintille possono essere invocati nei seguenti casi:
 
 1. Quando desideri porre una domanda aperta all'Oracolo.
 2. Quando cerchi ispirazione.
 3. Quando vengono invocati attraverso una complicazione.
 
-I Presagi vengono utilizzati per ispirare una scoperta, un evento, un obiettivo del personaggio o una situazione. Combina i tiri su entrambe le seguenti tabelle (Azione + Tema) per fornire un'azione e un soggetto. Quindi, interpreta il risultato in base al contesto della domanda e alla situazione attuale.
+Le Scintille vengono utilizzate per ispirare una scoperta, un evento, un obiettivo del personaggio o una situazione. Combina i tiri su entrambe le seguenti tabelle (Azione + Tema) per fornire un'azione e un soggetto. Quindi, interpreta il risultato in base al contesto della domanda e alla situazione attuale.
 
 ### Azioni
 

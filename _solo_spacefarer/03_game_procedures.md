@@ -17,9 +17,9 @@ Follow this procedure when a PC lands on a new planet. If you do not own a ship 
 
 | 2D6  | Event                                             |
 | ---- | ------------------------------------------------- |
-| 2-6  | Unfavorable encounter or Disaster (Roll for Omen) |
+| 2-6  | Unfavorable encounter or Disaster (Roll for Spark) |
 | 7    | Nothing                                           |
-| 8-12 | Favorable Encounter or Fortune (Roll for Omen)    |
+| 8-12 | Favorable Encounter or Fortune (Roll for Spark)    |
 
 **Note:** Remember that staying overnight and eating cost money! The more days you stay in a landing without doing anything or failing to get work, the thinner your finances will shrink. 
 

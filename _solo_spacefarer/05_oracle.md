@@ -22,8 +22,8 @@ When you need to determine the outcome of actions that aren't governed by precis
 1. Roll a 1d100 to generate a number between 1 and 100.
 2. Check your roll on the table. The oracle will reveal its response.
 3. Consider the response in the context of your question and the current situation. Does it fit? Does it spark inspiration?
-4. If you have your answer, you're good to go! Play to see what happens. If you want more details, you can roll for Omens.
-5. If you're stuck, you can roll again, try another Omen, or simply rely on your intuition to decide what happens next.
+4. If you have your answer, you're good to go! Play to see what happens. If you want more details, you can roll for Sparks.
+5. If you're stuck, you can roll again, try another Spark, or simply rely on your intuition to decide what happens next.
 
 | Probability         | No, and  | No      | No, but  | Yes, but  | Yes      | Yes, and  |
 |---------------------|----------|---------|----------|----------|----------|-----------|
@@ -49,8 +49,8 @@ When the Oracle's response includes a "but," you can roll on the following table
 | 6   | Worsens a major condition        |
 | 7   | Adds a major condition           |
 | 8   | Removes a major condition        |
-| 9   | Positive Omen                    |
-| 10  | Negative Omen                    |
+| 9   | Positive Spark                    |
+| 10  | Negative Spark                    |
 
 ## Plot Twist
 
@@ -79,15 +79,15 @@ A double on your dice when rolling on the Oracle table triggers an extreme resul
 | 91-95 | Unexpected powers or abilities are revealed.                                                                  |
 | 96-00 | Roll on this table two more times. Both results occur. If they are the same result, it becomes more dramatic. |
 
-## Omen
+## Spark
 
-Omens can be invoked in the following cases:
+Sparks can be invoked in the following cases:
 
 1. When you want to pose an open-ended question to the Oracle.
 2. When seeking inspiration.
 3. When invoked through a complication.
 
-Omens are used to inspire a discovery, an event, a character's goal, or a situation. Combine rolls on both of the following tables (Action + Theme) to provide an action and a subject. Then, interpret the result based on the context of the question and your current situation.
+Sparks are used to inspire a discovery, an event, a character's goal, or a situation. Combine rolls on both of the following tables (Action + Theme) to provide an action and a subject. Then, interpret the result based on the context of the question and your current situation.
 
 ### Actions
 

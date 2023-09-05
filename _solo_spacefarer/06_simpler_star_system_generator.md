@@ -12,7 +12,7 @@ The map is 8x10 hexes wide. Each hex represents the distance of 1 parsec.
 
 ### Number of Stars (rolla a d10 per hex)
 
-| d10  | Number of Stars                       |
+| d10 | Number of Stars                       |
 | --- | ------------------------------------- |
 | 1-5 | No stars                              |
 | 6-9 | A moderate number of stars (roll 1d4) |
@@ -20,13 +20,13 @@ The map is 8x10 hexes wide. Each hex represents the distance of 1 parsec.
 
 ### Stellar Class (d6)
 
-| d6     | Stellar Class               |
-|--------|-------------------------------|
-| 1-2 | Red Dwarf                    |
-| 3-4 | Main Sequence |
-| 5-6 | Giant/Supergiant       |
+| d6  | Stellar Class    |
+| --- | ---------------- |
+| 1-2 | Red Dwarf        |
+| 3-4 | Main Sequence    |
+| 5-6 | Giant/Supergiant |
 
-## Stella System
+## Stellar System
 
 Once you have determined the number and class of stars in the star sector, you can generate the details of a specific star system using the following tables.
 
@@ -226,3 +226,4 @@ Once you have determined the number and class of stars in the star sector, you c
 | 86-90  | Presence of a galactic city                |
 | 91-95  | Presence of a crashed spaceship            |
 | 96-100 | Presence of a divinity or celestial entity |
+

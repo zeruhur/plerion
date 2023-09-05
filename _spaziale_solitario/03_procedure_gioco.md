@@ -15,11 +15,11 @@ Segui questa procedura quando un PG atterra su un nuovo pianeta. Se non possiedi
   - **Comprare/Vendere merci o attrezzature:** se sei un Trasportatore dedicato al commercio speculativo, questo è il momento giusto per fare la tua magia.
 - **Tira per l'Evento:**
 
-| 2D6  | Evento                                                 |
-| ---- | ------------------------------------------------------ |
-| 2-6  | Incontro sfavorevole o Disastro (Tira per il Presagio) |
-| 7    | Nulla                                                  |
-| 8-12 | Incontro favorevole o Fortuna (Tira per il Presagio)   |
+| 2D6  | Evento                                                   |
+| ---- | -------------------------------------------------------- |
+| 2-6  | Incontro sfavorevole o Disastro (Tira per una Scintilla) |
+| 7    | Nulla                                                    |
+| 8-12 | Incontro favorevole o Fortuna (Tira per una Scintilla)   |
 
 **Nota:** Ricorda che pernottare e mangiare costa denaro! Più giorni rimani in un luogo senza fare nulla o senza riuscire a trovare lavoro, più si assottiglieranno le tue finanze.
 
