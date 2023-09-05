@@ -1,5 +1,9 @@
 # Mission Generator
 
+Missions are complex and delicate assignments that can generate long arcs of events for your solo game. They always have a Patron who may or may not coincide with the Client (you decide whether to separate them by pulling on their respective tables). 
+
+Also in this generator, use only the tables that you find really useful.
+
 ## Mission Types
 
 | D10 | Mission Type          |

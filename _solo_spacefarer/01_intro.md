@@ -1,8 +1,10 @@
 # Intro
 
-Welcome to _Solo Starfarer_. This booklet serves as a companion to "Loner," the Space Opera Adventure Game based on Cairn. To make use of these additional rules, you'll require the core book. Here, you won't find information on character creation, combat, or equipment.
+Welcome to _Solo Starfarer_. This booklet serves as a companion to _Plerion_, the Space Opera Adventure Game based on Cairn. To make use of these additional rules, **you'll require the Core Book**. 
 
-Within these pages, you'll discover suggested approaches and procedures, but consider them as flexible guidelines. All its components are modules that you can "turn on or off" according to your taste. After all, this is your game!  Do you wish to chart the vast reaches of interstellar space? Utilize the exploration procedure and the star system generation tables from the core book. Interested in scavenging a derelict vessel adrift in the cosmos? Employ the installation generation system and embark on your exploration. Fancy venturing into speculative trading? Why not!
+Here, you won't find information on character creation, combat, or equipment.
+
+Within these pages, you'll discover suggested approaches and procedures, but consider them as flexible guidelines. All its components are modules that you can "turn on or off" according to your taste. After all, this is your game!  Do you wish to chart the vast reaches of interstellar space? Use the Exploration Procedure and the Star System Generation tables. Interested in scavenging a derelict vessel adrift in the cosmos? Employ the Installations Generator and embark on your exploration. Fancy venturing into speculative trading? Why not!
 
 The only limit is your imagination. Here, we offer you a structural framework for those moments when inspiration may be lacking to kickstart your adventure.
 
@@ -20,15 +22,11 @@ If you are not familiar with Solo-RPGs, here are some excellent introductory gui
 - _Solo Roleplaying: A brief introduction_ by Alex Yari https://t.ly/oM_l6
 - _Solo RPG Basics_ https://t.ly/f62eq
 
-If you want to try something simpler before embarking on a modular, procedural game like this, I have written Loner, a very light Solo-RPG written with beginners in mind. It's free! https://zeruhur.itch.io/loner-2nd-edition
+If you want to try something simpler before embarking on a modular, procedural game like this, Zotiquest Games published _Loner_, a very light Solo-RPG written with beginners in mind. It's free! https://zeruhur.itch.io/loner-2nd-edition
 
-## Kickstart
+## Kickstart Your Adventure
 
-In this game, you are the protagonist of your adventure, where your wit, strength, and luck will help you overcome obstacles and achieve your goals. 
-
-Your character embarks on their adventure on a planet surrounded by unexplored starry expanses generated at random. Follow the story that unfolds from your actions, but don't forget to be creative and make choices along the way. Your gaming experience depends on how you choose to tackle these challenges.
-
-If you've never played an RPG or even a solo RPG before, you might be wondering what to do once your character is generated! Here are some guidelines to kickstart your adventure:
+If you've never played an RPG or even a solo RPG before, you might be wondering what to do! Here are some guidelines to kickstart your adventure:
 
 1. **Create a Character:** Before beginning the game, create your character following the core rules.
 2. **Choose a Path:** will give you a role, additional resources and more background to immerse yourself in the game universe.

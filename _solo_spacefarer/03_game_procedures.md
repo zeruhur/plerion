@@ -1,6 +1,6 @@
 # Game Procedures
 
-The following procedures will help you give structure to your solitaire game. You are not necessarily obliged to follow them; use them only if they are helpful and adapt them where you feel it is necessary.
+The following procedures will help you give structure to your solitaire game. You do not neet to follow them. Use them only if they are helpful and adapt them where you feel it is necessary.
 
 ## Ground Procedures
 
@@ -71,21 +71,19 @@ As Salvager you will find yourself exploring derelict ships and other abandoned 
 | 8-10  | Clue regarding next encounter |
 | 11-12 | Advantage                     |
 
-## Draw Interstellar Maps
-...
-
 ## Build a Planetary Adventure
+
+Sometimes you might want to get out of the spaceport and explore planetary territory. In this case, the following procedure will help you quickly define a map to navigate.
 
 ### Choose A Theme
 
-1. Pick a theme for the area. You can roll a Omen to get inspired.
-2. Come up with an adventure premise (you can roll a Omen or use the Mission Generator).
-3. Decide on a ruling faction, with traits & motive (roll on the NPC and Faction Generator).
+1. Pick a theme for the area. You can roll a _Omen_ to get inspired.
+2. Come up with an adventure premise (you can roll a _Omen_ or use the _Mission Generator_).
+3. Decide on a ruling faction, with traits & motive (roll on the _NPC and Faction Generator_).
 4. Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
 
-Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
-
 ### Draw A Planetary Map
+
 1. Take a sheet of paper or a virtual canvas.
 2. Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
 3. Generate at least 3 Points of Interest: take in consideration the theme(s) and factions. Put these wherever the lines cross.
@@ -99,3 +97,4 @@ Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The
 3. Roll area/junction for an installation.
 
 You do not need to do this for ever single POI, only those that interest you.
+

@@ -1,5 +1,7 @@
 # Resolve Uncertainty
 
+In a solo game you will have to manage your character and the game world at the same time. But you're not writing a novel! Subverting your expectations and being surprised by the unpredictability of the shots is an integral part of this style of play. Here you will find an Oracle and other tools to help you introduce and manage the uncertainty of actions. The Oracle is an aid to generate unpredictability, but it is not a person. You will have to be the one to interpret its responses.
+
 ## Taking Actions
 Characters can undertake various actions and challenges. 
 1. Some actions involve no risk or uncertainty and are simply resolved in the emerging narrative. 

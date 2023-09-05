@@ -1,5 +1,9 @@
 # NPC and Faction Generator
 
+Use the following tables to generate NPCs, Factions or Corporations and their goals and traits.
+
+Use the Reaction tables to determine their predisposition toward the PC.
+
 ## NPCs
 
 | D20 | NPC          |

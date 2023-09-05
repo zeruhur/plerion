@@ -1,5 +1,7 @@
 # Rumors Generator
 
+Rumors may or may not be true (ask the Oracle!) but they are in any case an effective hook for generating adventure and fiction
+
 These tables can help you generate intriguing and varied rumors to drive your solo play.
 
 ## Rumor Source
