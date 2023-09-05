@@ -32,6 +32,31 @@
 | 11  | Uncover a conspiracy                    |
 | 12  | Liberate a planet under enemy siege     |
 
+## Patrons
+
+| D20 | Patron              |
+| --- | ------------------- |
+| 1   | Aristocrat          |
+| 2   | Financier           |
+| 3   | Trader              |
+| 4   | Celebrity           |
+| 5   | Colonial supervisor |
+| 6   | Corporate employee  |
+| 7   | Recruiter           |
+| 8   | Cult leader         |
+| 9   | Diplomat            |
+| 10  | Border traveler     |
+| 11  | Financier           |
+| 12  | Rebel Leader        |
+| 13  | Tycoon              |
+| 14  | High Priest         |
+| 15  | Secret agent        |
+| 16  | Manufacturer        |
+| 17  | Dock guardian       |
+| 18  | Rebel leader        |
+| 19  | Explorer Ship Pilot |
+| 20  | Mercenary Captain   |
+
 ## Clients
 
 | D10 | Client                           |

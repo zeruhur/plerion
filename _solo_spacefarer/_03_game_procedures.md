@@ -71,4 +71,31 @@ As Salvager you will find yourself exploring derelict ships and other abandoned 
 | 8-10  | Clue regarding next encounter |
 | 11-12 | Advantage                     |
 
+## Draw Interstellar Maps
+...
 
+## Build a Planetary Adventure
+
+### Choose A Theme
+
+1. Pick a theme for the area. You can roll a Omen to get inspired.
+2. Come up with an adventure premise (you can roll a Omen or use the Mission Generator).
+3. Decide on a ruling faction, with traits & motive (roll on the NPC and Faction Generator).
+4. Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
+
+Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
+
+### Draw A Planetary Map
+1. Take a sheet of paper or a virtual canvas.
+2. Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
+3. Generate at least 3 Points of Interest: take in consideration the theme(s) and factions. Put these wherever the lines cross.
+4. Generate regional features for each POI using tables and placing results in those POIs where it makes most sense.
+5. Place additional (especially hidden) dangers, encounters or NPC’s in some of the POI.
+6. Add some travel/route complications, taking in consideration any POIs along the way.
+
+### Create Encounters
+1. Make an encounter table (either 1d6 or 2d6), with at least one result tied to the party or its members.
+2. Details on any Artifact (Who wants it? Where is it now? Why wasn’t it ransacked before?). Include maps.
+3. Roll area/junction for an installation.
+
+You do not need to do this for ever single POI, only those that interest you.
