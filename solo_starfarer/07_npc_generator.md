@@ -1,4 +1,4 @@
-# NPC and Faction Generator
+# NPC and Factions Generator
 
 Use the following tables to generate NPCs, Factions or Corporations and their goals and traits.
 

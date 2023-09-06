@@ -9,9 +9,13 @@ It's inspired by classic science fiction and the RPGs that emulate it, but with 
 **Plerion** is an adventure game for one **referee** and at least one other player.
 Players act as hardened spacers exploring, exploiting and commerce through the vastness of space in the far future.
 
+**NEW!!!**
+Do you want to play alone? Now _Solo Starfarer_ is [available](/solo_starfarer/00_narrative.md)!
+
 Sources of inspiration:
 - Classic Traveller
 - Jack Vance's Gaen Reach
 - Mass Effect
 - Becky Chambers's Wayfarer Series
 - David Brin's Uplift Series
+

@@ -1,4 +1,4 @@
-# Installation Generator
+# Installations Generator
 
 Installations are not necessarily wrecks, but are any kind of artificial structure with a purpose and many environments to explore. This generator is generic and will help you procedurally navigate the exploration of an installation. Refine the results wisely and when in doubt ask questions of the Oracle.
 

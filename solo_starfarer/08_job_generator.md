@@ -1,4 +1,4 @@
-# Space Job Generator
+# Space Jobs Generator
 
 A job is a short and less complex assignment than a mission, for when you are on a budget and need to quickly line your pockets.
 

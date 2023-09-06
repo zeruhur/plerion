@@ -1,4 +1,4 @@
-# Settlement Generator
+# Settlements Generator
 
 When you land on an outpost or explore planetary expanses it may become necessary to generate information about the settlement you encounter. This generator will help you with the task.
 

@@ -1,4 +1,4 @@
-# Credits
+# Credits & License
 
 - The tables in the NPCs and Factions Generators section is taken from _Any Planet is Earth_ CC BY Jim Parkin.
 - Some texts and the Complication and Plot Twist tables in the Resolve Uncertainty section are taken from Ironsworn, created by Shawn Tomkin, and licensed for our use under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
