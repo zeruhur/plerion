@@ -18,9 +18,3 @@ _Ma quando il bagliore svanisce, mi ritrovo di nuovo nella sala di carico, confu
 
 _Non ho tempo per riflettere ulteriormente, poiché improvvisamente il relitto inizia a tremare violentemente. I corridoi si riempiono di detriti che si staccano dalle pareti, e il suono assordante mi fa sobbalzare. Con una corsa frenetica, corro verso la mia navicella spaziale, sperando di raggiungerla prima che tutto collassi._
 
-_Benvenuto in La strada delle stelle, un gioco di ruolo solitario fantascientifico di stile old school!_
-
-_In questo gioco spaziale di genere fantascientifico, sarai catapultato nel ruolo di un audace esploratore spaziale che dovrà affrontare pericoli mortali e combattere contro creature aliene in intricati relitti spaziali e pianeti selvaggi. Sarai immerso in un'avventura avvincente, ricca di sfide e misteri, dove la tua abilità tattica, la tua potenza di fuoco e la tua fortuna saranno fondamentali per superare gli ostacoli e raggiungere i tuoi obiettivi._
-
-_Preparati a immergerti in un universo colmo di tecnologia avanzata, scoperte cosmiche e intrighi interstellari, dove ogni tua scelta avrà un impatto significativo e il destino dell'avventura sarà interamente nelle tue mani. Prepara la tua astronave e intraprendi un epico viaggio solitario attraverso questo universo di fantascienza, pronto a vivere l'avventura più emozionante della tua vita!_
-

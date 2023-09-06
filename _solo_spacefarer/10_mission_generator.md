@@ -57,7 +57,7 @@ Also in this generator, use only the tables that you find really useful.
 | 15  | Secret agent        |
 | 16  | Manufacturer        |
 | 17  | Dock guardian       |
-| 18  | Rebel leader        |
+| 18  | Kingpin             |
 | 19  | Explorer Ship Pilot |
 | 20  | Mercenary Captain   |
 

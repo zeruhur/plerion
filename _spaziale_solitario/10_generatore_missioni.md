@@ -57,7 +57,7 @@ Inoltre, in questo generatore, utilizza solo le tabelle che ritieni davvero util
 | 15  | Agente Segreto                          |
 | 16  | Produttore                              |
 | 17  | Guardiano del Porto                     |
-| 18  | Leader Ribelle                          |
+| 18  | Boss Malavitoso                         |
 | 19  | Pilota dell'astronave degli Esploratori |
 | 20  | Capitano di Mercenari                   |
 
