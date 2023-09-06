@@ -1,4 +1,4 @@
-# Plerion - Solo Spacefarer
+# Plerion - Solo Starfarer
 
 _I cautiously approach the derelict, anchoring my spaceship to the deformed scaffolding with a slight, eerie creaking sound. As I cross the threshold, I sense a feeling of unease, as if time itself has frozen in this place._
 
