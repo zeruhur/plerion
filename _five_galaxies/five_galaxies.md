@@ -6,33 +6,33 @@ toc: yes
 
 # Introduction
 
-Welcome to the universe of Plerion, where adventure and danger await in the depths of space. The Five Galaxies is parte of a series of booklets that will guide you through the wonders and perils of this universe.
+Welcome to the universe of *Plerion*, where adventure and danger await in the depths of space. The Five Galaxies is parte of a series of booklets that will guide you through the wonders and perils of this universe.
 
 In addition to the Core Rules are also available *Solo Starfarer*, a solitaire game supplement, and *The Book of Cosmic Creatures* a bestiary with nearly 200 alien monsters to populate your adventures.
 
 In this booklet, we will take a closer look at the geography and history of the Five Galaxies. From the bustling trade routes of Charted Space to the uncharted expanses of the oddspace, we will explore the worlds and systems that make up this universe.
 
-From the ancient and powerful civilizations that span multiple galaxies, to the small independent nations that struggle to survive on the fringes of Charted Space, the universe of Plerion is full of intrigue and conflict.
+From the ancient and powerful civilizations that span multiple galaxies, to the small independent nations that struggle to survive on the fringes of Charted Space, the universe of *Plerion* is full of intrigue and conflict.
 
 Get ready to embark on an epic space opera adventure, where you will encounter strange and wondrous creatures, explore the ruins of lost civilizations, and face the challenges of life in the depths of space.
 
 ## A brief overview
 
-Plerion is set in a vast and dynamic universe where humanity shares the stars with numerous alien species. The known universe is divided into five galaxies, each with its own unique history, cultures, and conflicts.
+*Plerion* is set in a vast and dynamic universe where humanity shares the stars with numerous alien species. The known universe is divided into five galaxies, each with its own unique history, cultures, and conflicts.
 
-At the heart of Plerion’s universe is the ability to travel faster than light through a dimension called oddspace. This discovery opened the door to interstellar travel, allowing civilizations to explore and colonize the galaxy. The Five Galaxies of Plerion are home to countless star systems, planets, habitats, and space stations, each with their own dangers and opportunities.
+At the heart of Plerion’s universe is the ability to travel faster than light through a dimension called oddspace. This discovery opened the door to interstellar travel, allowing civilizations to explore and colonize the galaxy. The Five Galaxies of *Plerion* are home to countless star systems, planets, habitats, and space stations, each with their own dangers and opportunities.
 
-Humans are not the only species in Plerion, and they are not the most prominent. The galaxy is home to numerous alien species, some of which are as old as the galaxies themselves. Extinct species have left behind artifacts and lost technologies that can be found in ruins and archaeological sites. The multiculturalism of known space generates both growth and conflict, with great empires covering vast territories and small independent nations fighting to maintain their sovereignty.
+Humans are not the only species in *Plerion*, and they are not the most prominent. The galaxy is home to numerous alien species, some of which are as old as the galaxies themselves. Extinct species have left behind artifacts and lost technologies that can be found in ruins and archaeological sites. The multiculturalism of known space generates both growth and conflict, with great empires covering vast territories and small independent nations fighting to maintain their sovereignty.
 
 Charting the galaxy is profitable, with governments and organizations willing to pay well for data on new targets and territories. Fast travel is possible through natural and artificial wormholes, which reduce the time it takes to traverse the vast expanses of space between clusters. The Charted Space is dotted with military, commercial, and industrial stations that form the nodes of the travel network.
 
-Venturing out on a mission in Plerion is a risky business that involves facing uncharted expanses, landing on unknown planets facing their alien cultures, or facing the dangers of abandoned installations or derelict ships. Spacers have different ways of making profit, but all of them are risky. Paramilitary and mercenary missions are a great source of income, while interstellar trade, search for artifacts, and exploration missions are other common activities of spacers.
+Venturing out on a mission in *Plerion* is a risky business that involves facing uncharted expanses, landing on unknown planets facing their alien cultures, or facing the dangers of abandoned installations or derelict ships. Spacers have different ways of making profit, but all of them are risky. Paramilitary and mercenary missions are a great source of income, while interstellar trade, search for artifacts, and exploration missions are other common activities of spacers.
 
-Despite the dangers, starfaring travel in Plerion is as common as traveling by plane nowadays, with planets, regions, and nations communicating and trading through routes discovered continuously through oddspace. Due to the limited capacity of fuel tanks, it is commonly recommended to trace routes that end travel in well-known star systems, or at least in one served by a base to refuel.
+Despite the dangers, starfaring travel in *Plerion* is as common as traveling by plane nowadays, with planets, regions, and nations communicating and trading through routes discovered continuously through oddspace. Due to the limited capacity of fuel tanks, it is commonly recommended to trace routes that end travel in well-known star systems, or at least in one served by a base to refuel.
 
 The sidereal space is vast and dangerous, and out there, you are almost always alone. In case of trouble, nobody is likely to help you. Alien creatures, pathogens, and unfamiliar technology are the order of the day in uncharted regions. The Charted Space is not so well-known, and there are billions of unknown systems waiting to be explored and exploited.
 
-In Plerion, technology is not all at the same level in Charted Space, and it varies by country/species and from core to fringe of each one. Exporting advanced technology is profitable but can cause severe problems. Interspecies relationships are complex, with cosmopolitanism being a dominant trait of empires and distrust or xenophobia of smaller nations. Spacers are usually open and welcoming and have no problem working with people of other species.
+In *Plerion*, technology is not all at the same level in Charted Space, and it varies by country/species and from core to fringe of each one. Exporting advanced technology is profitable but can cause severe problems. Interspecies relationships are complex, with cosmopolitanism being a dominant trait of empires and distrust or xenophobia of smaller nations. Spacers are usually open and welcoming and have no problem working with people of other species.
 
 ## Introducing the Five Galaxies
 
@@ -64,10 +64,10 @@ As we explore this chapter, we will uncover the complex relationships between th
       - **System 1:** The Dominion of Aquilaria, a powerful empire led by the Lynem species. Aquilaria controls a significant portion of the Andromeda Galaxy, utilizing their unique amphibian physiology and expansive military forces to enforce their rule.
       - **System 2:** The United Federation of Avaros, a democratic federation composed of various species, including the Lynem. Avaros is known for its commitment to diplomacy, cultural diversity, and pursuit of knowledge.
       - **System 3:** The Technocratic Union of Skopalia, a highly advanced civilization governed by the Che-esune species. Skopalia excels in technological innovation and scientific progress, utilizing their expertise to advance their society and maintain dominance.
-      - **System 4:** The Commonwealth of Elyros, a cooperative society of avian Bles colonies. Elyros emphasizes mutual cooperation, resource sharing, and cultural preservation, enabling them to thrive in the diverse environments of the Andromeda Galaxy.
+      - **System 4:** The Commonwealth of Elyros, a cooperative society of avian Wrulisu colonies. Elyros emphasizes mutual cooperation, resource sharing, and cultural preservation, enabling them to thrive in the diverse environments of the Andromeda Galaxy.
   - **Exploration and Mapping Efforts:** Exploration and mapping efforts in the Andromeda Galaxy have been extensive, with various factions and organizations vying for control over uncharted systems and valuable resources. Major expeditions have uncovered ancient civilizations, mysterious ruins, and unexplored frontiers.
   - **Distinctive Traits:** The Andromeda Galaxy stands out in the vast cosmos with its colossal expanse, regal spiral arms, and an abundance of globular clusters. Within its cosmic borders lie a wealth of celestial wonders, providing awe-inspiring vistas and enigmatic scientific revelations.
-  - **Dominant Species:** The major powers in the Andromeda Galaxy consist of the Lynem, Che-esune, and Bles species. Each species plays a significant role in the governance and influence within their respective empires or organizations.
+  - **Dominant Species:** The major powers in the Andromeda Galaxy consist of the Lynem, Che-esune, and Wrulisu species. Each species plays a significant role in the governance and influence within their respective empires or organizations.
   - **Major Conflicts or Alliances:** The Dominion of Aquilaria and the United Federation of Avaros have a history of tensions and conflicts over territorial claims. The Technocratic Union of Skopalia and the Commonwealth of Elyros maintain diplomatic relations, occasionally collaborating on scientific endeavors.
   - **Technology Level:** Technological advancements in the Andromeda Galaxy are remarkable, with each major power showcasing unique areas of expertise. The Dominion of Aquilaria excels in military technology, while the Technocratic Union of Skopalia is renowned for its scientific achievements and cutting-edge innovations.
   - **Resources and Trade:** The Andromeda Galaxy is rich in resources, including valuable minerals, energy sources, and habitable planets. Trade networks connect the major powers, fostering economic cooperation and the exchange of goods, technologies, and cultural influences.
@@ -102,13 +102,13 @@ As we explore this chapter, we will uncover the complex relationships between th
   - **Notable Systems:**
       - \*\*System 1: \*\*The Elyrian System, home to the Commonwealth of Elyros. This system is characterized by lush habitable planets and a vibrant avian civilization.
       - **System 2:** The Skopalian Cluster, a collection of star systems under the Technocratic Union of Skopalia. Known for their technological prowess, the Che-esune species dominates this region.
-      - **System 3:** The Blesian Nexus, a cluster of systems governed by the Bles species within the Commonwealth of Elyros. These systems are known for their cooperative society and resource sharing.
+      - **System 3:** The Wrulisian Nexus, a cluster of systems governed by the Wrulisu species within the Commonwealth of Elyros. These systems are known for their cooperative society and resource sharing.
       - **System 4:** The Hetsusian Enclave, a region controlled by the Confederacy of Enthor. Populated by the Hetsu species, this cluster is characterized by their irritable temperament and formidable size.
   - **Exploration and Mapping Efforts:** The Triangulum Galaxy has been the subject of extensive exploration and mapping efforts by various civilizations. Notable expeditions include the charting of star systems and the discovery of habitable planets within the Commonwealth of Elyros.
   - **Distinctive Traits:** The Triangulum Galaxy is renowned for its abundance of young stellar clusters, star-forming regions, and diverse ecosystems. It is a hub of scientific exploration and cultural exchange.
-  - **Dominant Species:** The dominant species in the Triangulum Galaxy include the Bles, Che-esune, and Hetsu, who govern their respective regions within the Commonwealth of Elyros and the Confederacy of Enthor.
+  - **Dominant Species:** The dominant species in the Triangulum Galaxy include the Wrulisu, Che-esune, and Hetsu, who govern their respective regions within the Commonwealth of Elyros and the Confederacy of Enthor.
   - **Major Conflicts or Alliances:** The Commonwealth of Elyros and the Confederacy of Enthor maintain a cautious relationship, with occasional tensions arising from territorial disputes. However, they have also engaged in limited alliances to address common threats or conflicts.
-  - **Technology Level:** The Triangulum Galaxy exhibits a range of technological advancements. The Technocratic Union of Skopalia boasts advanced technology, while the Bles species within the Commonwealth of Elyros excels in cooperative endeavors.
+  - **Technology Level:** The Triangulum Galaxy exhibits a range of technological advancements. The Technocratic Union of Skopalia boasts advanced technology, while the Wrulisu species within the Commonwealth of Elyros excels in cooperative endeavors.
   - **Resources and Trade:** The Triangulum Galaxy is rich in resources, including habitable planets, rare minerals, and advanced technologies. Trade routes within the Commonwealth of Elyros facilitate the exchange of goods and cultural experiences.
 
 ## Large Magellanic Cloud
@@ -381,64 +381,31 @@ The Five Galaxies are home to a diverse array of species, each with their unique
 ## Overview of the Major Powers
 
 1.  **Dominion of Aquilaria**
-
-<!-- end list -->
-
   - **Species:** Lynem
   - **Location:** Primarily located in the Andromeda Galaxy, with scattered outposts in the Triangulum and Milky Way Galaxies.
   - **Government:** Monarchial Empire
   - **Summary:** The Dominion of Aquilaria is a vast empire ruled by the Lynem species. The Aquilarians dominate the aquatic realms of the Andromeda Galaxy. Their empire extends across multiple star systems, encompassing both underwater habitats and terrestrial colonies. The Dominion maintains a strict hierarchy, with a monarch at its helm, and their advanced technology and military prowess make them a formidable force in intergalactic affairs.
-
-<!-- end list -->
-
 2.  **United Federation of Avaros**
-
-<!-- end list -->
-
   - **Species:** Lynem
   - **Location:** Primarily located in the Milky Way Galaxy, with extensive trade networks throughout the Triangulum and Large Magellanic Cloud.
   - **Government:** Federation
   - **Summary:** The United Federation of Avaros is a collective of Lynem tribes and communities that have united under a common goal of promoting peace, cooperation, and interstellar trade. The Lynem, known for their pangolin-like features and disdainful temperament, have established a vast network of trade routes connecting various star systems in the Milky Way. The Federation operates on a democratic model, with representatives from each member tribe participating in decision-making processes. Their emphasis on diplomacy and cultural exchange has made them a significant player in the intergalactic community.
-
-<!-- end list -->
-
 3.  **Technocratic Union of Skopalia**
-
-<!-- end list -->
-
   - **Species:** Che-esune
-  - \*\*Location: \*\*Concentrated in the Triangulum Galaxy, with minor territorial claims in the neighboring galaxies.
+  - **Location:** Concentrated in the Triangulum Galaxy, with minor territorial claims in the neighboring galaxies.
   - **Government:** Technocratic Republic
   - **Summary:** The Technocratic Union of Skopalia is a highly advanced civilization led by the Che-esune species. Known for their unique blend of technological expertise and aggressive demeanor, the Skopalian society is structured around scientific progress and meritocracy. They have mastered the art of harnessing natural resources and have developed groundbreaking technologies that have propelled them to the forefront of intergalactic innovation. The Technocratic Union operates as a republic, with elected representatives overseeing various specialized departments and councils.
-
-<!-- end list -->
-
 4.  **Empire of Wrulis**
-
-<!-- end list -->
-
   - **Species:** Tesu
   - **Location:** Spread across the Large Magellanic Cloud and neighboring clusters, with a presence in the Milky Way Galaxy.
   - **Government:** Monarchial Empire
   - **Summary:** The Empire of Wrulis is a formidable empire ruled by the Tesu species. With their reptilian physiology and flighty temperament, the Tesu have built a vast empire that spans multiple star systems. Known for their adaptability and resilience, the Wrulis Empire has thrived in diverse environments, from lush planets to desolate wastelands. Under the leadership of their monarch, the Tesu have established a hierarchical society where ancient traditions and strict codes of conduct shape their governance and interactions with other species.
-
-<!-- end list -->
-
 5.  **Commonwealth of Elyros**
-
-<!-- end list -->
-
   - **Species:** Wrulisu
   - **Location:** Found throughout the Triangulum and Small Magellanic Cloud, with a growing presence in the Andromeda Galaxy.
   - **Government:** Commonwealth
   - **Summary:** The Commonwealth of Elyros is a collective of avian Wrulisu colonies that have come together to form a cooperative society. Known for their irritable temperament and formidable size, the Wrulisu have established a vast network of colonies in various star systems. The Commonwealth operates on a system of shared governance, with each colony having a representative in the central decision-making body. Their focus on mutual cooperation, resource sharing, and cultural preservation has allowed them to thrive in the diverse environments of the Triangulum and beyond.
-
-<!-- end list -->
-
 6.  **Confederacy of Enthor**
-
-<!-- end list -->
-
   - **Species:** Hetsu
   - **Location:** Primarily located in the Small Magellanic Cloud, with expanding influence in neighboring clusters.
   - **Government:** Confederacy
