@@ -1,8 +1,8 @@
 # Major Species
 
-In the vast expanse of Plerion’s Five Galaxies, numerous species and civilizations have flourished, each with their own unique characteristics, cultures, and interactions. This chapter delves into the diverse tapestry of sentient beings that inhabit the Charted Space, providing a glimpse into the major species that shape the intergalactic landscape. From amphibian Lynem to avian Wrulisu, reptilian Tesu to mammalian Che-esune, the chapter explores their physical traits, cultural nuances, and relationships with other species, including humans.
+In the vast expanse of the Five Galaxies, numerous species and civilizations have flourished, each with their own unique characteristics, cultures, and interactions. This chapter delves into the diverse tapestry of sentient beings that inhabit the Charted Space, providing a glimpse into the major species that shape the intergalactic landscape. From amphibian Lynem to avian Wrulisu, reptilian Tesu to mammalian Che-esune, the chapter explores their physical traits, cultural nuances, and relationships with other species, including humans.
 
-While the species presented in this chapter are only a selection of the rich tapestry of life that populates the Five Galaxies, they represent a cross-section of the diverse civilizations that have shaped this universe.
+While the species featured in this chapter are just a glimpse of the abundant variety of life populating the Five Galaxies, they exemplify a range of diverse civilizations that have been instrumental in shaping this universe.
 
 ## Overview
 
@@ -69,7 +69,7 @@ While the species presented in this chapter are only a selection of the rich tap
 
 **Physical Characteristics:**
 
--   **Appearance:** The Che-esune is a medium-sized humanoid mammal with distinct features. They have a horse head, dog ears, and a bottlenose dolphin-like snout. They lack a visible nose, and their body features a thick neck and two medium-length tentacle arms that end in two-toed hooves. The Che-esune has an insect-like torso with a thick waist, chimpanzee-like legs, and a fish tail. Their body is covered in rubbery skin, with one half sandy brown with vivid green speckles and the other half black and light blue separated by a thin gray line. The lower body is beige with vivid green diamond patterns.
+-   **Appearance:** The Che-esune is a medium-sized humanoid mammal with distinct features. They have a horse head, dog ears, and a bottlenose dolphin-like snout. Their body features a thick neck and two medium-length arms that end in two-toed hooves. They are covered in rubbery skin, with one half sandy brown with vivid green speckles and the other half black and light blue separated by a thin gray line. The lower body is beige with vivid green diamond patterns.
 -   **Physiology:** The Che-esune has an average height of 5 feet (1.5 meters) and an average lifespan of 131 years. They reach maturity at around 46 years of age and begin breeding at 27 years. Each mating results in five offspring every 34 years. The Che-esune population is excessive in numbers. They have an aggressive temperament. Their diet primarily consists of fruits.
 
 **Cultural Characteristics:**
@@ -127,7 +127,7 @@ While the species presented in this chapter are only a selection of the rich tap
 
 **Physical Characteristics:**
 
--   **Appearance:** The Wrulisu is a colossal, unique, avian species with distinct features. It has a wide head, two salmon pink feline eyes, and a top-heavy beak. The Wrulisu possesses a thin neck and two stubby, useless arms. Its upper body resembles that of a human, with a concave stomach, a high waist, and a small, prism-shaped lower body. The species has two stubby large forelegs and two long, powerful back legs, with no tail. The head, neck, shoulders, and arms of the Wrulisu are covered in tiny feathers, while the rest of its body is adorned with rigid feathers. The Wrulisu are completely ochre in color.
+-   **Appearance:** The Wrulisu is a colossal, unique, avian species with distinct features. It has a wide head, two salmon pink feline eyes, and a top-heavy beak. The Wrulisu possesses a thin neck and two stubby, useless arms. The species has two stubby large forelegs and two long, powerful back legs, with no tail. The head, neck, shoulders, and arms of the Wrulisu are covered in tiny feathers, while the rest of its body is adorned with rigid feathers. The Wrulisu are completely ochre in color.
 -   **Physiology:** The Wrulisu towers at an average height of 87 feet (26.5 meters) and has an average lifespan of 120 years. They reach maturity at around 20 years of age, at which point they are ready to breed. Each breeding period results in three offspring every decade. The Wrulisu population is abundant, with many individuals existing within the species. They have an irritable temperament and primarily consume fish and herbs.
 
 **Cultural Characteristics:**
