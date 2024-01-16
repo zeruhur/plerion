@@ -1,8 +1,8 @@
 # Introduction
 
-Welcome to the universe of Plerion, where adventure and danger await in the depths of space. The Five Galaxies is part of a series of booklets that will guide you through the wonders and perils of this universe.
+Welcome to the universe of **Plerion**, where adventure and danger await in the depths of space. **The Five Galaxies** is part of a series of booklets that will guide you through the wonders and perils of this universe.
 
-In addition to the Core Rules, there are also available _Solo Starfarer_, a solo game supplement, and _The Book of Cosmic Creatures_ a bestiary with nearly 200 aliens and monsters to populate your adventures.
+In addition to the _Core Rules_, there are also available _Solo Starfarer_, a solo game supplement, and _The Book of Cosmic Creatures_ a bestiary with nearly 200 aliens and monsters to populate your adventures.
 
 In this booklet, we will take a closer look at the geography and history of the Five Galaxies. From the bustling trade routes of Charted Space to the uncharted expanses of the oddspace, we will explore the worlds and systems that make up this universe.
 
