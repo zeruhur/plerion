@@ -16,20 +16,6 @@ _Plerion_ is set in a vast and dynamic universe where humanity shares the stars 
 
 At the heart of _Plerion_’s universe is the ability to travel faster than light through a dimension called _oddspace_. This discovery opened the door to interstellar travel, allowing civilizations to explore and colonize the galaxy. The Five Galaxies of Plerion are home to countless star systems, planets, habitats, and space stations, each with their own dangers and opportunities.
 
-Humans are not the only species in this universe, and they are not the most prominent. The Five Galaxies are home to numerous alien species, some of which are as old as the galaxies themselves. Extinct species have left behind artifacts and lost technologies that can be found in ruins and archaeological sites. The multiculturalism of the Charted Space generates both growth and conflict, with great empires covering vast territories and small independent nations fighting to maintain their sovereignty.
-
-Charting the galaxy is profitable, with governments and organizations willing to pay well for data on new targets and territories. Fast travel is possible through natural and artificial wormholes, which reduce the time it takes to traverse the vast expanses of space between clusters. The Charted Space is dotted with military, commercial, and industrial stations that form the nodes of the travel network.
-
-Venturing out on a mission in the Five Galaxies is a risky business that involves facing uncharted expanses, landing on unknown planets facing their alien cultures, or facing the dangers of abandoned installations or derelict ships. Spacers have different ways of making profit, but all of them are risky. Paramilitary and mercenary missions are a great source of income, while interstellar trade, search for artifacts, and exploration missions are other common activities of spacers.
-
-Despite the dangers, starfaring travel in the Five Galaxies is as common as traveling by plane nowadays, with planets, regions of space, and nations communicating and trading through routes discovered continuously through _oddspace_. Due to the limited capacity of fuel tanks, it is commonly recommended to trace routes that end travel in well-known star systems, or at least in one served by a base to refuel.
-
-The sidereal space is vast and dangerous, and out there, you are almost always alone. In case of trouble, nobody is likely to help you. Alien creatures, pathogens, and unfamiliar technology are the order of the day in uncharted regions. The Charted Space is not so well-known, and there are billions of unknown systems waiting to be explored and exploited.
-
-Technology is not all at the same level in Charted Space, and it varies by country/species and from core to fringe of each one. Exporting advanced technology is profitable but can cause severe problems. Interspecies relationships are complex, with cosmopolitanism being a dominant trait of empires and distrust or xenophobia of smaller nations. Spacers are usually open and welcoming and have no problem working with people of other species.
-
-## Introducing the Five Galaxies
-
 The Five Galaxies refer to the Local Group of galaxies, which spans over three million light-years in diameter. The Local Group is a cluster of galaxies that includes the Milky Way, Andromeda, Triangulum, Large Magellanic Cloud, Small Magellanic Cloud, and many smaller galaxies and clusters.
 
 To humans, these galaxies are known by these names, but other species may use different names. In the Sidereal Year 5.151.267 (7.396 CE), the main species that inhabit this region of space are the Lynem, Che-esune, Tesu, Wrulisu, Omale, and Hetsu. Humans are also present, but they are a minor species in this corner of the universe.
@@ -41,4 +27,16 @@ Each of the Five Galaxies has its unique characteristics and inhabitants, and th
 Triangulum is a smaller galaxy, but it is home to some of the most ancient and advanced species in the Local Group. The Large and Small Magellanic Clouds are dwarf galaxies that orbit the Milky Way and are home to some unique species that are not found elsewhere in the Local Group.
 
 Despite their differences, the Five Galaxies are interconnected through trade, diplomacy, and conflict. Many species have formed alliances and federations to protect their interests and maintain peace and stability in the region. However, the emergence of new threats and the shifting balance of power have created a volatile and unpredictable situation in the Five Galaxies.
+
+Humans are not the only species in this universe, and they are not the most prominent. The Five Galaxies are home to numerous alien species, some of which are as old as the galaxies themselves. Extinct species have left behind artifacts and lost technologies that can be found in ruins and archaeological sites. The multiculturalism of the Charted Space generates both growth and conflict, with great empires covering vast territories and small independent nations fighting to maintain their sovereignty.
+
+Charting the galaxy is profitable, with governments and organizations willing to pay well for data on new targets and territories. Fast travel is possible through natural and artificial wormholes, which reduce the time it takes to traverse the vast expanses of space between clusters. The Charted Space is dotted with military, commercial, and industrial stations that form the nodes of the travel network.
+
+Venturing out on a mission in the Five Galaxies is a risky business that involves facing uncharted expanses, landing on unknown planets facing their alien cultures, or facing the dangers of abandoned installations or derelict ships. Spacers have different ways of making profit, but all of them are risky. Paramilitary and mercenary missions are a great source of income, while interstellar trade, search for artifacts, and exploration missions are other common activities of spacers.
+
+Despite the dangers, starfaring travel in the Five Galaxies is as common as traveling by plane nowadays, with planets, regions of space, and nations communicating and trading through routes discovered continuously through _oddspace_. Due to the limited capacity of fuel tanks, it is commonly recommended to trace routes that end travel in well-known star systems, or at least in one served by a base to refuel.
+
+The sidereal space is vast and dangerous, and out there, you are almost always alone. In case of trouble, nobody is likely to help you. Alien creatures, pathogens, and unfamiliar technology are the order of the day in uncharted regions. The Charted Space is not so well-known, and there are billions of unknown systems waiting to be explored and exploited.
+
+Technology is not all at the same level in Charted Space, and it varies by country/species and from core to fringe of each one. Exporting advanced technology is profitable but can cause severe problems. Interspecies relationships are complex, with cosmopolitanism being a dominant trait of empires and distrust or xenophobia of smaller nations. Spacers are usually open and welcoming and have no problem working with people of other species.
 
