@@ -11,15 +11,15 @@
 
 2.  **United Federation of Avaros**
 
--   **Species:** Lynem
+-   **Species:** Multispecies
 -   **Location:** Primarily located in the Milky Way Galaxy, with extensive trade networks throughout the Triangulum and Large Magellanic Cloud.
 -   **Government:** Federation
--   **Summary:** The United Federation of Avaros is a collective of Lynem tribes and communities that have united under a common goal of promoting peace, cooperation, and interstellar trade. The Lynem, known for their pangolin-like features and disdainful temperament, have established a vast network of trade routes connecting various star systems in the Milky Way. The Federation operates on a democratic model, with representatives from each member tribe participating in decision-making processes. Their emphasis on diplomacy and cultural exchange has made them a significant player in the intergalactic community.
+-   **Summary:** The United Federation of Avaros is a collective of tribes and communities that have united under a common goal of promoting peace, cooperation, and interstellar trade. The Avarosian have established a vast network of trade routes connecting various star systems in the Milky Way. The Federation operates on a democratic model, with representatives from each member tribe participating in decision-making processes. Their emphasis on diplomacy and cultural exchange has made them a significant player in the intergalactic community.
 
 3.  **Technocratic Union of Skopalia**
 
 -   **Species:** Che-esune
--   **Location: **Concentrated in the Triangulum Galaxy, with minor territorial claims in the neighboring galaxies.
+-   **Location:** Concentrated in the Triangulum Galaxy, with minor territorial claims in the neighboring galaxies.
 -   **Government:** Technocratic Republic
 -   **Summary:** The Technocratic Union of Skopalia is a highly advanced civilization led by the Che-esune species. Known for their unique blend of technological expertise and aggressive demeanor, the Skopalian society is structured around scientific progress and meritocracy. They have mastered the art of harnessing natural resources and have developed groundbreaking technologies that have propelled them to the forefront of intergalactic innovation. The Technocratic Union operates as a republic, with elected representatives overseeing various specialized departments and councils.
 
@@ -28,34 +28,34 @@
 -   **Species:** Tesu
 -   **Location:** Spread across the Large Magellanic Cloud and neighboring clusters, with a presence in the Milky Way Galaxy.
 -   **Government:** Monarchial Empire
--   **Summary:** The Empire of Wrulis is a formidable empire ruled by the Tesu species. With their reptilian physiology and flighty temperament, the Tesu have built a vast empire that spans multiple star systems. Known for their adaptability and resilience, the Wrulis Empire has thrived in diverse environments, from lush planets to desolate wastelands. Under the leadership of their monarch, the Tesu have established a hierarchical society where ancient traditions and strict codes of conduct shape their governance and interactions with other species.
+-   **Summary:** The Empire of Wrulis is a formidable empire ruled by the Tesu species.The Tesu have built a vast empire that spans multiple star systems. Known for their adaptability and resilience, the Wrulis Empire has thrived in diverse environments, from lush planets to desolate wastelands. Under the leadership of their monarch, the Tesu have established a hierarchical society where ancient traditions and strict codes of conduct shape their governance and interactions with other species.
 
 5.  **Commonwealth of Elyros**
 
 -   **Species:** Wrulisu
 -   **Location:** Found throughout the Triangulum and Small Magellanic Cloud, with a growing presence in the Andromeda Galaxy.
 -   **Government:** Commonwealth
--   **Summary:** The Commonwealth of Elyros is a collective of avian Wrulisu colonies that have come together to form a cooperative society. Known for their irritable temperament and formidable size, the Wrulisu have established a vast network of colonies in various star systems. The Commonwealth operates on a system of shared governance, with each colony having a representative in the central decision-making body. Their focus on mutual cooperation, resource sharing, and cultural preservation has allowed them to thrive in the diverse environments of the Triangulum and beyond.
+-   **Summary:** The Commonwealth of Elyros is a collective of avian Wrulisu colonies that have come together to form a cooperative society. The Wrulisu have established a vast network of colonies in various star systems. The Commonwealth operates on a system of shared governance, with each colony having a representative in the central decision-making body. Their focus on mutual cooperation, resource sharing, and cultural preservation has allowed them to thrive in the diverse environments of the Triangulum and beyond.
 
 6.  **Confederacy of Enthor**
 
 -   **Species:** Hetsu
 -   **Location:** Primarily located in the Small Magellanic Cloud, with expanding influence in neighboring clusters.
 -   **Government:** Confederacy
--   **Summary:** The Confederacy of Enthor is a loose alliance of Hetsu clans that have banded together for mutual defense and resource sharing. Known for their intimidating size and irritable temperament, the Hetsu have formed a confederacy that spans multiple star systems. Each clan retains its autonomy, with representatives coming together to address matters of common interest. The Confederacy is primarily focused on protecting their territories and preserving their unique way of life, while cautiously engaging in limited interactions with other major powers.
+-   **Summary:** The Confederacy of Enthor is a loose alliance of Hetsu clans that have banded together for mutual defense and resource sharing. The Hetsu have formed a confederacy that spans multiple star systems. Each clan retains its autonomy, with representatives coming together to address matters of common interest. The Confederacy is primarily focused on protecting their territories and preserving their unique way of life, while cautiously engaging in limited interactions with other major powers.
 
 ## Dominion of Aquilaria
 
 **Brief History:**
 
--   The Dominion of Aquilaria traces its roots back to the ancient Lynem civilization that originated in the Andromeda Galaxy.
+-   The Dominion of Aquilaria traces its roots back to the ancient Lynem civilization that originated in the Triangulum Galaxy.
 -   Over the centuries, the Lynem expanded their influence, establishing colonies on terrestrial planets and developing advanced technology.
 -   The Dominion experienced a period of rapid expansion during the Golden Age, where they forged alliances, conquered neighboring territories, and established a centralized monarchy.
 -   The Dominion’s history is marked by conflicts with rival powers, territorial disputes, and internal power struggles, but they have managed to maintain their dominance in the Andromeda Galaxy.
 
 **Cultural Characteristics:**
 
--   The Lynem culture places a strong emphasis on harmony with water and nature, reflecting their amphibious origins.
+-   The Lynem culture places a strong emphasis on harmony with water and nature.
 -   They have a deep spiritual connection to aquatic environments and consider them sacred spaces.
 -   The Dominion values wisdom, honor, and loyalty, with a strict code of conduct that governs their interactions and societal structure.
 -   Lynem society is highly communal, with an appreciation for art, music, and storytelling.
@@ -67,7 +67,7 @@
 
 **Conflicts and Alliances:**
 
--   The Dominion has engaged in conflicts with rival powers, such as the United Federation of Avaros and the Technocratic Union of Skopalia, over territorial disputes and resources.
+-   The Dominion has engaged in conflicts with rival powers, such as Technocratic Union of Skopalia, over territorial disputes and resources.
 -   They have formed alliances with other major empires to counter common threats, such as the Empire of Wrulis and the Commonwealth of Elyros.
 
 **Dominant Species or Factions:**
@@ -104,7 +104,7 @@
 
 **Brief History:**
 
--   The United Federation of Avaros was formed through the unification of multiple species in the Triangulum Galaxy, with the aim of creating a harmonious and cooperative society.
+-   The United Federation of Avaros was formed through the unification of multiple species in the Milky Way Galaxy, with the aim of creating a harmonious and cooperative society.
 -   The federation emerged from a period of turmoil, as various species in the region sought to overcome conflicts and establish a system of shared governance.
 -   Through diplomatic negotiations and a commitment to mutual prosperity, the United Federation of Avaros was established as a beacon of inter-species cooperation and progress.
 
@@ -116,8 +116,8 @@
 
 **Territorial Claims:**
 
--   The United Federation of Avaros holds control over a significant portion of the Triangulum Galaxy, with numerous star systems and habitable planets falling under its jurisdiction.
--   They maintain diplomatic outposts and trade networks in the Andromeda and Milky Way Galaxies, extending their influence beyond their core territories.
+-   The United Federation of Avaros holds control over a significant portion of the Milky Way Galaxy, with numerous star systems and habitable planets falling under its jurisdiction.
+-   They maintain diplomatic outposts and trade networks in the Triangulum Galaxy and Large Magellanic Cloud, extending their influence beyond their core territories.
 
 **Conflicts and Alliances:**
 
@@ -151,7 +151,7 @@
 
 **Overall Influence and Power:**
 
--   The United Federation of Avaros wields considerable influence in the Triangulum Galaxy, promoting peace, stability, and inter-species cooperation.
+-   The United Federation of Avaros wields considerable influence in the Milky Way Galaxy, promoting peace, stability, and inter-species cooperation.
 -   Their diplomatic prowess and commitment to equality have earned them respect and admiration among other major powers in the Five Galaxies.
 -   The federation’s advancements in scientific research, cultural exchange, and governance serve as models for intergalactic cooperation and peaceful coexistence.
 
@@ -309,7 +309,6 @@
 
 **Overall Influence and Power:**
 
--   The Commonwealth of Elyros wields considerable influence within the Triangulum and Small Magellanic Cloud, as well as the expanding presence in the Andromeda Galaxy.
 -   Their cooperative society and advanced understanding of avian technology make them respected contributors to intergalactic affairs.
 -   The Commonwealth’s commitment to mutual cooperation, cultural preservation, and resource sharing sets them apart as a unique and influential power within the Five Galaxies.
 
@@ -360,7 +359,6 @@
 
 **Overall Influence and Power:**
 
--   The Confederacy of Enthor wields significant influence within the Small Magellanic Cloud, maintaining a formidable presence through their defensive capabilities.
 -   While their influence beyond their primary territories is limited, the Thetesis’ reputation as fierce warriors and their strategic alliances contribute to their impact within the Five Galaxies.
 -   The Confederacy’s focus on territorial defense and self-preservation sets them apart as a unique power, preserving their autonomy while cautiously engaging with the wider intergalactic community.
 
