@@ -18,9 +18,7 @@ At the heart of _Plerion_’s universe is the ability to travel faster than ligh
 
 The Five Galaxies refer to the Local Group of galaxies, which spans over three million light-years in diameter. The Local Group is a cluster of galaxies that includes the Milky Way, Andromeda, Triangulum, Large Magellanic Cloud, Small Magellanic Cloud, and many smaller galaxies and clusters.
 
-To humans, these galaxies are known by these names, but other species may use different names. In the Sidereal Year 5.151.267 (7.396 CE), the main species that inhabit this region of space are the Lynem, Che-esune, Tesu, Wrulisu, Omale, and Hetsu. Humans are also present, but they are a minor species in this corner of the universe.
-
-The Conglomerate of Sol is the human nation with Earth at its center and spans a fraction of Orion’s Arm in the Milky Way. The Conglomerate has established outposts and colonies in various locations in the Five Galaxies and beyond, but their influence is limited compared to other species.
+To humans, these galaxies are known by these names, but other species may use different names. In the Sidereal Year 5.151.267 (7.396 CE), the main species that inhabit this region of space are the Lynem, Che-esune, Tesu, Wrulisu, Omale, and Hetsu.
 
 Each of the Five Galaxies has its unique characteristics and inhabitants, and they are interconnected through a network of wormholes and hyperlanes. The Andromeda galaxy is the largest and most familiar of the Five Galaxies, and it is home to a diverse array of species and civilizations. Andromeda is the closest galaxy to the Milky Way, which is also home to many advanced species.
 
@@ -28,7 +26,9 @@ Triangulum is a smaller galaxy, but it is home to some of the most ancient and a
 
 Despite their differences, the Five Galaxies are interconnected through trade, diplomacy, and conflict. Many species have formed alliances and federations to protect their interests and maintain peace and stability in the region. However, the emergence of new threats and the shifting balance of power have created a volatile and unpredictable situation in the Five Galaxies.
 
-Humans are not the only species in this universe, and they are not the most prominent. The Five Galaxies are home to numerous alien species, some of which are as old as the galaxies themselves. Extinct species have left behind artifacts and lost technologies that can be found in ruins and archaeological sites. The multiculturalism of the Charted Space generates both growth and conflict, with great empires covering vast territories and small independent nations fighting to maintain their sovereignty.
+Humans are not the only species in this universe, and they are not the most prominent. The Conglomerate of Sol is the human nation with Earth at its center and spans a fraction of Orion’s Arm in the Milky Way. The Conglomerate has established outposts and colonies in various locations in the Five Galaxies and beyond, but their influence is limited compared to other species.
+
+The Five Galaxies are home to numerous alien species, some of which are as old as the galaxies themselves. Extinct species have left behind artifacts and lost technologies that can be found in ruins and archaeological sites. The multiculturalism of the Charted Space generates both growth and conflict, with great empires covering vast territories and small independent nations fighting to maintain their sovereignty.
 
 Charting the galaxy is profitable, with governments and organizations willing to pay well for data on new targets and territories. Fast travel is possible through natural and artificial wormholes, which reduce the time it takes to traverse the vast expanses of space between clusters. The Charted Space is dotted with military, commercial, and industrial stations that form the nodes of the travel network.
 
