@@ -32,7 +32,7 @@ In this chapter we'll unravel the intricate web of relationships among celestial
 
 -   **Notable Systems & Clusters:**
     -   **Praovin:** the home system of the Union of Praovin
-    -   **Sol:** the home system of the Conglomerate of So, containing various habitable and resource-rich planets.
+    -   **Sol:** the home system of the Conglomerate of Sol, containing various habitable and resource-rich planets.
     -   **Warshaa:** another notable system hosting a diverse range of planets and celestial bodies, including gas giants and potentially habitable moons.
 -   **Exploration and Mapping Efforts:** The Milky Way Galaxy has been extensively explored and mapped by various species, including Humans, Lynem, Che-esune, Tesu, Wrulisu, and Hetsu. Numerous expeditions and scientific missions have aimed to chart star systems, study celestial phenomena, and uncover the galaxy’s secrets.
 -   **Distinctive Traits:** The Milky Way Galaxy is renowned for its majestic spiral structure, with grand spiral arms that wrap around a central bulge. It contains a diverse range of star types, planetary systems, and stellar nurseries, fostering the birth and evolution of countless civilizations.
