@@ -1,7 +1,3 @@
----
-title: 'The Five Galaxies'
-subtitle: 'A setting for Plerion'
----
 # Introduction
 
 Welcome to the universe of Plerion, where adventure and danger await in the depths of space. The Five Galaxies is part of a series of booklets that will guide you through the wonders and perils of this universe.
