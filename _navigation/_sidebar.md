@@ -47,3 +47,18 @@
 * [Settlements Generator](/solo_starfarer/en/12_settlement_generator.md)
 * [Creatures](/solo_starfarer/en/13_creatures.md)
 * [Credits & License](/solo_starfarer/en/99_credits.md)
+
+--- 
+
+**The Five Galaxies**
+
+* [Introduction](/five_galaxies/en/01_introduction.md)
+* [The Charted Space](/five_galaxies/en/02_the_charted_space.md)
+* [Major Species](/five_galaxies/en/03_major_species.md)
+* [Minor Species](/five_galaxies/en/04_minor_species.md)
+* [Major Empires and Powers](/five_galaxies/en/05_major_empires_and_powers.md)
+* [Major Factions in the Five Galaxies](/five_galaxies/en/06_major_factions_in_the_five_galaxies.md)
+* [Technology & Resources](/five_galaxies/en/07_technology_and_resources.md)
+* [Exploring the Five Galaxies](/five_galaxies/en/08_exploring_the_five_galaxies.md)
+* [Travel & Trade](/five_galaxies/en/09_travel_and_trade.md)
+* [License](/five_galaxies/en/10_license.md)

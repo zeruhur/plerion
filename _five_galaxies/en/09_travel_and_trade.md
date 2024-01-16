@@ -1,4 +1,4 @@
-# Travel and Trade
+# Travel & Trade
 
 Intergalactic trade is the lifeblood of relations between star systems, infusing vitality into diplomatic connections, propelling economic advancement, and nurturing a diverse interplay of cultural interactions. At the core of this expansive, interconnected universe stands the Wormhole Access Network. This remarkable network symbolizes the pinnacle of interstellar travel, acting as a portal that opens up unknown territories and permits swift voyages through the immense stretches of the Five Galaxies.
 
