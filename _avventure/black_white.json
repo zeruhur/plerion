@@ -1,0 +1,52 @@
+{
+  "colorInk": "#000000",
+  "colorShading": "#000000",
+  "colorWater": "#F2F2F2",
+  "colorBg": "#F2F2F2",
+  "colorPaper": "#FFFFFF",
+  "strokeThin": "0.5",
+  "strokeHatching": "0.5",
+  "strokeNormal": "1.0",
+  "strokeThick": "2.0",
+  "shadowColor": "#FFFFFF",
+  "shadowDist": "0.1",
+  "hatchingStyle": "Stonework",
+  "hatchingStrokes": "3",
+  "hatchingSize": "0.5",
+  "hatchingDistance": "0.67",
+  "fontTitle": {
+    "italic": false,
+    "size": 48,
+    "face": null,
+    "bold": true,
+    "embedded": "title_font"
+  },
+  "fontStory": {
+    "italic": true,
+    "size": 24,
+    "face": null,
+    "bold": false,
+    "embedded": "story_font"
+  },
+  "fontNotes": {
+    "italic": false,
+    "size": 20,
+    "face": null,
+    "bold": false,
+    "embedded": "notes_font"
+  },
+  "fontLegend": {
+    "italic": false,
+    "size": 24,
+    "face": null,
+    "bold": false,
+    "embedded": "notes_font"
+  },
+  "fontSymbols": {
+    "italic": false,
+    "size": 30,
+    "face": null,
+    "bold": true,
+    "embedded": "ref_font"
+  }
+}

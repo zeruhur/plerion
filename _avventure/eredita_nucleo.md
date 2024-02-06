@@ -113,9 +113,111 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 
 - **Trama emergente:** L'universo di gioco si evolve in risposta alle azioni dei personaggi, con nuovi equilibri di potere, scoperte scientifiche e alleanze politiche che ridefiniscono il panorama galattico. Questi cambiamenti forniscono un terreno fertile per ulteriori avventure, sfide e la continua espansione della narrativa creata dai giocatori.
 
-## Risorse di gioco
+## Materiale di gioco
 
-### Personaggi non giocanti
+### Luoghi Chiave
+
+#### La stazione spaziale "Nexus di Avaros"
+
+- **Descrizione**: Il Nexus di Avaros è una mastodontica stazione spaziale che orbita vicino a un varco spaziale naturale, funzionando come un hub per il commercio, la diplomazia e l'esplorazione intergalattica. La sua struttura è un intreccio di architetture di molte culture, riflettendo la diversità delle specie che la frequentano. Luci soffuse, mercati affollati, e aree di incontro segrete compongono il tessuto del Nexus.
+
+- **Importanza per l'avventura**: Possibile punto di partenza per i personaggi nell'avventura, offrendo loro l'opportunità di raccogliere informazioni sul Nucleo di Armonia, stringere alleanze e prepararsi per le esplorazioni future. È anche un luogo dove possono emergere trame secondarie o incarichi aggiuntivi.
+
+- **Personaggi principali**: 
+  - **Zara Kel**, una nota informatrice e broker di informazioni, che può fornire ai personaggi notizie vitali per un prezzo.
+  - **Comandante Trel**, un ufficiale di sicurezza della stazione con una conoscenza approfondita dei pericoli che si celano nei settori non mappati.
+
+- **Pericoli e sfide**: Il Nexus attira non solo esploratori e commercianti, ma anche criminali, spie e membri di fazioni ostili. Gli incontri possono variare da negoziazioni tese a scontri diretti nei corridoi meno sorvegliati della stazione.
+
+- **Risorse disponibili**: Oltre a un'ampia gamma di attrezzature e tecnologie in vendita, il Nexus offre accesso a database di informazioni astronomiche, storiche e politiche che possono aiutare nella missione.
+
+- **Segreti e misteri**: Si mormora che nel Nexus siano nascoste entrate per una rete di tunnel segreti usati per contrabbando e fuga. Inoltre, alcuni dicono che Zara Kel abbia informazioni su un'antica mappa stellare che conduce a un settore dello spazio non ancora esplorato.
+
+- **Interazione con la trama**: Le decisioni prese e gli alleati acquisiti al Nexus possono influenzare significativamente il corso dell'avventura, aprendo o chiudendo opportunità basate su come i personaggi interagiscono con gli altri nel Nexus.
+
+- **Eventuali collegamenti**: Diverse navette e navi partono regolarmente dal Nexus verso destinazioni note e ignote, offrendo ai personaggi la possibilità di viaggiare verso luoghi chiave dell'avventura come le rovine di Xyphos o il Complesso Astronomico di "Veritas".
+
+#### Le rovine di Xyphos
+
+- **Descrizione**: Xyphos è un pianeta avvolto in mistero, il suo paesaggio è segnato da vasti deserti di sabbia dorata, rovine maestose che si ergono come monumenti di una civiltà perduta, e antichi complessi sotterranei nascosti sotto la superficie. Le strutture, costruite con materiali che hanno resistito alla prova del tempo, riflettono una tecnologia e una conoscenza avanzate, con iscrizioni indecifrabili e simboli che permeano le pareti.
+
+- **Importanza per l'avventura**: Le rovine sono il centro della ricerca del Nucleo di Armonia. I personaggi devono esplorare questo luogo per trovare indizi essenziali che li guidino alla localizzazione del Nucleo, risolvendo enigmi antichi e superando prove progettate per testare i degni.
+
+- **Personaggi principali**: 
+  - **Ariax Thul**, un eremita alieno che ha dedicato la sua vita allo studio delle rovine e potrebbe offrire ai personaggi conoscenze chiave o avvertimenti.
+  - **Spectra**, un'intelligenza artificiale residua dei Guardiani di Xyphos, che assiste o ostacola i visitatori basandosi sui loro meriti.
+
+- **Pericoli e sfide**: Oltre ai pericoli naturali del pianeta, come tempeste di sabbia e fauna aggressiva, le rovine stesse sono protette da sistemi di sicurezza ancora attivi, custodi meccanici, enigmi pericolosi e trappole che richiedono ingegno e abilità per essere superati.
+
+- **Risorse disponibili**: Artefatti antichi, tecnologie dimenticate e frammenti di conoscenza perduta possono essere trovati esplorando le rovine. Tali reperti potrebbero essere utilizzati direttamente dai personaggi o scambiati per informazioni o equipaggiamenti preziosi.
+
+- **Segreti e misteri**: Profondamente all'interno delle rovine si dice ci sia una camera, accessibile solo risolvendo una serie di enigmi complessi, che contiene registrazioni della civiltà estinta, rivelando la vera storia del Nucleo di Armonia e forse persino la sua ubicazione esatta.
+
+- **Interazione con la trama**: La scoperta dei segreti di Xyphos è cruciale per l'avanzamento dell'avventura. Le decisioni prese qui possono influenzare non solo la riuscita della missione ma anche le relazioni con altre fazioni che desiderano il Nucleo per i loro scopi.
+
+- **Eventuali collegamenti**: Antichi portali, una volta attivati, possono fornire un accesso immediato a luoghi lontani, collegando Xyphos direttamente ad altri siti chiave dell'avventura, come il Nexus di Avaros o le Miniere di Cristallo di Lyrae-IX, accelerando i viaggi attraverso la galassia. 
+
+#### Complesso Astronomico di "Veritas" su Kepler-62f
+
+- **Descrizione**: Situato sul remoto pianeta Kepler-62f, il Complesso Astronomico di "Veritas" si staglia contro il cielo stellato come una corona di metallo e vetro. Il complesso è una meraviglia di architettura e tecnologia, dotato di telescopi giganti, laboratori avanzati e archivi digitali che contengono secoli di osservazioni astronomiche. La sua posizione, lontana dalle interferenze luminose e gravitazionali, lo rende il luogo ideale per studi approfonditi dello spazio profondo.
+
+- **Importanza per l'avventura**: "Veritas" gioca un ruolo cruciale nell'avventura, poiché gli scienziati qui hanno raccolto indizi che possono guidare i personaggi verso la localizzazione del Nucleo di Armonia. Le loro ricerche sulle anomalie spaziotemporali offrono intuizioni uniche che nessun altro luogo nell'universo conosciuto può fornire.
+
+- **Personaggi principali**:
+  - **Dr. Lena Varis**, la direttrice del complesso, un'umana considerata una delle menti più brillanti nel campo dell'astrofisica.
+  - **K'thrax**, un ricercatore alieno specializzato in anomalie spaziotemporali, proveniente da una specie sensibile al tessuto dello spazio-tempo.
+
+- **Pericoli e sfide**: Mentre il complesso stesso è un bastione della scienza e della ricerca, gli esperimenti condotti e le anomalie studiate possono talvolta sfuggire al controllo, mettendo a rischio l'equipaggio e i visitatori. Inoltre, spie di fazioni rivali potrebbero tentare di rubare i dati o sabotare le ricerche.
+
+- **Risorse disponibili**: Oltre all'accesso a dati astronomici di inestimabile valore, i personaggi possono usufruire di attrezzature scientifiche avanzate per analizzare reperti, testare teorie o migliorare la loro tecnologia.
+
+- **Segreti e misteri**: Si sussurra che il Dr. Varis abbia condotto studi segreti su un fenomeno spaziotemporale che potrebbe rivelare nuovi modi per utilizzare o interagire con il Nucleo di Armonia, ma tali ricerche sono tenute nascoste agli occhi del pubblico.
+
+- **Interazione con la trama**: L'accesso alle scoperte di "Veritas" potrebbe essere il tassello mancante per localizzare il Nucleo di Armonia. Tuttavia, convincere il personale a condividere le loro informazioni o proteggere il complesso da minacce esterne può richiedere diplomazia, ingegno o forza.
+
+- **Eventuali Collegamenti**: Le scoperte fatte a "Veritas" potrebbero aprire nuove rotte verso luoghi non mappati dell'universo o addirittura verso dimensioni parallele, espandendo enormemente l'ambito dell'avventura e collegando direttamente il complesso ad altri siti chiave della ricerca del Nucleo.
+
+#### La Biblioteca Galattica su Gliese 581c
+
+- **Descrizione**: Gliese 581c ospita una struttura colossale conosciuta come la Biblioteca Galattica, un edificio che si estende sia in superficie che nel sottosuolo del pianeta. Le sue sale infinite sono riempite fino all'orlo con rotoli, libri, cristalli di memoria e terminali di dati che brillano con il sapere accumulato di migliaia di anni. Architetture di ogni forma e dimensione, progettate per accomodare le varie specie che visitano la biblioteca, si intrecciano in un labirinto di conoscenza.
+
+- **Importanza per l'avventura**: La Biblioteca Galattica è una miniera d'oro di informazioni per i personaggi in cerca del Nucleo di Armonia. Testi criptici, antiche profezie e registrazioni scientifiche perdute possono fornire indizi essenziali sulla localizzazione del Nucleo o sui metodi per accedervi.
+
+- **Personaggi principali**:
+  - **Maestro Archivista Yelk**, un anziano custode della biblioteca della specie Thollian, detentore delle chiavi per alcuni dei suoi segreti più ben custoditi.
+  - **Sylas Vorn**, un ricercatore umano ribelle che ha trascorso anni cercando nelle cronache della biblioteca qualsiasi menzione del Nucleo di Armonia.
+
+- **Pericoli e sfide**: La biblioteca è un luogo di studio e riflessione, ma nasconde pericoli nei suoi recessi più oscuri. Custodi automatizzati proteggono sezioni proibite, mentre enigmi e trappole difendono i testi più preziosi o pericolosi.
+
+- **Risorse disponibili**: Oltre all'accesso praticamente illimitato a informazioni e conoscenze, i personaggi possono trovare artefatti storici, mappe stellari antiche e dispositivi di traduzione che possono decifrare anche i linguaggi più oscuri.
+
+- **Segreti e misteri**: Rumori persistenti suggeriscono l'esistenza di una "Sezione Perduta" - una parte della biblioteca dimenticata che contiene conoscenze considerate troppo pericolose o potenti per essere divulgate.
+
+- **Interazione con la trama**: Trovare e interpretare i riferimenti al Nucleo di Armonia richiede tempo, pazienza e intelligenza. La biblioteca può servire come punto di svolta nell'avventura, dove i personaggi raccolgono le informazioni necessarie per proseguire nel loro viaggio o risolvono un puzzle che li avvicina al loro obiettivo.
+
+- **Eventuali collegamenti**: Alcuni testi possono rivelare coordinate di mondi dimenticati, portali nascosti o percorsi verso le rovine di Xyphos, creando un ponte narrativo tra la ricerca nella biblioteca e l'esplorazione fisica di altri luoghi chiave dell'avventura.
+
+### Le Miniere di Cristallo di Lyrae-IX
+
+- **Descrizione**: Le Miniere di Cristallo di Lyrae-IX sono scavate nelle profondità di un pianeta roccioso, un labirinto di caverne e tunnel illuminati da formazioni cristalline che brillano di una luce propria. Questi cristalli, variando in colore dal blu profondo al verde smeraldo, emettono una vibrazione energetica palpabile e hanno la capacità di amplificare, conservare o modificare l'energia che li attraversa.
+
+- **Importanza per l'avventura**: Le miniere offrono una risorsa inestimabile per i personaggi in cerca del Nucleo di Armonia. I cristalli trovati qui possono essere cruciali per decifrare la tecnologia del Nucleo, fungendo da chiavi o componenti per dispositivi in grado di interagire con esso o tracciare la sua ubicazione.
+
+- **Personaggi principali**:
+  - **Gren Valt**, un ingegnere di miniera esperto nella raccolta e lavorazione dei cristalli energetici.
+  - **Tia Seren**, una studiosa aliena che teorizza connessioni tra le proprietà dei cristalli e le reti spaziotemporali.
+
+- **Pericoli e sfide**: Le miniere non sono solo ricche di tesori, ma anche di pericoli. Creature adattate alla vita nelle profondità oscurano gli scavi, mentre le instabili formazioni cristalline possono rilasciare scariche energetiche letali se danneggiate o maneggiate incautamente.
+
+- **Risorse disponibili**: Oltre ai cristalli energetici, le miniere possono contenere depositi di minerali rari e artefatti antichi, abbandonati o persi dai precedenti esploratori che hanno cercato di svelare i segreti dei cristalli.
+
+- **Segreti e misteri**: Si sospetta che al cuore delle miniere esista una "Caverna Maestra" dove i cristalli formano un naturale amplificatore energetico, che potrebbe essere la chiave per creare un dispositivo in grado di localizzare o interagire direttamente con il Nucleo di Armonia.
+
+- **Interazione con la trama**: La ricerca e l'acquisizione dei cristalli energetici nelle miniere possono rappresentare un momento importante nell'avventura, offrendo ai personaggi la tecnologia o le risorse per supportare la loro missione. Le sfide incontrate qui possono anche testare la loro ingegnosità e determinazione.
+
+- **Eventuali collegamenti**: L'esplorazione delle miniere può rivelare collegamenti perduti con altre civiltà antiche o addirittura con i creatori del Nucleo di Armonia, svelando i portali che conducono direttamente alle rovine di Xyphos.
+
+### Personaggi non giocanti principali
 
 #### Amara Singh 
 
@@ -126,6 +228,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Obiettivo**: Assicurare che il Nucleo di Armonia sia utilizzato per il progresso e la protezione dell'umanità, evitando che cada in mani nemiche.
 - **Relazioni**: Potrebbe reclutare il gruppo per missioni di ricognizione o recupero legate al Nucleo, offrendo loro accesso a risorse e informazioni preziose.
 
+**6 PF, 2 Armatura, FOR 10, DES 12, VOL 16, Pistola laser (d6, lunga distanza, precisa)**
+- Comandante determinato con uno sguardo che può incutere sia rispetto che timore.
+- Usa tattiche avanzate e comunicazioni criptate per coordinare le sue truppe.
+- **Effetto speciale**: In caso di danno critico, Amara può richiamare rinforzi.
+
 #### Celris Vael
 
 - **Fazione**: Unione Tecnocratica di Skopalia
@@ -134,6 +241,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Descrizione**: Celris è una figura snella, con pelle di un blu pallido e occhi intensamente luminosi. Il suo modo di parlare è veloce e pieno di termini tecnici, riflettendo la sua mente geniale. È sempre circondato da ologrammi e dispositivi di ultima generazione.
 - **Obiettivo**: Decifrare i segreti del Nucleo di Armonia e integrarne la tecnologia per avanzare la società Skopaliana.
 - **Relazioni**: Celris può cercare esperti o avventurieri che possano assistere in missioni scientifiche o esplorative, promettendo tecnologie avanzate come ricompensa.
+
+**2 PF, 1 Armatura, FOR 10, DES 10, VOL 14, Emissore di campo energetico (d8, corto raggio, disorientante)**
+- Genio della tecnologia con un fascino alieno, occhi che scrutano l'anima.
+- Predilige l'uso di gadget e trappole tecnologiche per neutralizzare i nemici.
+- **Effetto speciale**: Un colpo critico disabilita temporaneamente la tecnologia avversaria nel raggio.
 
 #### Jax Tarren
 
@@ -144,6 +256,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Obiettivo**: Usare il Nucleo di Armonia come leva per negoziare maggiore autonomia per i sistemi sotto il controllo dei grandi imperi.
 - **Relazioni**: Jax potrebbe avvicinare il gruppo per la loro abilità unica o conoscenza del Nucleo, offrendo in cambio supporto militare o un rifugio sicuro.
 
+**7 PF, 3 Armatura, FOR 12, DES 10, VOL 12, Fucile blaster (d10, medio raggio, potente)**
+- Guerriero coraggioso con cicatrici di battaglia, la sua presenza incute coraggio nei suoi alleati.
+- Sfrutta tattiche di guerriglia e conosce i punti deboli dell'avversario.
+- **Effetto speciale**: Un danno critico può demoralizzare gli avversari vicini, riducendo la loro efficacia.
+
 #### Siris Malthezar
 
 - **Fazione**: La Confraternita dell'Ombra Cosmica
@@ -152,6 +269,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Descrizione**: Siris è un essere avvolto in mantelli scuri che nascondono le sue vere sembianze, con occhi che brillano di un freddo fulgore arancione. La sua voce è ipnotica, capace di persuadere o spaventare con poche parole.
 - **Obiettivo**: Ottenere il Nucleo di Armonia per sbloccare poteri che gli permetterebbero di manipolare la realtà a suo piacimento.
 - **Relazioni**: Siris potrebbe tentare di manipolare o ingannare il gruppo per farsi consegnare il Nucleo, o osservarli da lontano, intervenendo solo quando è più vantaggioso per i suoi piani.
+
+**8 PF, 1 Armatura, FOR 12, DES 16, VOL 20, Bastone del Vuoto (d12, lungo raggio, assorbente energia)**
+- Mantiene sempre un aura di mistero, il suo volto è nascosto da ombre.
+- Manipola le energie oscure e può controllare le menti deboli.
+- **Effetto speciale**: Un attacco critico può temporaneamente assoggettare un nemico a combattere al suo fianco.
 
 #### Thalia Kire
 
@@ -162,6 +284,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Obiettivo**: Utilizzare il Nucleo di Armonia per esplorare dimensioni sconosciute e accedere a poteri che trascendono la scienza conosciuta.
 - **Relazioni**: Thalia potrebbe cercare di reclutare il gruppo per aiutare nell'acquisizione del Nucleo, promettendo conoscenze arcane e poteri in cambio del loro aiuto.
 
+**8 PF, 2 Armatura, FOR 10, DES 14, VOL 16, Staffa Arcana (d8, medio raggio, multifunzione magica)**
+- Suo aspetto etereo e la voce melodica nascondono un potente arcano potere.
+- Usa incantesimi per alterare il campo di battaglia a suo vantaggio.
+- **Effetto speciale**: Con un colpo critico, può aprire un portale che disloca un avversario in un'altra dimensione temporaneamente.
+
 #### Dr. Elara Mivon 
 
 - **Fazione**: Scienziati Rinnegati
@@ -170,6 +297,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Descrizione**: Dr. Mivon è una donna di mezza età con occhiali spessi e capelli sempre in disordine, segno delle lunghe ore trascorse sui libri e davanti ai monitor. Nonostante il suo aspetto trascurato, gli occhi brillano di intelligenza e curiosità.
 - **Obiettivo**: Condividere le sue scoperte sul Nucleo di Armonia con chi può utilizzarle per il bene comune, sfidando le restrizioni imposte dalla sua precedente affiliazione.
 - **Relazioni**: Potrebbe aver già avuto contatti indiretti con i personaggi attraverso pubblicazioni o conferenze clandestine. Offre la sua vasta conoscenza e risorse limitate in cambio di nuove informazioni o protezione.
+
+**4 PF, 0 Armatura, FOR 10, DES 12, VOL 14, Dispositivo di hacking (d4, corto raggio, hacking)**
+- Appassionata di conoscenza, sempre circondata da dati e ricerche.
+- Sfrutta la sua intelligenza per manipolare la tecnologia circostante.
+- **Effetto speciale**: Il danno critico permette di disabilitare o prendere il controllo temporaneo di un dispositivo nemico.
 
 #### Dr. Fenix Rahl
 
@@ -180,6 +312,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Obiettivo**: Divulgare la conoscenza proibita raccolta durante i suoi anni di servizio alla Biblioteca Galattica, in particolare le informazioni sul Nucleo di Armonia e le sue potenziali applicazioni, che crede debbano essere accessibili a tutti per il progresso della scienza.
 - **Relazioni**: Dr. Rahl ha lasciato la Biblioteca Galattica dopo aver scoperto tentativi di soppressione delle informazioni sul Nucleo. Si è quindi messo in contatto con reti clandestine di scambio di informazioni e potrebbe cercare l'aiuto dei personaggi per proteggere i suoi dati o assistere in missioni per scoprire ulteriori verità sul Nucleo.
 
+**5 PF, 0 Armatura, FOR 11, DES 13, VOL 15, Generatore di campo di forza (d6, crea barriere, difensivo)**
+- Sempre curioso e disposto a condividere le sue teorie rivoluzionarie.
+- Utilizza la tecnologia per proteggere sé stesso e i suoi alleati.
+- **Effetto speciale**: Un attacco critico rinforza il campo di forza, riflettendo i danni agli attaccanti.
+
 #### Tarn Lyssen
 
 - **Fazione**: Navigatore stellare di Lyrae-IX
@@ -188,6 +325,11 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Descrizione**: Tarn è alto e slanciato, con pelle che riflette lievemente la luce, tipica dei Lyrian. I suoi occhi, privi di iride, sembrano scrutare l'infinito. Veste in modo semplice ma con accessori che denotano il suo status di navigatore.
 - **Obiettivo**: Mappare le rotte spaziotemporali influenzate dal Nucleo di Armonia e esplorare le possibilità che queste offrono.
 - **Relazioni**: Tarn è sempre alla ricerca di collaboratori o protettori disposti ad avventurarsi in zone inesplorate dello spazio. Potrebbe offrire ai personaggi mappe uniche o la guida attraverso passaggi pericolosi in cambio di assistenza nelle sue esplorazioni.
+
+**6 PF, 1 Armatura, FOR 9, DES 15, VOL 13, Compasso Stellare (non combattente, esplorativo)**
+- La sua conoscenza delle stelle lo rende un prezioso alleato in viaggio.
+- Non è un combattente, ma la sua guida può evitare pericoli o scoprire percorsi nascosti.
+- **Effetto speciale**: In situazioni critiche, può rivelare un passaggio sicuro o una via di fuga inaspettata.
 
 #### Varex Sorn 
 
@@ -198,3 +340,113 @@ Un segnale criptico intercettato dal Complesso Astronomico di "Veritas" su Keple
 - **Obiettivo**: Stabilire una pace duratura e garantire che il Nucleo di Armonia sia usato saggiamente, evitando che diventi motivo di conflitto.
 - **Relazioni**: Varex ha creato una vasta rete di contatti in molte fazioni, inclusi l'Ordine del Velo Astrale e la Confraternita dell'Ombra Cosmica. Può agire come un prezioso alleato per i personaggi, fornendo loro informazioni e introduzioni cruciali, purché i suoi obiettivi di pace e neutralità siano rispettati.
 
+### Varex Sorn
+
+**2 PF, 1 Armatura, FOR 8, DES 12, VOL 16, Dispositivo di negoziazione (d4, corto raggio, pacificante)**
+- Diplomatico astuto con la capacità di calmare gli animi e trovare terreni comuni anche nelle situazioni più tese.
+- Eccelle nel risolvere conflitti senza ricorrere alla violenza, sfruttando la sua intelligenza emotiva e la sua vasta conoscenza delle culture.
+- **Effetto speciale**: Un successo critico in una negoziazione con Varex può temporaneamente aumentare l'influenza o il rispetto dei personaggi tra le fazioni coinvolte, aprendo nuove vie diplomatiche o evitando conflitti.
+
+### Creature
+
+#### Agenti della Confraternita dell'Ombra Cosmica
+
+**6 PF, 2 Armatura, FOR 10, DES 12, VOL 10, Lama energetica (d8, veloce)**
+
+- Esperti nell'arte del combattimento corpo a corpo e nell'uso di tecnologie oscurate per guadagnare vantaggi tattici.
+- Utilizzano gadget di occultamento e dispositivi di disturbamento per avvicinarsi inosservati o sfuggire dopo un attacco.
+- **Effetto speciale**: Se infliggono danno critico, l'agente può immediatamente utilizzare un dispositivo di occultamento per scomparire dalla vista, rendendosi più difficile da colpire nel prossimo turno.
+
+#### Cultisti dell'Ordine del Velo Astrale
+
+**5 PF, 2 Armatura, FOR 8, DES 14, VOL 16, Bastoni da combattimento runici (d6, medio raggio, incantato)**
+
+- Misticismo e scienza si fondono nelle loro tattiche, utilizzando incantesimi e dispositivi tecnologici per manipolare il campo di battaglia.
+- Spesso accompagnati da costrutti o entità evocate per assistere in combattimento o compiere azioni specifiche.
+- **Effetto speciale**: Un attacco critico con il loro bastone runico può causare confusione nel bersaglio, riducendone l'efficacia in combattimento per alcuni turni a causa di visioni o percezioni alterate.
+
+### Custode Silente
+
+**8 PF, 1 Armatura, FOR 10, DES 14, VOL 8, Artigli di energia (d4, veloce, perforante)**
+
+- Creature eteree che si muovono in silenzio, apparendo quasi dal nulla per attaccare.
+- Si dissolvono temporaneamente quando colpite, rendendosi intangibili per un breve periodo.
+- **Effetto speciale**: Se infliggono danno critico, il bersaglio è paralizzato dal terrore per un turno.
+
+### Guardiano di Pietra
+
+**12 PF, 3 Armatura, FOR 16, DES 6, VOL 10, Pugni di roccia (d8, potente, schiacciante)**
+
+- Statuesche figure di pietra animate che si attivano per difendere le rovine.
+- Resistono a danni fisici, ma sono vulnerabili a attacchi basati sull'energia.
+- **Effetto speciale**: Un colpo critico può stordire il bersaglio, riducendo la sua capacità di attacco nel turno successivo.
+
+### Ombra Errante
+
+**4 PF, 1 Armatura, FOR 8, DES 16, VOL 12, Lame d'ombra (d6, medio raggio, silenzioso)**
+
+- Silhouette oscure che si muovono tra le ombre, difficili da percepire fino a quando non è troppo tardi.
+- Possono attraversare solidi per brevi distanze, apparendo accanto alle loro prede.
+- **Effetto speciale**: In caso di danno critico, l'ombra drena energia dal bersaglio, guadagnando 1 PF temporaneo.
+
+### Sentinella Luminosa
+
+**7 PF, 2 Armatura, FOR 10, DES 14, VOL 14, Raggi luminosi (d8, lungo raggio, abbagliante)**
+
+- Entità composte di pura luce, emettono intensi fasci luminosi per disorientare e danneggiare gli intrusi.
+- Possono illuminare aree oscure, rendendo impossibile nascondersi o utilizzare l'oscurità a proprio vantaggio.
+- **Effetto speciale**: Un attacco critico abbaglia il bersaglio, riducendo drasticamente la sua precisione per alcuni turni.
+
+### Protettore Etereo
+
+**8 PF, 2 Armatura, FOR 12, DES 14, VOL 14, Onde psichiche (d8, corto raggio, destabilizzante)**
+
+- Guardiani incorporei che manipolano energie psichiche per attaccare la mente dei loro avversari.
+- Difficili da colpire fisicamente a causa della loro natura eterea.
+- **Effetto speciale**: In caso di danno critico, il bersaglio subisce allucinazioni che possono costringerlo a saltare il suo prossimo turno.
+
+### Araldo del Vuoto
+
+**12 PF, 3 Armatura, FOR 14, DES 10, VOL 16, Assorbimento vitale (d10, corto raggio, rigenerante)**
+
+- Creature che si nutrono dell'energia vitale degli esseri viventi, rigenerandosi con ogni attacco riuscito.
+- Emittendo un aura di freddo mortale, rallentano chiunque si avvicini troppo.
+- **Effetto speciale**: Un danno critico consente all'Araldo di recuperare completamente i suoi PF, a scapito della salute del bersaglio.
+
+### Custode del Codice
+
+**4 PF, 1 Armatura, FOR 8, DES 18, VOL 14, Crittografia (non combattente, enigmatico)**
+
+- Entità non bellicose che presentano enigmi e codici crittografici agli intrusi, bloccando il passaggio fino alla loro soluzione.
+- Interagire con loro può rivelare informazioni preziose o trappole nascoste.
+- **Effetto speciale**: Risolvere correttamente un enigma del Custode può rivelare segreti delle rovine o disattivare trappole.
+
+### Guardiano Fasico
+
+**10 PF, 3 Armatura, FOR 10, DES 16, VOL 12, Attacchi fasici (d6, medio raggio, attraversa difese)**
+
+- Capacità di alterare la propria fase di esistenza, rendendo inefficaci gli attacchi fisici normali.
+- Può passare attraverso solidi e ignorare armature non magiche.
+- **Effetto speciale**: Un attacco critico disorienta il bersaglio, causando la perdita del senso dell'orientamento per breve tempo.
+
+### Tessitore di Illusioni
+
+**4 PF, 1 Armatura, FOR 8, DES 13, VOL 15, Illusioni manipolative (d4, lungo raggio, ingannevole)**
+
+- Crea illusioni realistiche per confondere e manipolare gli intrusi, distorcendo la realtà percepita.
+- Le sue illusioni possono imitare sia alleati che pericoli, costringendo gli avversari a second guess their actions.
+- **Effetto speciale**: Un danno critico intrappola il bersaglio in un'illusione paralizzante, rendendolo incapace di agire fino a che non viene soccorso.
+
+### Emissario del Tempo
+
+**8 PF, 2 Armatura, FOR 10, DES 8, VOL 16, Distorsioni temporali (d10, corto raggio)**
+
+- Capace di manipolare brevemente il flusso del tempo, rallentando gli avversari o accelerando se stesso.
+- La sua presenza può causare anomalie temporali minori nelle sue vicinanze.
+- **Effetto speciale**: Un attacco critico causa una distorsione che salta il turno del bersaglio, come se fosse stato congelato nel tempo.
+
+### Tabelle
+
+#### Incarichi aggiuntivi
+
+#### Informazioni astronomiche, storiche e politiche
